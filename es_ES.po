@@ -6752,7 +6752,7 @@ msgstr "<span>Etiquetas:</span>"
 #: search.php:23
 #@ retro
 msgid "read more &rarr;"
-msgstr ""
+msgstr "leer más &rarr;"
 
 #: title.php:83
 #, php-format

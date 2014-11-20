@@ -6752,7 +6752,7 @@ msgstr ""
 #: search.php:23
 #@ retro
 msgid "read more &rarr;"
-msgstr ""
+msgstr "Læs mere &rarr;"
 
 #: title.php:83
 #, php-format
