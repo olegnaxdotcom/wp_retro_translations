@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Retro - Premium Vintage WordPress Theme v3.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-18 18:30:59+0000\n"
+"PO-Revision-Date: 2014-11-20 16:17:07+0000\n"
 "Last-Translator: Stan <stan@olegnax.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: CSL v1.x\n"
-"X-Poedit-Language: Spanish\n"
-"X-Poedit-Country: SPAIN\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
 "X-Poedit-Basepath: \n"
@@ -23,17 +23,17 @@ msgstr ""
 #: 404.php:5
 #@ retro
 msgid "The page you are trying to reach can&apos;t be found"
-msgstr "La página que está tratando de buscar no se puede encontrar"
+msgstr "Siden du prøver at finde kan ikke findes"
 
 #: 404.php:6
 #@ retro
 msgid "Try refining your search, or use the navigation above to locate the post."
-msgstr "Trate de mejorar su búsqueda, o utilizar la navegación para localizar la noticia."
+msgstr "Prøv at søge med et anderledes ord/ sætning, eller brug navigationen ovenover for at lokalisere indlægget."
 
 #: 404.php:7
 #@ retro
 msgid "back to home"
-msgstr "Volver al inicio"
+msgstr "Tilbage til forsiden"
 
 #: classes/Admin/Theme/Element/File/Favicon.php:28
 #: classes/Admin/Theme/Element/File.php:33
@@ -1526,7 +1526,7 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "Submit"
-msgstr "Enviar"
+msgstr "Indsend"
 
 #: classes/Import/Importer.php:308
 #@ retro
@@ -1687,7 +1687,7 @@ msgstr ""
 #: classes/Widget/ContactForm.php:42
 #@ retro
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Navn:"
 
 #: classes/Widget/ContactForm.php:43
 #: woocommerce/order/order-details.php:99
@@ -1704,7 +1704,7 @@ msgstr ""
 #: classes/Widget/ContactForm.php:54
 #@ retro
 msgid "Send"
-msgstr "Enviar"
+msgstr "Sende"
 
 #: classes/Widget/ContactForm.php:78
 #@ retro
@@ -1752,7 +1752,7 @@ msgstr ""
 #: classes/Widget/FeedburnerEmail.php:50
 #@ retro
 msgid "Your E-Mail"
-msgstr "Su E-Mail"
+msgstr "Emailadresse"
 
 #: classes/Widget/FeedburnerEmail.php:76
 #@ retro
@@ -1914,17 +1914,17 @@ msgstr ""
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "0 - Comments"
-msgstr "0 - Comentarios"
+msgstr "0 - Kommentarer"
 
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "1 - Comment"
-msgstr "1 - Comentario"
+msgstr "1- Kommentar"
 
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "% - Comments"
-msgstr "% - Comentarios"
+msgstr "% - Kommentarer"
 
 #: classes/Widget/PopularPosts.php:126
 #: classes/Widget/RecentPosts.php:118
@@ -2025,7 +2025,7 @@ msgstr ""
 #: classes/Widget/Twitter.php:44
 #@ retro
 msgid "There are no public messages."
-msgstr "No hay mensajes públicos."
+msgstr "Der er ingen offentlige beskeder."
 
 #: classes/Widget/Twitter.php:133
 #@ retro
@@ -2092,8 +2092,8 @@ msgstr ""
 #@ retro
 msgid "One Comment"
 msgid_plural "%1$s Comments"
-msgstr[0] "Un Comentario"
-msgstr[1] "%1$s Comentarios"
+msgstr[0] "En Kommentar"
+msgstr[1] "%1$s Kommentarer"
 
 #: comments.php:56
 #: lib/revslider/views/templates/sliders_list.php:19
@@ -2103,7 +2103,7 @@ msgstr[1] "%1$s Comentarios"
 #@ retro
 #@ woocommerce
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: comments.php:59
 #: lib/shortcode/shortcodes/contactForm.php:123
@@ -2126,7 +2126,7 @@ msgstr ""
 #: comments.php:69
 #@ retro
 msgid "Add comment"
-msgstr "Publicar comentario"
+msgstr "Tilføj kommentar"
 
 #: functions.php:275
 #@ retro
@@ -2145,12 +2145,12 @@ msgstr ""
 #: loop-portfolio.php:126
 #@ retro
 msgid "view"
-msgstr "ver"
+msgstr "udsigt"
 
 #: functions.php:413
 #@ retro
 msgid "Something going wrong with connection..."
-msgstr "Algo va mal con conexión..."
+msgstr ""
 
 #: functions.php:622
 #@ retro
@@ -2228,8 +2228,8 @@ msgstr ""
 #@ retro
 msgid "Bag - %d"
 msgid_plural "Bag - %d"
-msgstr[0] "Cesta - %d"
-msgstr[1] "Cesta - %d"
+msgstr[0] "Indkøbskurv - %d"
+msgstr[1] "Indkøbskurv - %d"
 
 #: functions.php:1078
 #, php-format
@@ -2254,7 +2254,7 @@ msgstr[1] ""
 #: functions.php:1080
 #@ retro
 msgid "Add Your Review"
-msgstr "Agregar Su Opinión"
+msgstr "Tilføj Din Anmeldelse"
 
 #: functions.php:1105
 #, php-format
@@ -2265,7 +2265,7 @@ msgstr ""
 #: functions.php:1110
 #@ retro
 msgid "Your comment is awaiting moderation."
-msgstr "Tu comentario está esperando ser moderado."
+msgstr ""
 
 #: header.php:229
 #@ retro
@@ -2277,24 +2277,24 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "My Account"
-msgstr "Mi Cuenta"
+msgstr "Min Konto"
 
 #: header.php:310
 #@ retro
 msgid "Logout"
-msgstr "Cerrar Sesión"
+msgstr "Logge af"
 
 #: header.php:316
 #@ retro
 msgid "Login / Register"
-msgstr "Iniciar Sesión / Registrarse"
+msgstr "Log ind / Tilmeld"
 
 #: header.php:377
 #: lib/revslider/settings/slider_settings_xml_lang.php:5
 #@ retro
 #@ revslider
 msgid "Navigation"
-msgstr "MENÚ"
+msgstr ""
 
 #: lib/metabox/functions.php:95
 #@ retro
@@ -4923,7 +4923,7 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "Register"
-msgstr "Registrarse"
+msgstr ""
 
 #: lib/revslider/views/system/validation.php:62
 #@ retro
@@ -6210,7 +6210,7 @@ msgstr ""
 #@ default
 #@ retro
 msgid "All"
-msgstr "Todos"
+msgstr "Alle"
 
 #: lib/revslider/views/templates/slides.php:16
 #: lib/revslider/views/templates/slides.php:36
@@ -6365,7 +6365,7 @@ msgstr ""
 #: lib/revslider/views/templates/slides_posts.php:1
 #@ retro
 msgid "Sort by"
-msgstr "Ordenar por"
+msgstr "Sorter efter"
 
 #: lib/revslider/views/templates/slides_posts.php:1
 #@ retro
@@ -6404,7 +6404,7 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #: lib/revslider/views/themepunch-google-fonts.php:47
 #@ retro
@@ -6457,7 +6457,7 @@ msgstr ""
 #: lib/shortcode/contactForm/contactsend.php:56
 #@ retro
 msgid "Your message has been successfully sent to us!"
-msgstr "Su mensaje ha sido enviado. Muchas gracias."
+msgstr "Din besked er blevet sendt til os!"
 
 #: lib/shortcode/shortcodes/contactForm.php:9
 #@ retro
@@ -6642,7 +6642,7 @@ msgstr ""
 #: loop.php:284
 #@ retro
 msgid "Comments (0)"
-msgstr "Comentarios (0)"
+msgstr "Kommentarer (0)"
 
 #: lib/shortcode/shortcodes.php:249
 #: loop.php:180
@@ -6651,7 +6651,7 @@ msgstr "Comentarios (0)"
 #: loop.php:284
 #@ retro
 msgid "Comment (1)"
-msgstr "Comentario (1)"
+msgstr "Kommentar (1)"
 
 #: lib/shortcode/shortcodes.php:249
 #: loop.php:180
@@ -6660,7 +6660,7 @@ msgstr "Comentario (1)"
 #: loop.php:284
 #@ retro
 msgid "Comments (%)"
-msgstr "Comentarios (%)"
+msgstr "Kommentarer (0)"
 
 #: lib/shortcode/shortcodes.php:250
 #: loop.php:181
@@ -6669,12 +6669,12 @@ msgstr "Comentarios (%)"
 #: loop.php:285
 #@ retro
 msgid "Read more"
-msgstr "Leer más"
+msgstr "Læs mere"
 
 #: lib/shortcode/shortcodes.php:366
 #@ retro
 msgid "SORT BY"
-msgstr "ORDENAR POR"
+msgstr "SORTER EFTER"
 
 #: lib/shortcode/shortcodes.php:380
 #: loop-portfolio.php:11
@@ -6685,7 +6685,7 @@ msgstr ""
 #: lib/shortcode/shortcodes.php:384
 #@ retro
 msgid "more info"
-msgstr "más info"
+msgstr "mere info"
 
 #: lib/shortcode/shortcodes.php:637
 #@ retro
@@ -6705,7 +6705,7 @@ msgstr ""
 #: lib/tweaks.php:347
 #@ retro
 msgid "To search type and hit enter"
-msgstr "Busca en el sitio"
+msgstr "Søg på webstedet"
 
 #: lib/tweaks.php:348
 #@ retro
@@ -6715,7 +6715,7 @@ msgstr ""
 #: loop-portfolio.php:16
 #@ retro
 msgid "Learn more"
-msgstr ""
+msgstr "Lære mere"
 
 #: loop-portfolio.php:210
 #: loop-testimonials.php:112
@@ -6723,7 +6723,7 @@ msgstr ""
 #: search.php:63
 #@ retro
 msgid "Not Found"
-msgstr "Sin resultados"
+msgstr "Ikke Fundet"
 
 #: loop-portfolio.php:213
 #: loop-testimonials.php:115
@@ -6731,28 +6731,28 @@ msgstr "Sin resultados"
 #: search.php:66
 #@ retro
 msgid "Sorry, but you are looking for something that isn't here."
-msgstr "Lo sentimos, pero usted está buscando algo que no está aquí."
+msgstr "Beklager, men du er på udkig efter noget, der ikke er her."
 
 #: loop.php:54
 #: loop.php:127
 #@ retro
 msgid "Author: "
-msgstr "Autor:"
+msgstr ""
 
 #: loop.php:101
 #@ retro
 msgid "<span>Categories:</span>"
-msgstr "<span>Categorías:</span>"
+msgstr "<span>Kategorier:</span>"
 
 #: loop.php:104
 #@ retro
 msgid "<span>Tags:</span>"
-msgstr "<span>Etiquetas:</span>"
+msgstr ""
 
 #: search.php:23
 #@ retro
 msgid "read more &rarr;"
-msgstr "leer más &rarr;"
+msgstr "Læs mere &rarr;"
 
 #: title.php:83
 #, php-format
@@ -6775,22 +6775,22 @@ msgstr ""
 #: title.php:103
 #@ retro
 msgid "404 - Oops!"
-msgstr "404 - ¡Uy! Ha habido un error"
+msgstr "404 - Hov! Vi kan ikke finde siden"
 
 #: title.php:107
 #@ retro
 msgid "Results for: "
-msgstr "Búsqueda:"
+msgstr "Søgeresultater:"
 
 #: title.php:125
 #@ retro
 msgid "Author Archives: "
-msgstr "Archivo del Autor:"
+msgstr ""
 
 #: title.php:128
 #@ retro
 msgid "No posts for current author"
-msgstr "No hay entradas en autor actual."
+msgstr ""
 
 #: woocommerce/cart/cart-empty.php:16
 #@ woocommerce
