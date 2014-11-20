@@ -2254,7 +2254,7 @@ msgstr[1] ""
 #: functions.php:1080
 #@ retro
 msgid "Add Your Review"
-msgstr ""
+msgstr "Agregar Su Opinión"
 
 #: functions.php:1105
 #, php-format
