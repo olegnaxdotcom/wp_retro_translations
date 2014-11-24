@@ -6460,7 +6460,7 @@ msgstr ""
 #: lib/shortcode/contactForm/contactsend.php:56
 #@ retro
 msgid "Your message has been successfully sent to us!"
-msgstr ""
+msgstr "Ваше сообщение успешно отправлено. Спасибо!"
 
 #: lib/shortcode/shortcodes/contactForm.php:9
 #@ retro
