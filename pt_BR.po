@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Retro - Premium Vintage WordPress Theme v3.6\n"
+"Project-Id-Version: Retro - Premium Vintage WordPress Theme v3.6.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-20 18:09:52+0000\n"
+"PO-Revision-Date: 2014-11-24 15:48:57+0000\n"
 "Last-Translator: Stan <stan@olegnax.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: CSL v1.x\n"
-"X-Poedit-Language: Russian\n"
-"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
-"X-Poedit-Basepath: \n"
+"X-Poedit-Basepath: ../\n"
 "X-Poedit-Bookmarks: \n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Textdomain-Support: yes"
@@ -23,17 +23,17 @@ msgstr ""
 #: 404.php:5
 #@ retro
 msgid "The page you are trying to reach can&apos;t be found"
-msgstr "Запрашиваемая страница не найдена"
+msgstr "A página que você estava procurando não foi encontrada"
 
 #: 404.php:6
 #@ retro
 msgid "Try refining your search, or use the navigation above to locate the post."
-msgstr "Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+msgstr "Tente refinar sua busca, ou usar a navegação acima para localizar o post."
 
 #: 404.php:7
 #@ retro
 msgid "back to home"
-msgstr "вернуться на главную"
+msgstr "retorno"
 
 #: classes/Admin/Theme/Element/File/Favicon.php:28
 #: classes/Admin/Theme/Element/File.php:33
@@ -1522,11 +1522,11 @@ msgstr ""
 
 #: classes/Import/Importer.php:295
 #: classes/Widget/FeedburnerEmail.php:49
-#: woocommerce/single-product-reviews.php:60
+#: woocommerce/single-product-reviews.php:61
 #@ retro
 #@ woocommerce
 msgid "Submit"
-msgstr "Подписаться"
+msgstr "Assine Agora!"
 
 #: classes/Import/Importer.php:308
 #@ retro
@@ -1687,7 +1687,7 @@ msgstr ""
 #: classes/Widget/ContactForm.php:42
 #@ retro
 msgid "Name:"
-msgstr "Имя:"
+msgstr "Nome:"
 
 #: classes/Widget/ContactForm.php:43
 #: woocommerce/order/order-details.php:99
@@ -1704,7 +1704,7 @@ msgstr ""
 #: classes/Widget/ContactForm.php:54
 #@ retro
 msgid "Send"
-msgstr "Отправить"
+msgstr "Enviar"
 
 #: classes/Widget/ContactForm.php:78
 #@ retro
@@ -1752,7 +1752,7 @@ msgstr ""
 #: classes/Widget/FeedburnerEmail.php:50
 #@ retro
 msgid "Your E-Mail"
-msgstr "E-mail адрес"
+msgstr "Endereço de Email:"
 
 #: classes/Widget/FeedburnerEmail.php:76
 #@ retro
@@ -1914,17 +1914,17 @@ msgstr ""
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "0 - Comments"
-msgstr "0 - Комментариев"
+msgstr "0 - Comentários"
 
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "1 - Comment"
-msgstr "1 - Комментарий"
+msgstr "1 - Comentário"
 
 #: classes/Widget/PopularPosts.php:92
 #@ retro
 msgid "% - Comments"
-msgstr "% - Комментариев"
+msgstr "% - Comentários"
 
 #: classes/Widget/PopularPosts.php:126
 #: classes/Widget/RecentPosts.php:118
@@ -2025,7 +2025,7 @@ msgstr ""
 #: classes/Widget/Twitter.php:44
 #@ retro
 msgid "There are no public messages."
-msgstr "Нет публичных сообщений."
+msgstr "Não há mensagens públicas."
 
 #: classes/Widget/Twitter.php:133
 #@ retro
@@ -2092,23 +2092,23 @@ msgstr ""
 #@ retro
 msgid "One Comment"
 msgid_plural "%1$s Comments"
-msgstr[0] "Один Комментарий"
-msgstr[1] "%1$s Комментария"
-msgstr[2] "%1$s Комментариев"
+msgstr[0] "Um Comentário"
+msgstr[1] "%1$s Comentários"
 
 #: comments.php:56
 #: lib/revslider/views/templates/sliders_list.php:19
 #: lib/shortcode/shortcodes/contactForm.php:124
-#: woocommerce/single-product-reviews.php:55
+#: woocommerce/single-product-reviews.php:56
+#: woocommerce/single-product-reviews.php:57
 #: woocommerce/widgets/widget-product-categories.php:39
 #@ retro
 #@ woocommerce
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: comments.php:59
 #: lib/shortcode/shortcodes/contactForm.php:123
-#: woocommerce/single-product-reviews.php:57
+#: woocommerce/single-product-reviews.php:58
 #@ retro
 #@ woocommerce
 msgid "Email"
@@ -2127,7 +2127,7 @@ msgstr ""
 #: comments.php:69
 #@ retro
 msgid "Add comment"
-msgstr "Комментировать"
+msgstr "Adicionar Commentário"
 
 #: functions.php:275
 #@ retro
@@ -2146,7 +2146,7 @@ msgstr ""
 #: loop-portfolio.php:126
 #@ retro
 msgid "view"
-msgstr "смотреть"
+msgstr "ver"
 
 #: functions.php:413
 #@ retro
@@ -2158,114 +2158,112 @@ msgstr ""
 msgid "The default sidebar!"
 msgstr ""
 
-#: functions.php:813
-#: functions.php:853
+#: functions.php:811
+#: functions.php:851
 #: woocommerce/single-product/product-image.php:38
 #@ retro
 #@ woocommerce
 msgid "Placeholder"
 msgstr ""
 
-#: functions.php:870
+#: functions.php:868
 #@ retro
 msgid "New Label Background color"
 msgstr ""
 
-#: functions.php:877
+#: functions.php:875
 #@ retro
 msgid "New Label Font color"
 msgstr ""
 
-#: functions.php:897
+#: functions.php:895
 #@ retro
 msgid "New Label Background Color"
 msgstr ""
 
-#: functions.php:904
+#: functions.php:902
 #@ retro
 msgid "New Label Font Color"
 msgstr ""
 
-#: functions.php:928
-#: functions.php:955
+#: functions.php:926
+#: functions.php:953
 #@ retro
 msgid "Sale Label Background Color"
 msgstr ""
 
-#: functions.php:935
-#: functions.php:962
+#: functions.php:933
+#: functions.php:960
 #@ retro
 msgid "Sale Label Font Color"
 msgstr ""
 
-#: functions.php:985
-#: functions.php:1020
+#: functions.php:983
+#: functions.php:1018
 #@ retro
 msgid "Listing Per Page"
 msgstr ""
 
-#: functions.php:986
-#: functions.php:1021
+#: functions.php:984
+#: functions.php:1019
 #@ retro
 msgid "products"
 msgstr ""
 
-#: functions.php:993
-#: functions.php:1028
+#: functions.php:991
+#: functions.php:1026
 #@ retro
 msgid "Show  product  info button in product listing."
 msgstr ""
 
-#: functions.php:1000
-#: functions.php:1035
+#: functions.php:998
+#: functions.php:1033
 #@ retro
 msgid "Hide categories from product page."
 msgstr ""
 
 #. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
-#: functions.php:1057
+#: functions.php:1055
 #: header.php:327
 #, php-format
 #@ retro
 msgid "Bag - %d"
 msgid_plural "Bag - %d"
-msgstr[0] "Корзина"
-msgstr[1] "В Корзине - %d"
-msgstr[2] "В Корзине - %d"
+msgstr[0] "Minha Cesta - %d"
+msgstr[1] "Minha Cesta - %d"
 
-#: functions.php:1072
+#: functions.php:1070
 #, php-format
 #@ woocommerce
 msgid "Rated %s out of 5"
 msgstr ""
 
-#: functions.php:1072
+#: functions.php:1070
 #: woocommerce/single-product/review.php:27
 #@ woocommerce
 msgid "out of 5"
 msgstr ""
 
-#: functions.php:1073
+#: functions.php:1071
 #, php-format
 #@ woocommerce
 msgid "%s Review"
 msgid_plural "%s Reviews"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
-#: functions.php:1074
+#: functions.php:1072
 #@ retro
 msgid "Add Your Review"
-msgstr "Оставить Отзыв"
+msgstr ""
 
-#: functions.php:1099
+#: functions.php:1097
 #, php-format
 #@ retro
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: functions.php:1104
+#: functions.php:1102
 #@ retro
 msgid "Your comment is awaiting moderation."
 msgstr ""
@@ -2280,24 +2278,24 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "My Account"
-msgstr "Мой Аккаунт"
+msgstr "Minha Conta"
 
 #: header.php:310
 #@ retro
 msgid "Logout"
-msgstr "Выйти"
+msgstr "Sair"
 
 #: header.php:316
 #@ retro
 msgid "Login / Register"
-msgstr "Войти / Зарегистрироваться"
+msgstr "Entrar / Registrar"
 
 #: header.php:377
 #: lib/revslider/settings/slider_settings_xml_lang.php:5
 #@ retro
 #@ revslider
 msgid "Navigation"
-msgstr "Меню"
+msgstr "Menu"
 
 #: lib/metabox/functions.php:95
 #@ retro
@@ -6213,7 +6211,7 @@ msgstr ""
 #@ default
 #@ retro
 msgid "All"
-msgstr "Все"
+msgstr "Todas"
 
 #: lib/revslider/views/templates/slides.php:16
 #: lib/revslider/views/templates/slides.php:36
@@ -6368,7 +6366,7 @@ msgstr ""
 #: lib/revslider/views/templates/slides_posts.php:1
 #@ retro
 msgid "Sort by"
-msgstr "Сортировать по"
+msgstr "Ordenar Por"
 
 #: lib/revslider/views/templates/slides_posts.php:1
 #@ retro
@@ -6407,7 +6405,7 @@ msgstr ""
 #@ retro
 #@ woocommerce
 msgid "Edit"
-msgstr "Редактировать"
+msgstr "Editar"
 
 #: lib/revslider/views/themepunch-google-fonts.php:47
 #@ retro
@@ -6460,7 +6458,7 @@ msgstr ""
 #: lib/shortcode/contactForm/contactsend.php:56
 #@ retro
 msgid "Your message has been successfully sent to us!"
-msgstr "Ваше сообщение успешно отправлено. Спасибо!"
+msgstr "Sua mensagem foi enviada com sucesso!"
 
 #: lib/shortcode/shortcodes/contactForm.php:9
 #@ retro
@@ -6645,7 +6643,7 @@ msgstr ""
 #: loop.php:284
 #@ retro
 msgid "Comments (0)"
-msgstr "Комментариев (0)"
+msgstr "Comentários (0)"
 
 #: lib/shortcode/shortcodes.php:249
 #: loop.php:180
@@ -6654,7 +6652,7 @@ msgstr "Комментариев (0)"
 #: loop.php:284
 #@ retro
 msgid "Comment (1)"
-msgstr "Комментарий (1)"
+msgstr "Comentário (1)"
 
 #: lib/shortcode/shortcodes.php:249
 #: loop.php:180
@@ -6663,7 +6661,7 @@ msgstr "Комментарий (1)"
 #: loop.php:284
 #@ retro
 msgid "Comments (%)"
-msgstr "Комментария(ев) (%)"
+msgstr "Comentários (%)"
 
 #: lib/shortcode/shortcodes.php:250
 #: loop.php:181
@@ -6672,12 +6670,12 @@ msgstr "Комментария(ев) (%)"
 #: loop.php:285
 #@ retro
 msgid "Read more"
-msgstr "Читать далее"
+msgstr "Leia mais"
 
 #: lib/shortcode/shortcodes.php:366
 #@ retro
 msgid "SORT BY"
-msgstr "СОРТИРОВАТЬ ПО"
+msgstr "ORDENAR POR"
 
 #: lib/shortcode/shortcodes.php:380
 #: loop-portfolio.php:11
@@ -6688,7 +6686,7 @@ msgstr ""
 #: lib/shortcode/shortcodes.php:384
 #@ retro
 msgid "more info"
-msgstr "далее..."
+msgstr "mais info"
 
 #: lib/shortcode/shortcodes.php:637
 #@ retro
@@ -6708,7 +6706,7 @@ msgstr ""
 #: lib/tweaks.php:347
 #@ retro
 msgid "To search type and hit enter"
-msgstr "Поиск по сайту"
+msgstr "Digite e tecle enter"
 
 #: lib/tweaks.php:348
 #@ retro
@@ -6718,7 +6716,7 @@ msgstr ""
 #: loop-portfolio.php:16
 #@ retro
 msgid "Learn more"
-msgstr ""
+msgstr "Saber mais"
 
 #: loop-portfolio.php:210
 #: loop-testimonials.php:112
@@ -6726,7 +6724,7 @@ msgstr ""
 #: search.php:63
 #@ retro
 msgid "Not Found"
-msgstr "Не Найдено"
+msgstr "Não Encontrado"
 
 #: loop-portfolio.php:213
 #: loop-testimonials.php:115
@@ -6734,28 +6732,28 @@ msgstr "Не Найдено"
 #: search.php:66
 #@ retro
 msgid "Sorry, but you are looking for something that isn't here."
-msgstr "Сожалеем, но вы пытаетесь найти то, чего здесь нет."
+msgstr "Desculpe, mas você está procurando algo que não temos."
 
 #: loop.php:54
 #: loop.php:127
 #@ retro
 msgid "Author: "
-msgstr "Автор:"
+msgstr ""
 
 #: loop.php:101
 #@ retro
 msgid "<span>Categories:</span>"
-msgstr "<span>Категории:</span>"
+msgstr "<span>Categorias:</span>"
 
 #: loop.php:104
 #@ retro
 msgid "<span>Tags:</span>"
-msgstr "<span>Теги:</span>"
+msgstr ""
 
 #: search.php:23
 #@ retro
 msgid "read more &rarr;"
-msgstr "Читать далее &rarr;"
+msgstr "Leia mais &rarr;"
 
 #: title.php:83
 #, php-format
@@ -6778,17 +6776,17 @@ msgstr ""
 #: title.php:103
 #@ retro
 msgid "404 - Oops!"
-msgstr "Ошибка - 404"
+msgstr "o erro - 404"
 
 #: title.php:107
 #@ retro
 msgid "Results for: "
-msgstr "Результат поиска для:"
+msgstr "Resultados para: "
 
 #: title.php:125
 #@ retro
 msgid "Author Archives: "
-msgstr "Архивы Автора:"
+msgstr ""
 
 #: title.php:128
 #@ retro
@@ -7293,7 +7291,6 @@ msgid "%s for %s item"
 msgid_plural "%s for %s items"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: woocommerce/myaccount/my-orders.php:66
 #@ woocommerce
@@ -7344,7 +7341,6 @@ msgid "<h3 class=\"widget-title\">Tag</h3>"
 msgid_plural "<h3 class=\"widget-title\">Tags</h3>"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: woocommerce/single-product/meta.php:28
 #@ retro
@@ -7352,7 +7348,6 @@ msgid "<h3 class=\"widget-title\">Category</h3>"
 msgid_plural "<h3 class=\"widget-title\">Categories</h3>"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: woocommerce/single-product/price.php:22
 #@ woocommerce
@@ -7411,47 +7406,52 @@ msgstr ""
 msgid "Leave a Reply to %s"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:66
+#: woocommerce/single-product-reviews.php:59
 #@ woocommerce
-msgid "Your Rating"
+msgid "E-mail"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:67
 #@ woocommerce
-msgid "Rate&hellip;"
+msgid "Your Rating"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:68
 #@ woocommerce
-msgid "Perfect"
+msgid "Rate&hellip;"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:69
 #@ woocommerce
-msgid "Good"
+msgid "Perfect"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:70
 #@ woocommerce
-msgid "Average"
+msgid "Good"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:71
 #@ woocommerce
-msgid "Not that bad"
+msgid "Average"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:72
 #@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#@ woocommerce
 msgid "Very Poor"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:76
+#: woocommerce/single-product-reviews.php:77
 #@ woocommerce
 msgid "Your Review"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:85
+#: woocommerce/single-product-reviews.php:86
 #@ woocommerce
 msgid "Only logged in customers who have purchased this product may leave a review."
 msgstr ""
