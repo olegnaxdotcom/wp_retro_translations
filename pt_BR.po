@@ -7340,7 +7340,7 @@ msgstr ""
 msgid "<h3 class=\"widget-title\">Tag</h3>"
 msgid_plural "<h3 class=\"widget-title\">Tags</h3>"
 msgstr[0] "<h3 class=\"widget-title\">Etiqueta</h3>"
-msgstr[1] "<h3 class=\"widget-title\">Etiqueta</h3>"
+msgstr[1] "<h3 class=\"widget-title\">Etiquetas</h3>"
 
 #: woocommerce/single-product/meta.php:28
 #@ retro
