@@ -1,0 +1,2822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Retro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-26 18:01+0700\n"
+"PO-Revision-Date: 2015-05-13 11:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: Olegnax <mail@olegnax.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib/revslider\n"
+
+#: 404.php:5
+msgid "The page you are trying to reach can&apos;t be found"
+msgstr ""
+
+#: 404.php:6
+msgid ""
+"Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+
+#: 404.php:7
+msgid "back to home"
+msgstr ""
+
+#: classes/Admin/Theme/Element/File.php:33
+#: classes/Admin/Theme/Element/File/Favicon.php:28
+msgid "Upload"
+msgstr ""
+
+#: classes/Admin/Theme/Element/InstallDummy.php:18
+msgid ""
+"<p><strong>Warning!</strong><br> DO NOT INSTALL dummy data on your live "
+"website. <br>It will corrupt your existing data.</p><p>We suggest you "
+"install dummy data only on clean WordPress setup.</p><p><small>We do not "
+"hold any responsibility if you lost existing data.</small></p>"
+msgstr ""
+
+#: classes/Admin/Theme/Element/InstallDummy.php:22
+msgid "Dummy content already installed."
+msgstr ""
+
+#: classes/Admin/Theme/Element/InstallDummy.php:24
+msgid "Install dummy content"
+msgstr ""
+
+#: classes/Admin/Theme/Element/InstallDummy.php:27
+msgid "Loading"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:12 classes/Admin/Theme/Item/Blog.php:13
+msgid "Blog"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:25
+msgid "Blog Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:32
+msgid "Sidebar position for blog listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:33
+msgid "Choose a sidebar position for blog listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:41
+msgid "Sidebar for blog listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:42
+msgid "Choose a sidebar for blog listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:52
+msgid "Blog listing template"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:53
+msgid "Choose a blog listing template"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:65
+msgid "Switch On to disable excerpts on blog listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:66
+msgid "Disable excerpts"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:72
+msgid "Switch On to disable about author box on post entry"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:73
+msgid "Disable about author box"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:83
+msgid "Sidebar position for single post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:84
+msgid "Choose a sidebar position for single post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:92
+msgid "Sidebar for single post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:93
+msgid "Choose a sidebar for single post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:105
+msgid "Select a  slideshow type"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:106
+msgid "Select a  slideshow type "
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:114
+#: classes/Admin/Theme/Item/Slideshow.php:57
+msgid "Select one of sliders"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:115
+#: classes/Admin/Theme/Item/Slideshow.php:58
+msgid "Select one of sliders "
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:121
+msgid "Blog page title"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Blog.php:122
+msgid "Title will be shown on any blog post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Captcha.php:8
+#: classes/Admin/Theme/Item/Captcha.php:9
+msgid "reCaptcha"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Captcha.php:27
+msgid ""
+"Learn more about reCaptcha <a href='//developers.google.com/recaptcha/' "
+"title='What is reCAPTCHA?'  target='_blank'>here</a>"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Captcha.php:32
+msgid "Public Key"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Captcha.php:33
+#: classes/Admin/Theme/Item/Captcha.php:41
+msgid "These keys are required for using in reCaptcha."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Captcha.php:40
+msgid "Private Key"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Dummy.php:13 classes/Admin/Theme/Item/Dummy.php:14
+msgid "Dummy content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Dummy.php:25
+msgid "Dummy content install"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:10
+#: classes/Admin/Theme/Item/Footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:23
+msgid "Footer Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:36
+msgid "Enable footer widget area"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:37
+msgid ""
+"Check this box if you want to enable footer widgets area for whole site."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:44
+msgid "Columns number for footer widgets area"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:45
+msgid ""
+"Select how many columns(sidebars) you want display for footer widgets area."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:57
+msgid "Footer text"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:58
+msgid "Type here text that appear at botttom of each page - copyrights, etc.."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:65
+msgid "Google Analytics"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:66
+msgid "Insert your Google Analytics (or other) code here."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:78
+msgid "Footer custom content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Footer.php:79
+msgid "You can use custom content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:11
+#: classes/Admin/Theme/Item/General.php:12
+msgid "General"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:24 classes/Widget/MailChimp.php:38
+msgid "General Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:31
+msgid "Show preview switcher"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:32
+msgid "Check to show preview color switcher"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:39
+msgid "Preview default Skin slider"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:40
+msgid "Select a slideshow fore preview default skin"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:46
+msgid "Preview Skin 1 slider"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:47
+msgid "Select a slideshow fore preview skin 1"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:53
+msgid "Preview 2 slider"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:54
+msgid "Select a slideshow fore preview skin 2"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:60
+msgid "Preview 3 slider"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:61
+msgid "Select a slideshow fore preview skin 3"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:67
+msgid "Preview 4 slider"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:68
+msgid "Select a slideshow fore preview skin 4"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:99
+msgid "Choose Google font for titles"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:100
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:154
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:150
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:155
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:153
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:150
+msgid "Choose a Font for titles, etc."
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:109
+msgid "Disable Google fonts"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:110
+msgid "Check to disable Google fonts"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:118
+msgid ""
+"Check to disable default theme font and use \"font family for content\" value"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:119
+msgid "Use default theme font BazarMedium(if google font disable)"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:132
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:133
+msgid "Check to disable Font Awesome"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:145
+#: classes/Admin/Theme/Item/General.php:146
+msgid "Choose a font family for content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:154
+#: classes/Admin/Theme/Item/General.php:155
+msgid "Choose a font style for content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:167
+msgid "Favicon"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:168
+msgid "Click upload button, then choose and upload your favicon file"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:179
+msgid "Disable responsive"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:180
+msgid "Check to disable responsive support"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:12
+#: classes/Admin/Theme/Item/Header.php:13
+msgid "Header"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:26
+msgid "Header Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:53
+msgid "Header custom content - left"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:54
+msgid "headder left text area"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:64
+msgid "Header custom content - right"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:65
+msgid "header right text area"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:76
+msgid "Hide my account link"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:77
+msgid "Check this box if you want to hide my account link at top line"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:84
+msgid "Hide shopping cart"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Header.php:85
+msgid "Check this box if you want to hide shopping cart at top line"
+msgstr ""
+
+#: classes/Admin/Theme/Item/MailChimp.php:6
+#: classes/Admin/Theme/Item/MailChimp.php:7 classes/Widget/MailChimp.php:10
+msgid "MailChimp"
+msgstr ""
+
+#: classes/Admin/Theme/Item/MailChimp.php:17
+#: classes/Admin/Theme/Item/MailChimp.php:32
+#: classes/Admin/Theme/Item/MailChimp.php:33
+msgid "MailChimp API key"
+msgstr ""
+
+#: classes/Admin/Theme/Item/MailChimp.php:23
+msgid ""
+"Enter a valid MailChimp API key here to get started. Once you've done that, "
+"you can use the MailChimp Widget from the Widgets menu. You will need to "
+"have at least MailChimp list set up before the using the widget."
+msgstr ""
+
+#: classes/Admin/Theme/Item/MailChimp.php:28
+msgid ""
+"Don't know where to get? please visit this link, <a href=\"http://kb."
+"mailchimp.com/article/how-do-i-log-in-to-the-mailchimp-iphone-app-through-"
+"google-apps\" target=\"_blank\">Get API Key</a>"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:14
+#: classes/Admin/Theme/Item/Portfolios.php:15
+#: classes/Custom/Posts/Type/Portfolio.php:165
+msgid "Portfolios"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:25
+msgid "Portfolios settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:30
+msgid "Sidebar position for portfolios listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:31
+msgid "Choose a sidebar position for portfolios listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:39
+msgid "Sidebar for portfolios listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:40
+msgid "Choose a sidebar for portfolios listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:51
+msgid "Side content position for single portfolio post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:52
+msgid "Choose a sidebar position for single portfolio"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:68
+msgid "Portfolio post slug"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:69
+msgid "Write custom slug for portfolio post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:76
+msgid "Portfolio category slug"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Portfolios.php:77
+msgid "Write custom slug for portfolio category"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:25 classes/Admin/Theme/Item/Share.php:26
+msgid "Share buttons"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:37
+msgid "Share button Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:41
+msgid "Show share buttons under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:53
+msgid "Share title"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:54
+msgid "Text before share buttons."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:60
+msgid "Share button style"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:61
+msgid "Choose a Share button style"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:73
+msgid "Share buttons list"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:77
+msgid "Show Facebook"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:78
+msgid "Check this box if you want to show Facebook share button under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:86
+msgid "Show Twitter"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:87
+msgid "Check this box if you want to show Twitter share button under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:94
+msgid "Show Google+"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:95
+msgid "Check this box if you want to show Google+ share button under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:102
+msgid "Show LinkedIn"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:103
+msgid "Check this box if you want to show LinkedIn share button under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:110
+msgid "Show Pinterest"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:111
+msgid "Check this box if you want to show Pinterest share button under content"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:122
+msgid "List which displays share buttons"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:126
+msgid "Show on post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:127
+msgid "Check this box if you want to show share button on post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:134
+msgid "Show on page"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:135
+msgid "Check this box if you want to show share button on page"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:142
+msgid "Show on portfolio"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:143
+msgid "Check this box if you want to show share button on portfolio"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:150
+msgid "Show on product"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Share.php:151
+msgid "Check this box if you want to show share button on product"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:10
+#: classes/Admin/Theme/Item/Sidebar.php:11
+msgid "Sidebars"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:23
+msgid "Sidebars Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:28
+msgid "Add Sidebar:"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:29
+msgid "Enter the name of the new sidebar that you would like to create."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:35
+msgid "Below are the Sidebars you have created:"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Sidebar.php:36
+msgid "Sidebars created:"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Skin.php:10
+msgid "Theme Skin Layout"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Skin.php:11
+msgid "Theme Skin"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Skin.php:22
+msgid "Skin Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Skin.php:27
+msgid "Skin layout"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Skin.php:28
+msgid "Select to activate skin layout for theme"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:30
+#: classes/Admin/Theme/Item/Slideshow.php:31
+msgid "Slideshows"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:43
+msgid "Slideshow Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:48
+msgid "Select a global slideshow type"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:49
+msgid "Select a global slideshow type "
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:68
+msgid "Headings color - H1"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:69
+#: classes/Admin/Theme/Item/Slideshow.php:76
+#: classes/Admin/Theme/Item/Slideshow.php:83
+#: classes/Admin/Theme/Item/Slideshow.php:90
+msgid "Please select your custom color for content headings text."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:75
+msgid "Headings color - H2"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:82
+msgid "Headings with line color - H3"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:89
+msgid "Headings color - H4"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:96
+msgid "Text color"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Slideshow.php:97
+msgid "Please select your custom color for content text."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:10
+#: classes/Admin/Theme/Item/Testimonials.php:11
+#: classes/Custom/Posts/Type/Testimonial.php:162
+#: classes/Widget/Testimonial.php:128
+msgid "Testimonials"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:22
+msgid "Testimonials Settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:26
+msgid "Sidebar position for testimonials listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:27
+msgid "Choose a sidebar position for testimonials listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:35
+msgid "Sidebar for testimonials listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:36
+msgid "Choose a sidebar for testimonials listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:47
+msgid "Sidebar position for single testimonial"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:48
+msgid "Choose a sidebar position for single testimonial"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:56
+msgid "Sidebar for single testimonial"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:57
+msgid "Choose a sidebar for single testimonial"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:69
+msgid "Testimonial post slug"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:70
+msgid "Write custom slug for testimonial post"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:77
+msgid "Testimonial category slug"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Testimonials.php:78
+msgid "Write custom slug for testimonial category"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:7
+msgid "Authenticating for Twitter"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:8
+msgid "Twitter OAuth"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:17
+msgid "Authenticating a User Timeline for Twitter OAuth API V1.1"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:23
+msgid "Enter a valid Twitter OAuth settings here to get started."
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:28
+msgid ""
+"Don't know where to get? please visit this link, <a href=\"http://www."
+"webdevdoor.com/php/authenticating-twitter-feed-timeline-oauth/\" target="
+"\"_blank\">Authenticating for Twitter </a>"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:32
+#: classes/Admin/Theme/Item/Twitter.php:33
+msgid "Consumer key"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:39
+#: classes/Admin/Theme/Item/Twitter.php:40
+msgid "Consumer secret"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:46
+#: classes/Admin/Theme/Item/Twitter.php:47
+msgid "Access token"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Twitter.php:53
+#: classes/Admin/Theme/Item/Twitter.php:54
+msgid "Access token secret"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:10
+msgid "Theme updater"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:11
+msgid "Theme Updater"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:23
+msgid "User Account Information"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:29
+msgid "Marketplace Username"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:30
+msgid "Please provide Username for theme update"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:38
+msgid "Secret API Key"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Update.php:39
+msgid "Please provide API Key for theme update"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:14
+#: classes/Admin/Theme/Item/Woocommerce.php:15
+msgid "WooCommerce"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:25
+msgid "WooCommerce settings"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:30
+msgid "Sidebar position for products listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:31
+msgid "Choose a sidebar position for products listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:39
+msgid "Sidebar for products listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:40
+msgid "Choose a sidebar for products listing"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:51
+msgid "Sidebar position for product page"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:52
+msgid "Choose a sidebar position for product page"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:60
+msgid "Sidebar for product page"
+msgstr ""
+
+#: classes/Admin/Theme/Item/Woocommerce.php:61
+msgid "Choose a sidebar for product page"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Footer/FooterDefault.php:127
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin1.php:127
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin2.php:127
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin3.php:127
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin4.php:127
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:135
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:133
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:137
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:134
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:133
+msgid "Hide logo image"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Footer/FooterDefault.php:128
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin1.php:128
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin2.php:128
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin3.php:128
+#: classes/Admin/Theme/SkinGroup/Footer/FooterSkin4.php:128
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:136
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:134
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:138
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:135
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:134
+msgid ""
+"Check this box if you want to hide logo image and use text site name instead"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:124
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:123
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:126
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:124
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:124
+msgid "Logo position"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:125
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:124
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:127
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:125
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:125
+msgid "Choose logo position"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:153
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:149
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:154
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:152
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:149
+msgid "Choose a Font for logo"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:162
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:163
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:158
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:159
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:163
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:164
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:161
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:162
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:158
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:159
+msgid "Logo font style"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:171
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:172
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:167
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:168
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:172
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:173
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:170
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:171
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:167
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:168
+msgid "Logo font weight"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:179
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:175
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:180
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:178
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:175
+msgid "Logo text size"
+msgstr ""
+
+#: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:180
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:176
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:181
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:179
+#: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:176
+msgid "Logo text size at any units"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:258
+msgid "Delete this image"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:258
+#: classes/Custom/MetaBox/Taxonomy.php:945
+msgid "Delete"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:361
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:594
+#: classes/Custom/MetaBox/Taxonomy.php:647
+msgid "Remove"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:609
+msgid "Add"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:940
+msgid "Uploaded files"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:952
+msgid "Upload new files"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:958
+msgid "Add more files"
+msgstr ""
+
+#: classes/Custom/MetaBox/Taxonomy.php:1016
+msgid "Select a color"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:126
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:127
+#: classes/Custom/Posts/Type/Testimonial.php:125
+msgid "Image preview"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:128
+msgid "Assign to Portfolios Category(s)"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:166
+msgid "Portfolio Posts"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:167
+msgid "Portfolio"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:168
+#: classes/Custom/Posts/Type/Testimonial.php:165
+msgid "Add New"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:169
+#: classes/Custom/Posts/Type/Testimonial.php:166
+msgid "Add New Item"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:170
+#: classes/Custom/Posts/Type/Testimonial.php:167
+msgid "Edit Item"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:171
+#: classes/Custom/Posts/Type/Testimonial.php:168
+msgid "New Item"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:172
+#: classes/Custom/Posts/Type/Testimonial.php:169
+msgid "View Item"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:173
+#: classes/Custom/Posts/Type/Testimonial.php:170
+msgid "Search Items"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:174
+#: classes/Custom/Posts/Type/Testimonial.php:171
+msgid "No items found"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:175
+#: classes/Custom/Posts/Type/Testimonial.php:172
+msgid "No items found in Trash"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:185
+msgid "Portfolio Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:186
+msgid "Portfolio Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:187
+msgid "Search Portfolios Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:188
+msgid "Popular Portfolios Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:189
+msgid "All Portfolios Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:192
+msgid "Edit Portfolios Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:193
+msgid "Update Portfolios Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:194
+msgid "Add New Portfolios Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:195
+msgid "New Portfolios Category Name"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:196
+msgid "Add or remove Portfolios Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:197
+msgid "Choose from the most used Portfolios Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Portfolio.php:198
+msgid "Separate Portfolios Categories with commas"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:124
+msgid "Testimonial Item Title"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:126
+msgid "Assign to Testimonials Category(s)"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:163
+msgid "Testimonial Posts"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:164
+msgid "Testimonial"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:182
+msgid "Testimonial Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:183
+msgid "Testimonial Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:184
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:185
+msgid "Popular Testimonials Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:186
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:189
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:190
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:191
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:192
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:193
+msgid "Add or remove Testimonials Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:194
+msgid "Choose from the most used Testimonials Categories"
+msgstr ""
+
+#: classes/Custom/Posts/Type/Testimonial.php:195
+msgid "Separate Testimonials Categories with commas"
+msgstr ""
+
+#: classes/Custom/Thumbnail/Multi.php:51
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: classes/Custom/Thumbnail/Multi.php:133
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: classes/Envato/Theme/Backup.php:399
+msgid "The backup file was not created"
+msgstr ""
+
+#: classes/Envato/Theme/Backup.php:473
+msgid "The following files are unreadable and could not be backed up: "
+msgstr ""
+
+#: classes/Envato/Theme/Protected/API.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: classes/Envato/Theme/Protected/API.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: classes/Envato/Theme/Protected/API.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: classes/Envato/Theme/Protected/API.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: classes/Import/Dummy.php:129
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: classes/Import/Importer.php:148 classes/Import/Importer.php:157
+#: classes/Import/Importer.php:208 classes/Import/Importer.php:216
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: classes/Import/Importer.php:149
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: classes/Import/Importer.php:192
+msgid "All done."
+msgstr ""
+
+#: classes/Import/Importer.php:192
+msgid "Have fun!"
+msgstr ""
+
+#: classes/Import/Importer.php:224
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: classes/Import/Importer.php:249
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: classes/Import/Importer.php:275
+msgid "Assign Authors"
+msgstr ""
+
+#: classes/Import/Importer.php:276
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: classes/Import/Importer.php:278
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: classes/Import/Importer.php:288
+msgid "Import Attachments"
+msgstr ""
+
+#: classes/Import/Importer.php:291
+msgid "Download and import file attachments"
+msgstr ""
+
+#: classes/Import/Importer.php:308
+msgid "Import author:"
+msgstr ""
+
+#: classes/Import/Importer.php:319
+msgid "or create new user with login name:"
+msgstr ""
+
+#: classes/Import/Importer.php:322
+msgid "as a new user:"
+msgstr ""
+
+#: classes/Import/Importer.php:330
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: classes/Import/Importer.php:332
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: classes/Import/Importer.php:333
+msgid "- Select -"
+msgstr ""
+
+#: classes/Import/Importer.php:383
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: classes/Import/Importer.php:440
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: classes/Import/Importer.php:482
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: classes/Import/Importer.php:546 classes/Import/Importer.php:663
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: classes/Import/Importer.php:572
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: classes/Import/Importer.php:594
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: classes/Import/Importer.php:635
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: classes/Import/Importer.php:787
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: classes/Import/Importer.php:794
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: classes/Import/Importer.php:857
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: classes/Import/Importer.php:892
+msgid "Remote server did not respond"
+msgstr ""
+
+#: classes/Import/Importer.php:898
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: classes/Import/Importer.php:905
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: classes/Import/Importer.php:910
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: classes/Import/Importer.php:916
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: classes/Import/Importer.php:1015
+msgid "Import WordPress"
+msgstr ""
+
+#: classes/Import/Importer.php:1022
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: classes/Import/Importer.php:1037
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: classes/Import/Importer.php:1038
+msgid "Choose a WXR file to upload, then click Upload file and import."
+msgstr ""
+
+#: classes/Import/Parser.php:34 classes/Import/Parser/SimpleXML.php:12
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: classes/Import/Parser.php:35
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: classes/Import/Parser/Regex.php:76 classes/Import/Parser/SimpleXML.php:16
+#: classes/Import/Parser/SimpleXML.php:21 classes/Import/Parser/XML.php:39
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: classes/Widget/ContactForm.php:42
+msgid "Name:"
+msgstr "Nom"
+
+#: classes/Widget/ContactForm.php:43 woocommerce/order/order-details.php:171
+msgid "Email:"
+msgstr ""
+
+#: classes/Widget/ContactForm.php:44
+msgid "Your message..."
+msgstr "Votre message"
+
+#: classes/Widget/ContactForm.php:54
+msgid "Send"
+msgstr "Envoyer"
+
+#: classes/Widget/ContactForm.php:78
+msgid "Please specify your name."
+msgstr "Merci d'entrer votre nom"
+
+#: classes/Widget/ContactForm.php:79
+msgid "Please enter your message."
+msgstr "Merci d'entrer votre message"
+
+#: classes/Widget/ContactForm.php:81
+msgid "We need your email address to contact you."
+msgstr "Nous avons besoin de votre adresse mail pour vous contacter"
+
+#: classes/Widget/ContactForm.php:82
+msgid "Your email address must be in the format of name@domain.com"
+msgstr "Votre mail doit ressembler &agrave; nom@domaine.fr"
+
+#: classes/Widget/ContactForm.php:105
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+#: classes/Widget/ContactForm.php:110 classes/Widget/FeedburnerEmail.php:81
+#: classes/Widget/Flickr.php:69 classes/Widget/PopularPosts.php:122
+#: classes/Widget/Portfolio.php:112 classes/Widget/RecentPosts.php:114
+#: classes/Widget/Testimonial.php:142 classes/Widget/Twitter.php:161
+msgid "Title:"
+msgstr "Titre"
+
+#: classes/Widget/ContactForm.php:114
+msgid "Recipient email:"
+msgstr "Email du destinataire :"
+
+#: classes/Widget/FeedburnerEmail.php:49
+#: woocommerce/single-product-reviews.php:63
+msgid "Submit"
+msgstr "Envoyer"
+
+#: classes/Widget/FeedburnerEmail.php:50
+msgid "Your E-Mail"
+msgstr "Votre E-mail"
+
+#: classes/Widget/FeedburnerEmail.php:76
+msgid "Sign up for our Newsletter"
+msgstr "S'inscrire à la Newsletter"
+
+#: classes/Widget/FeedburnerEmail.php:76
+msgid "Keep up with the latest news and events."
+msgstr ""
+"Tenez-vous inform&eacute; des derni&egrave;res nouvelles et &eacute;v&eacute;"
+"nements."
+
+#: classes/Widget/FeedburnerEmail.php:85
+msgid "Description:"
+msgstr ""
+
+#: classes/Widget/FeedburnerEmail.php:89
+msgid "Write only feedburner name:"
+msgstr ""
+
+#: classes/Widget/Flickr.php:64
+msgid "Flickr"
+msgstr ""
+
+#: classes/Widget/Flickr.php:77
+msgid "Number of photos:"
+msgstr ""
+
+#: classes/Widget/Flickr.php:83
+msgid "Flickr ID"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:11
+msgid "Show previews from portfolio category"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:40
+msgid "Title :"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:44
+msgid "Select a Mailing List :"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:56
+msgid "This is the list your users will be signing up for in your sidebar."
+msgstr ""
+
+#: classes/Widget/MailChimp.php:58
+msgid "Sign Up Button Text :"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:61
+msgid "Personal Information"
+msgstr "Information Personnelle"
+
+#: classes/Widget/MailChimp.php:62
+msgid ""
+"These fields won't (and shouldn't) be required. Should the widget form "
+"collect users' first and last names?"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:65
+msgid "Collect first name."
+msgstr ""
+
+#: classes/Widget/MailChimp.php:68
+msgid "Collect last name."
+msgstr ""
+
+#: classes/Widget/MailChimp.php:70
+msgid "Notifications"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:71
+msgid ""
+"Use these fields to customize what your visitors see after they submit the "
+"form"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:73
+msgid "Success :"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:77
+msgid "Failure :"
+msgstr ""
+
+#: classes/Widget/MailChimp.php:245
+msgid "First Name :"
+msgstr "Pr&eacute;nom :"
+
+#: classes/Widget/MailChimp.php:251
+msgid "Last Name :"
+msgstr "Nom"
+
+#: classes/Widget/MailChimp.php:259
+msgid "Email Address :"
+msgstr "Adresse Mail"
+
+#: classes/Widget/MailChimp.php:262
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: classes/Widget/MailChimp.php:313
+msgid "There was a problem processing your submission."
+msgstr "Probl&egrave;me rencontr&eacute; lors du traitement de votre demande."
+
+#: classes/Widget/MailChimp.php:314
+msgid "Sign up for our mailing list."
+msgstr "Inscrivez-vous &agrave; notre mailing list."
+
+#: classes/Widget/MailChimp.php:315
+msgid "Join now!"
+msgstr "Rejoindre maintenant"
+
+#: classes/Widget/MailChimp.php:316
+msgid ""
+"Thank you for joining our mailing list. Please check your email for a "
+"confirmation link."
+msgstr ""
+"Merci de vous joindre &agrave; notre mailing list. Merci de v&eacute;rifier "
+"votre bo&icirc;te mail, un lien de confirmation vous a &eacute;t&eacute; "
+"envoy&eacute;"
+
+#: classes/Widget/MailChimp/Plugin.php:24
+msgid ""
+"You'll need to set up the MailChimp signup widget plugin options before "
+"using it. "
+msgstr ""
+
+#: classes/Widget/MailChimp/Plugin.php:24 classes/Widget/Twitter.php:133
+msgid "You can make your changes"
+msgstr ""
+
+#: classes/Widget/MailChimp/Plugin.php:24 classes/Widget/Twitter.php:133
+msgid "here"
+msgstr ""
+
+#: classes/Widget/PopularPosts.php:92
+msgid "0 - Comments"
+msgstr "0 - Commentaires"
+
+#: classes/Widget/PopularPosts.php:92
+msgid "1 - Comment"
+msgstr "1 - Commentaire"
+
+#: classes/Widget/PopularPosts.php:92
+msgid "% - Comments"
+msgstr "% - Commentaires"
+
+#: classes/Widget/PopularPosts.php:126 classes/Widget/RecentPosts.php:118
+msgid "Show post thumbnail:"
+msgstr ""
+
+#: classes/Widget/PopularPosts.php:132 classes/Widget/RecentPosts.php:124
+msgid "Number of posts to show:"
+msgstr ""
+
+#: classes/Widget/PopularPosts.php:147
+msgid "Popular post:"
+msgstr ""
+
+#: classes/Widget/Portfolio.php:99
+msgid "From portfolio"
+msgstr ""
+
+#: classes/Widget/Portfolio.php:118
+msgid "Category of portfolio:"
+msgstr ""
+
+#: classes/Widget/Portfolio.php:142
+msgid "Number of items to show:"
+msgstr ""
+
+#: classes/Widget/RecentPosts.php:139
+msgid "Recent posts"
+msgstr ""
+
+#: classes/Widget/SocialLinks.php:116
+msgid "Hide icon:"
+msgstr ""
+
+#: classes/Widget/SocialLinks.php:123 classes/Widget/Twitter.php:196
+msgid "Open in new tab:"
+msgstr ""
+
+#: classes/Widget/SocialLinks.php:134
+#: woocommerce/widgets/widget-layered-nav.php:70
+#: woocommerce/widgets/widget-product-categories.php:31
+#: woocommerce/widgets/widget-recent-reviews.php:28
+msgid "Title"
+msgstr ""
+
+#: classes/Widget/Testimonial.php:148
+msgid "Category of testimonials:"
+msgstr ""
+
+#: classes/Widget/Testimonial.php:169
+msgid "Number of second to show:"
+msgstr ""
+
+#: classes/Widget/Testimonial.php:173
+msgid "Randomize testimonial:"
+msgstr ""
+
+#: classes/Widget/Testimonial.php:181
+msgid "Transition effect:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:38
+msgid "Can't connect to twitter."
+msgstr ""
+
+#: classes/Widget/Twitter.php:44
+msgid "There are no public messages."
+msgstr ""
+
+#: classes/Widget/Twitter.php:133
+msgid ""
+"You'll need to set up Twitter Feed Authenticate options before using it. "
+msgstr ""
+
+#: classes/Widget/Twitter.php:140
+msgid "cURL extension requred."
+msgstr ""
+
+#: classes/Widget/Twitter.php:141
+msgid "Please contact your System Administrator."
+msgstr ""
+
+#: classes/Widget/Twitter.php:147
+msgid "Twitter"
+msgstr ""
+
+#: classes/Widget/Twitter.php:166
+msgid "Twitter username:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:171
+msgid "Number of tweets:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:176
+msgid "Show date posted:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:181
+msgid "Discover hyperlinks:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:186
+msgid "Discover @replies:"
+msgstr ""
+
+#: classes/Widget/Twitter.php:191
+msgid "UTF8 Encode:"
+msgstr ""
+
+#: classes/Widget/Twitter/Feed.php:100
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: classes/Widget/Twitter/Feed.php:106
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:56 lib/shortcode/shortcodes/contactForm.php:125
+#: woocommerce/single-product-reviews.php:58
+#: woocommerce/single-product-reviews.php:59
+#: woocommerce/widgets/widget-product-categories.php:39
+msgid "Name"
+msgstr ""
+
+#: comments.php:59 lib/shortcode/shortcodes/contactForm.php:124
+#: woocommerce/single-product-reviews.php:60
+msgid "Email"
+msgstr ""
+
+#: comments.php:62
+msgid "Url"
+msgstr ""
+
+#: comments.php:65
+msgid "Your message"
+msgstr ""
+
+#: comments.php:67
+msgid ""
+"You may use these HTML tags and attributes: &lt;a href=\"\" title=\"\"> &lt;"
+"abbr title=\"\"&gt; &lt;acronym title=\"\"&gt; &lt;b&gt; &lt;blockquote cite="
+"\"\"&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=\"\"&gt; &lt;em&gt; &lt;"
+"i&gt; &lt;q cite=\"\"&gt; &lt;strike&gt; &lt;strong&gt;"
+msgstr ""
+
+#: comments.php:69
+msgid "Add comment"
+msgstr ""
+
+#: functions.php:275
+msgid "Header  Menu 1"
+msgstr ""
+
+#: functions.php:276
+msgid "Header  Menu 2"
+msgstr ""
+
+#: functions.php:416 lib/shortcode/shortcodes.php:444
+#: lib/shortcode/shortcodes.php:488 lib/shortcode/shortcodes.php:513
+#: loop-portfolio.php:126
+msgid "view"
+msgstr ""
+
+#: functions.php:417
+msgid "Something going wrong with connection..."
+msgstr ""
+
+#: functions.php:627
+msgid "The default sidebar!"
+msgstr ""
+
+#: functions.php:822 functions.php:868
+#: woocommerce/single-product/product-image.php:41
+msgid "Placeholder"
+msgstr ""
+
+#: functions.php:883
+msgid "New Label Background color"
+msgstr ""
+
+#: functions.php:890
+msgid "New Label Font color"
+msgstr ""
+
+#: functions.php:910
+msgid "New Label Background Color"
+msgstr ""
+
+#: functions.php:917
+msgid "New Label Font Color"
+msgstr ""
+
+#: functions.php:944 functions.php:971
+msgid "Sale Label Background Color"
+msgstr ""
+
+#: functions.php:951 functions.php:978
+msgid "Sale Label Font Color"
+msgstr ""
+
+#: functions.php:1001 functions.php:1036
+msgid "Listing Per Page"
+msgstr ""
+
+#: functions.php:1002 functions.php:1037
+msgid "products"
+msgstr "produits"
+
+#: functions.php:1009 functions.php:1044
+msgid "Show  product  info button in product listing."
+msgstr ""
+
+#: functions.php:1016 functions.php:1051
+msgid "Hide categories from product page."
+msgstr ""
+
+#: functions.php:1073 header.php:327
+#, php-format
+msgid "Bag - %d"
+msgid_plural "Bag - %d"
+msgstr[0] "Panier - %d"
+msgstr[1] "Panier - %d"
+
+#: functions.php:1088
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Not&eacute; %s sur 5"
+
+#: functions.php:1088 woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr "sur 5"
+
+#: functions.php:2177
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s Avis"
+msgstr[1] "%s Avis"
+
+#: functions.php:1090
+msgid "Add Your Review"
+msgstr "Donnez votre avis"
+
+#: functions.php:1115
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s &agrave; %2$s"
+
+#: functions.php:1120
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de mod&eacute;ration."
+
+#: header.php:229
+msgid "Feed"
+msgstr "Flux"
+
+#: header.php:310 woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Mon Compte"
+
+#: header.php:310
+msgid "Logout"
+msgstr "Se D&eacute;connecter"
+
+#: header.php:316
+msgid "Login / Register"
+msgstr "Connexion / Inscription"
+
+#: header.php:377
+msgid "Navigation"
+msgstr ""
+
+#: lib/metabox/functions.php:95
+msgid "Portfolio Slider"
+msgstr ""
+
+#: lib/metabox/functions.php:102
+msgid "The Slides"
+msgstr ""
+
+#: lib/metabox/functions.php:106
+msgid "Add slides for portfolio slider"
+msgstr ""
+
+#: lib/metabox/init.php:453 lib/metabox/init.php:477
+msgid "Upload Image"
+msgstr ""
+
+#: lib/metabox/init.php:454 lib/metabox/init.php:478
+msgid "Remove Slide"
+msgstr ""
+
+#: lib/metabox/init.php:492
+msgid "Add New Slide"
+msgstr ""
+
+#: lib/shortcode/contact-form.php:74
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: lib/shortcode/contact-form.php:88
+msgid "Yes"
+msgstr "Oui"
+
+#: lib/shortcode/contact-form.php:132
+#, php-format
+msgid "%s requires a valid email address"
+msgstr "%s n&eacute;cessite une adresse email valide"
+
+#: lib/shortcode/contact-form.php:136
+#, php-format
+msgid "%s requires a valid url"
+msgstr "%s n&eacute;cessite une URL valide"
+
+#: lib/shortcode/contact-form.php:145
+#, php-format
+msgid "%s is required"
+msgstr "%s est n&eacute;cessaire"
+
+#: lib/shortcode/contactForm/contactsend.php:56
+msgid "Your message has been successfully sent to us!"
+msgstr "Votre message a bien &eacute;t&eacute; envoy&eacute; !"
+
+#: lib/shortcode/shortcodes.php:235 lib/shortcode/shortcodes.php:250
+#: loop.php:165 loop.php:181 loop.php:203 loop.php:210 loop.php:241
+#: loop.php:257 loop.php:278 loop.php:285 search.php:18 search.php:23
+msgid "Permanent Link to"
+msgstr "Liens vers"
+
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
+#: loop.php:284
+msgid "Comments (0)"
+msgstr "Commentaires (0)"
+
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
+#: loop.php:284
+msgid "Comment (1)"
+msgstr "Commentaires (1)"
+
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
+#: loop.php:284
+msgid "Comments (%)"
+msgstr "Commentaires (%)"
+
+#: lib/shortcode/shortcodes.php:250 loop.php:181 loop.php:210 loop.php:257
+#: loop.php:285
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: lib/shortcode/shortcodes.php:251 loop.php:182 loop.php:211 loop.php:258
+#: loop.php:286 woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr "Editer"
+
+#: lib/shortcode/shortcodes.php:366
+msgid "SORT BY"
+msgstr "TRIER PAR"
+
+#: lib/shortcode/shortcodes.php:368
+msgid "All"
+msgstr "TOUT"
+
+#: lib/shortcode/shortcodes.php:380 loop-portfolio.php:11
+msgid "Launch project"
+msgstr ""
+
+#: lib/shortcode/shortcodes.php:384
+msgid "more info"
+msgstr ""
+
+#: lib/shortcode/shortcodes.php:637
+msgid "11 Previous"
+msgstr ""
+
+#: lib/shortcode/shortcodes.php:639
+msgid "22 Next"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:10
+msgid "Contact form"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:112
+msgid "Your new field was saved successfully"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:117
+msgid "Edit this new field"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:118
+msgid "Label"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:119
+msgid "New field"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:120
+msgid "Field type"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:122
+msgid "Checkbox"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:123
+msgid "Drop down"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:126
+msgid "Radio"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:127
+msgid "Text"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:128
+msgid "Textarea"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:129
+msgid "Website"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:135
+msgid "Options"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:136
+msgid "First option"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:139
+msgid "Add another option"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:146
+msgid "Required?"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:152
+msgid "Use for reply?"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:157
+msgid "Save this field"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:162
+msgid "Here's what your form will look like"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:167
+msgid "Add a new field"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:170
+msgid "Add this form to my post"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:173
+msgid "Email settings"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:175
+msgid "Enter your email address"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:178
+msgid "What should the subject line be?"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:181
+msgid "Send button text"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:184
+msgid "Use reCaptcha(Public&Private keys must be set)"
+msgstr ""
+
+#: lib/shortcode/shortcodes/contactForm.php:185
+msgid "Theme Options -> reCaptcha"
+msgstr ""
+
+#: lib/shortcode/shortcodes/portfolio.php:89
+msgid "Filterable"
+msgstr ""
+
+#: lib/shortcode/shortcodes/portfolio.php:90
+msgid "Pagination"
+msgstr ""
+
+#: lib/shortcode/shortcodes/portfolio.php:103
+msgid "Big"
+msgstr ""
+
+#: lib/shortcode/shortcodes/portfolio.php:104
+msgid "Medium"
+msgstr ""
+
+#: lib/shortcode/shortcodes/portfolio.php:105
+msgid "Small"
+msgstr ""
+
+#: lib/tweaks.php:416
+msgid "Search for:"
+msgstr ""
+
+#: lib/tweaks.php:417
+msgid "To search type and hit enter"
+msgstr ""
+
+#: lib/tweaks.php:418
+msgid "Search"
+msgstr ""
+
+#: loop-portfolio.php:16
+msgid "Learn more"
+msgstr "En Savoir Plus"
+
+#: loop-portfolio.php:210 loop-testimonials.php:112 loop.php:350 search.php:63
+msgid "Not Found"
+msgstr ""
+
+#: loop-portfolio.php:213 loop-testimonials.php:115 loop.php:353 search.php:66
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: loop.php:54 loop.php:127
+msgid "Author: "
+msgstr ""
+
+#: loop.php:101
+msgid "<span>Categories:</span>"
+msgstr ""
+
+#: loop.php:104
+msgid "<span>Tags:</span>"
+msgstr ""
+
+#: search.php:23
+msgid "read more &rarr;"
+msgstr "en savoir plus &rarr;"
+
+#: title.php:83
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: title.php:87
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: title.php:91
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: title.php:103
+msgid "404 - Oops!"
+msgstr ""
+
+#: title.php:107
+msgid "Results for: "
+msgstr "Resultats pour: "
+
+#: title.php:125
+msgid "Author Archives: "
+msgstr ""
+
+#: title.php:129
+msgid "No posts for current author"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr "Votre panier est actuellement vide."
+
+#: woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr "Retour &agrave; la boutique"
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr "Exp&eacute;dition #%d"
+
+#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr "Exp&eacute;dition"
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Merci d'utiliser le calculateur d'exp&eacute;dition pour voir les m&eacute;"
+"thodes de livraison disponibles."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Entrez votre adresse compl&egrave;te pour voir si il ya des m&eacute;thodes "
+"d'exp&eacute;dition disponibles lors du paiement"
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Merci de remplir vos coordonn&eacute;es pour voir les m&eacute;thodes de "
+"livraison disponibles."
+
+#: woocommerce/cart/cart-shipping.php:76 woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Il n'y a pas de m&eacute;thodes d'exp&eacute;dition disponibles. Merci de "
+"v&eacute;rifier votre adresse, ou nous contacter si vous avez besoin d'aide."
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "Prix Total"
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/mini-cart.php:66
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: woocommerce/cart/cart-totals.php:78
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/checkout/review-order.php:97
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:62
+#: woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " (taxes estim&eacute; pour %s)"
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Note: Les frais de port et les taxes sont estim&eacute;s%s et seront mis "
+"&agrave; jour lors de la commande en fonction de votre adresse d'exp&eacute;"
+"dition."
+
+#: woocommerce/cart/cart.php:26
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: woocommerce/cart/cart.php:27
+msgid "Unit"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "QTY."
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Price"
+msgstr "Prix"
+
+#: woocommerce/cart/cart.php:56
+msgid "Product name:"
+msgstr "Nom du produit:"
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr "Disponible en rupture de stock"
+
+#: woocommerce/cart/cart.php:73
+msgid "Unit:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "QTY:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:98
+msgid "Price:"
+msgstr "Prix:"
+
+#: woocommerce/cart/cart.php:105
+msgid "Remove from cart:"
+msgstr "Retirer du panier:"
+
+#: woocommerce/cart/cart.php:107 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr "Retirer cet article"
+
+#: woocommerce/cart/cart.php:123
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:123
+msgid "Coupon code"
+msgstr "Coupon de r&eacute;duction"
+
+#: woocommerce/cart/cart.php:123
+msgid "Apply Coupon"
+msgstr "Appliquer Coupon"
+
+#: woocommerce/cart/cart.php:132
+msgid "Update Cart"
+msgstr "Mise &agrave; jour du Panier"
+
+#: woocommerce/cart/cross-sells.php:44
+#: woocommerce/single-product/related.php:45
+#: woocommerce/single-product/up-sells.php:45
+msgid "Previous"
+msgstr "Pr&eacute;c&eacute;dent"
+
+#: woocommerce/cart/cross-sells.php:45
+msgid "You may be interested in&hellip;"
+msgstr "Vous pouvez &ecirc;tre int&eacute;ress&eacute; par &hellip;"
+
+#: woocommerce/cart/cross-sells.php:46
+#: woocommerce/single-product/related.php:47
+#: woocommerce/single-product/up-sells.php:47
+msgid "Next"
+msgstr "Suivant"
+
+#: woocommerce/cart/mini-cart.php:58
+msgid "No products in the cart."
+msgstr "Aucun produit dans le panier."
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "View Cart"
+msgstr "Voir le panier"
+
+#: woocommerce/cart/mini-cart.php:72
+msgid "Checkout"
+msgstr "Payer"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "Facturation &amp; Exp&eacute;dition"
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "Adresse de test"
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr "Créer un compte ?"
+
+#: woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Cr&eacute;ez un compte d&egraves maintenant en entrant vos informations ci-"
+"dessous. Si vous &ecirc;tes d&eacute;j&agrave; client merci de vous "
+"connecter (haut de la page)."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Vous devez &ecirc;tre connect&eacute;"
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr "Votre commande"
+
+#: woocommerce/checkout/form-pay.php:20
+#: woocommerce/checkout/review-order.php:17
+#: woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr "Produit"
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr "Totaux"
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"D&eacute;sol&eacute; , il semblerait qu'il n'y ait pas de m&eacute;thodes de "
+"paiement disponibles pour votre localisation. Merci de nous contacter si "
+"vous souhaitez passer commande."
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr "Payer la commande"
+
+#: woocommerce/checkout/form-shipping.php:33
+msgid "Ship to a different address?"
+msgstr "Envoyer &agrave; une adresse diff&eacute;rente ?"
+
+#: woocommerce/checkout/form-shipping.php:36
+msgid "Shipping Details"
+msgstr "Adresse de livraison"
+
+#: woocommerce/checkout/form-shipping.php:60
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr "Informations Complémentaires"
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Malheureusement, votre commande ne peut être trait&eacute;e comme la banque "
+"a refus&eacute;e votre transaction."
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Merci de r&eacute;essayer ou de vous rendre sur votre compte client."
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Merci de r&eacute;essayer."
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:73
+msgid "Pay"
+msgstr "Payer"
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "Merci. Votre commande a &eacute;t&eacute; reçue."
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr "Num&eacute;ro de commande:"
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr "M&eacute;thode de Paiement:"
+
+#: woocommerce/loop/add-to-cart.php:19 woocommerce/loop/add-to-cart.php:49
+#: woocommerce/loop/add-to-cart.php:62
+msgid "Read More"
+msgstr "En Savoir Plus"
+
+#: woocommerce/loop/add-to-cart.php:36
+msgid "Select options"
+msgstr "S&eacute;lectionnez les options"
+
+#: woocommerce/loop/add-to-cart.php:41
+msgid "View options"
+msgstr "Option d'affichage"
+
+#: woocommerce/loop/add-to-cart.php:57
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:188
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:207
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr "Enregistrer Adresse"
+
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:47
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr "Nom d'utilisateur ou adresse e-mail"
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:91
+msgid "Password"
+msgstr "Mot de passe"
+
+#: woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr "Mot de passe oubli&eacute;"
+
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr "Enregistrer"
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr "Adresse mail"
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "Mes Adresses"
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "Mon Adresse"
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Les adresses suivantes seront utilis&eacute;es lors du paiment."
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "Vous n'avez pas encore configur&eacute; ce type d'adresse"
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr "Commandes r&eacute;centes"
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr "Commande"
+
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+#: woocommerce/myaccount/my-orders.php:58
+msgid "Status"
+msgstr "Statut"
+
+#: woocommerce/myaccount/my-orders.php:48
+msgid "Order Number"
+msgstr "Num&eacute;ro De Commande"
+
+#: woocommerce/myaccount/my-orders.php:63
+#, php-format
+msgid "%s for %s item"
+msgstr "%s pour %s article"
+
+#: woocommerce/myaccount/my-orders.php:66
+msgid "Actions:"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:80
+msgid "Cancel"
+msgstr "Annuler"
+
+#: woocommerce/myaccount/my-orders.php:86
+msgid "View"
+msgstr "Voir"
+
+#: woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr "D&eacute;tails de la commande"
+
+#: woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr "Fichiers t&eacute;l&eacute;charg&eacute;s%s"
+
+#: woocommerce/order/order-details.php:126
+#: woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Comprend %s)"
+
+#: woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr "Rembours&eacute;:"
+
+#: woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr "D&eacute;tails client"
+
+#: woocommerce/order/order-details.php:172
+msgid "Telephone:"
+msgstr "T&eacute;l&eacute;phone:"
+
+#: woocommerce/order/order-details.php:193
+#: woocommerce/order/order-details.php:212
+#: woocommerce/single-product/price.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "There are no reviews yet."
+msgstr "Il n'y a pas encore de commentaires."
+
+#: woocommerce/single-product-reviews.php:53
+msgid "Add a review"
+msgstr "Ajouter un commentaire"
+
+#: woocommerce/single-product-reviews.php:53
+msgid "Be the first to review"
+msgstr "Soyez le premier a donner votre avis"
+
+#: woocommerce/single-product-reviews.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laisser un commentaire &agrave; %s"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "E-mail"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Your Rating"
+msgstr "Vos Notes"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Rate&hellip;"
+msgstr "Note&hellip;"
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Perfect"
+msgstr "Parfait"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Good"
+msgstr "Très Bien"
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Average"
+msgstr "Bien"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Not that bad"
+msgstr "Moyen"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Very Poor"
+msgstr "D&eacute;cevant"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Review"
+msgstr "Votre Avis"
+
+#: woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "Seulement les clients connect&eacute;s peuvent laisser un commentaire"
+
+#: woocommerce/single-product/meta.php:26
+msgid "<h3 class=\"widget-title\">Tag</h3>"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "<h3 class=\"widget-title\">Category</h3>"
+msgstr "<h3 class=\"widget-title\">Cat&eacute;gorie</h3>"
+
+#: woocommerce/single-product/price.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/related.php:46
+msgid "Related Products"
+msgstr "Produits Similaires"
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Not&eacute; %d sur 5"
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr "Votre commentaire est en attente d'approbation"
+
+#: woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr "Compte v&eacute;rifi&eacute;"
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr "D&eacute;scription du produit"
+
+#: woocommerce/single-product/up-sells.php:46
+msgid "You May Also Like"
+msgstr "Vous Pourriez Aussi Aimer"
+
+#: woocommerce/widgets/widget-layered-nav.php:21
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: woocommerce/widgets/widget-layered-nav.php:23
+msgid "WooCommerce Layered Nav"
+msgstr ""
+
+#: woocommerce/widgets/widget-layered-nav.php:69
+msgid "Filter by"
+msgstr "Filtrer par"
+
+#: woocommerce/widgets/widget-layered-nav.php:75
+msgid "Attribute"
+msgstr "Attribut"
+
+#: woocommerce/widgets/widget-layered-nav.php:81
+msgid "Display type"
+msgstr "Type d'affichage"
+
+#: woocommerce/widgets/widget-layered-nav.php:83
+msgid "List"
+msgstr "Liste"
+
+#: woocommerce/widgets/widget-layered-nav.php:84
+msgid "Dropdown"
+msgstr "Menu D&eacute;roulant"
+
+#: woocommerce/widgets/widget-layered-nav.php:90
+msgid "Query type"
+msgstr ""
+
+#: woocommerce/widgets/widget-layered-nav.php:92
+msgid "AND"
+msgstr ""
+
+#: woocommerce/widgets/widget-layered-nav.php:93
+msgid "OR"
+msgstr ""
+
+#: woocommerce/widgets/widget-layered-nav.php:174
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:24
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:26
+msgid "WooCommerce Product Categories"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:30
+msgid "Product Categories"
+msgstr "Cat&eacute;gories de produit"
+
+#: woocommerce/widgets/widget-product-categories.php:36
+msgid "Order by"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:38
+msgid "Category Order"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:45
+msgid "Show as dropdown"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:50
+msgid "Show post counts"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:55
+msgid "Show hierarchy"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:60
+msgid "Only show children for the current category"
+msgstr ""
+
+#: woocommerce/widgets/widget-product-categories.php:156
+msgid "No product categories exist."
+msgstr ""
+
+#: woocommerce/widgets/widget-recent-reviews.php:21
+msgid "Display a list of your most recent reviews on your site."
+msgstr ""
+
+#: woocommerce/widgets/widget-recent-reviews.php:23
+msgid "WooCommerce Recent Reviews"
+msgstr ""
+
+#: woocommerce/widgets/widget-recent-reviews.php:27
+msgid "Recent Reviews"
+msgstr ""
+
+#: woocommerce/widgets/widget-recent-reviews.php:36
+msgid "Number of reviews to show"
+msgstr ""
+
+#: woocommerce/widgets/widget-recent-reviews.php:87
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#: wpml-integration.php:32
+msgid "This post is also available in: "
+msgstr ""
