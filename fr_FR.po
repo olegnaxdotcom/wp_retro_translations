@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Retro\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-26 18:01+0700\n"
-"PO-Revision-Date: 2015-05-13 11:01+0100\n"
+"POT-Creation-Date: 2015-05-15 15:05+0700\n"
+"PO-Revision-Date: 2015-05-15 15:05+0700\n"
 "Last-Translator: \n"
 "Language-Team: Olegnax <mail@olegnax.com>\n"
 "Language: en\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;_x;_n\n"
 "X-Poedit-Basepath: ../\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 1.7.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1381,7 +1381,7 @@ msgstr ""
 msgid "Name:"
 msgstr "Nom"
 
-#: classes/Widget/ContactForm.php:43 woocommerce/order/order-details.php:171
+#: classes/Widget/ContactForm.php:43
 msgid "Email:"
 msgstr ""
 
@@ -1619,9 +1619,6 @@ msgid "Open in new tab:"
 msgstr ""
 
 #: classes/Widget/SocialLinks.php:134
-#: woocommerce/widgets/widget-layered-nav.php:70
-#: woocommerce/widgets/widget-product-categories.php:31
-#: woocommerce/widgets/widget-recent-reviews.php:28
 msgid "Title"
 msgstr ""
 
@@ -1715,7 +1712,6 @@ msgstr ""
 #: comments.php:56 lib/shortcode/shortcodes/contactForm.php:125
 #: woocommerce/single-product-reviews.php:58
 #: woocommerce/single-product-reviews.php:59
-#: woocommerce/widgets/widget-product-categories.php:39
 msgid "Name"
 msgstr ""
 
@@ -1766,84 +1762,80 @@ msgstr ""
 msgid "The default sidebar!"
 msgstr ""
 
-#: functions.php:822 functions.php:868
+#: functions.php:808 functions.php:854
 #: woocommerce/single-product/product-image.php:41
 msgid "Placeholder"
 msgstr ""
 
-#: functions.php:883
+#: functions.php:869
 msgid "New Label Background color"
 msgstr ""
 
-#: functions.php:890
+#: functions.php:876
 msgid "New Label Font color"
 msgstr ""
 
-#: functions.php:910
+#: functions.php:896
 msgid "New Label Background Color"
 msgstr ""
 
-#: functions.php:917
+#: functions.php:903
 msgid "New Label Font Color"
 msgstr ""
 
-#: functions.php:944 functions.php:971
+#: functions.php:930 functions.php:957
 msgid "Sale Label Background Color"
 msgstr ""
 
-#: functions.php:951 functions.php:978
+#: functions.php:937 functions.php:964
 msgid "Sale Label Font Color"
 msgstr ""
 
-#: functions.php:1001 functions.php:1036
+#: functions.php:987 functions.php:1022
 msgid "Listing Per Page"
 msgstr ""
 
-#: functions.php:1002 functions.php:1037
+#: functions.php:988 functions.php:1023
 msgid "products"
 msgstr "produits"
 
-#: functions.php:1009 functions.php:1044
+#: functions.php:995 functions.php:1030
 msgid "Show  product  info button in product listing."
 msgstr ""
 
-#: functions.php:1016 functions.php:1051
+#: functions.php:1002 functions.php:1037
 msgid "Hide categories from product page."
 msgstr ""
 
-#: functions.php:1073 header.php:327
-#, php-format
+#: functions.php:1059 header.php:327
+#, fuzzy, php-format
 msgid "Bag - %d"
-msgid_plural "Bag - %d"
-msgstr[0] "Panier - %d"
-msgstr[1] "Panier - %d"
+msgstr "Panier - %d"
 
-#: functions.php:1088
+#: functions.php:1074
 #, php-format
 msgid "Rated %s out of 5"
 msgstr "Not&eacute; %s sur 5"
 
-#: functions.php:1088 woocommerce/single-product/review.php:30
+#: functions.php:1074
 msgid "out of 5"
 msgstr "sur 5"
 
-#: functions.php:2177
-#, php-format
+#: functions.php:1075
+#, fuzzy, php-format
 msgid "%s Review"
-msgid_plural "%s Reviews"
-msgstr[0] "%s Avis"
-msgstr[1] "%s Avis"
+msgstr "%s Avis"
 
-#: functions.php:1090
+#: functions.php:1076
 msgid "Add Your Review"
 msgstr "Donnez votre avis"
 
-#: functions.php:1115
+#: functions.php:1114
 #, php-format
 msgid "%1$s at %2$s"
 msgstr "%1$s &agrave; %2$s"
 
-#: functions.php:1120
+#: functions.php:1119
 msgid "Your comment is awaiting moderation."
 msgstr "Votre commentaire est en attente de mod&eacute;ration."
 
@@ -1945,7 +1937,7 @@ msgid "Read more"
 msgstr "En savoir plus"
 
 #: lib/shortcode/shortcodes.php:251 loop.php:182 loop.php:211 loop.php:258
-#: loop.php:286 woocommerce/myaccount/my-address.php:45
+#: loop.php:286
 msgid "Edit"
 msgstr "Editer"
 
@@ -2172,85 +2164,6 @@ msgstr ""
 msgid "No posts for current author"
 msgstr ""
 
-#: woocommerce/cart/cart-empty.php:18
-msgid "Your cart is currently empty."
-msgstr "Votre panier est actuellement vide."
-
-#: woocommerce/cart/cart-empty.php:22
-msgid "Return To Shop"
-msgstr "Retour &agrave; la boutique"
-
-#: woocommerce/cart/cart-shipping.php:20
-#, php-format
-msgid "Shipping #%d"
-msgstr "Exp&eacute;dition #%d"
-
-#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:97
-#: woocommerce/cart/cart-totals.php:46
-msgid "Shipping"
-msgstr "Exp&eacute;dition"
-
-#: woocommerce/cart/cart-shipping.php:59
-msgid "Please use the shipping calculator to see available shipping methods."
-msgstr ""
-"Merci d'utiliser le calculateur d'exp&eacute;dition pour voir les m&eacute;"
-"thodes de livraison disponibles."
-
-#: woocommerce/cart/cart-shipping.php:63
-msgid ""
-"Please continue to the checkout and enter your full address to see if there "
-"are any available shipping methods."
-msgstr ""
-"Entrez votre adresse compl&egrave;te pour voir si il ya des m&eacute;thodes "
-"d'exp&eacute;dition disponibles lors du paiement"
-
-#: woocommerce/cart/cart-shipping.php:67
-msgid "Please fill in your details to see available shipping methods."
-msgstr ""
-"Merci de remplir vos coordonn&eacute;es pour voir les m&eacute;thodes de "
-"livraison disponibles."
-
-#: woocommerce/cart/cart-shipping.php:76 woocommerce/cart/cart-shipping.php:82
-msgid ""
-"There are no shipping methods available. Please double check your address, "
-"or contact us if you need any help."
-msgstr ""
-"Il n'y a pas de m&eacute;thodes d'exp&eacute;dition disponibles. Merci de "
-"v&eacute;rifier votre adresse, ou nous contacter si vous avez besoin d'aide."
-
-#: woocommerce/cart/cart-totals.php:19
-msgid "Cart Totals"
-msgstr "Prix Total"
-
-#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/mini-cart.php:66
-#: woocommerce/checkout/review-order.php:50
-msgid "Subtotal"
-msgstr "Sous-total"
-
-#: woocommerce/cart/cart-totals.php:78
-#: woocommerce/checkout/review-order.php:18
-#: woocommerce/checkout/review-order.php:97
-#: woocommerce/myaccount/my-orders.php:35
-#: woocommerce/myaccount/my-orders.php:62
-#: woocommerce/order/order-details.php:22
-msgid "Total"
-msgstr "Total"
-
-#: woocommerce/cart/cart-totals.php:90
-#, php-format
-msgid " (taxes estimated for %s)"
-msgstr " (taxes estim&eacute; pour %s)"
-
-#: woocommerce/cart/cart-totals.php:93
-#, php-format
-msgid ""
-"Note: Shipping and taxes are estimated%s and will be updated during checkout "
-"based on your billing and shipping information."
-msgstr ""
-"Note: Les frais de port et les taxes sont estim&eacute;s%s et seront mis "
-"&agrave; jour lors de la commande en fonction de votre adresse d'exp&eacute;"
-"dition."
-
 #: woocommerce/cart/cart.php:26
 msgid "Product name"
 msgstr "Nom du produit"
@@ -2291,7 +2204,7 @@ msgstr "Prix:"
 msgid "Remove from cart:"
 msgstr "Retirer du panier:"
 
-#: woocommerce/cart/cart.php:107 woocommerce/cart/mini-cart.php:48
+#: woocommerce/cart/cart.php:107
 msgid "Remove this item"
 msgstr "Retirer cet article"
 
@@ -2327,75 +2240,6 @@ msgstr "Vous pouvez &ecirc;tre int&eacute;ress&eacute; par &hellip;"
 msgid "Next"
 msgstr "Suivant"
 
-#: woocommerce/cart/mini-cart.php:58
-msgid "No products in the cart."
-msgstr "Aucun produit dans le panier."
-
-#: woocommerce/cart/mini-cart.php:71
-msgid "View Cart"
-msgstr "Voir le panier"
-
-#: woocommerce/cart/mini-cart.php:72
-msgid "Checkout"
-msgstr "Payer"
-
-#: woocommerce/checkout/form-billing.php:19
-msgid "Billing &amp; Shipping"
-msgstr "Facturation &amp; Exp&eacute;dition"
-
-#: woocommerce/checkout/form-billing.php:23
-msgid "Billing Details"
-msgstr "Adresse de test"
-
-#: woocommerce/checkout/form-billing.php:42
-msgid "Create an account?"
-msgstr "Créer un compte ?"
-
-#: woocommerce/checkout/form-billing.php:53
-msgid ""
-"Create an account by entering the information below. If you are a returning "
-"customer please login at the top of the page."
-msgstr ""
-"Cr&eacute;ez un compte d&egraves maintenant en entrant vos informations ci-"
-"dessous. Si vous &ecirc;tes d&eacute;j&agrave; client merci de vous "
-"connecter (haut de la page)."
-
-#: woocommerce/checkout/form-checkout.php:20
-msgid "You must be logged in to checkout."
-msgstr "Vous devez &ecirc;tre connect&eacute;"
-
-#: woocommerce/checkout/form-checkout.php:45
-msgid "Your order"
-msgstr "Votre commande"
-
-#: woocommerce/checkout/form-pay.php:20
-#: woocommerce/checkout/review-order.php:17
-#: woocommerce/order/order-details.php:21
-msgid "Product"
-msgstr "Produit"
-
-#: woocommerce/checkout/form-pay.php:21
-msgid "Qty"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:22
-msgid "Totals"
-msgstr "Totaux"
-
-#: woocommerce/checkout/form-pay.php:79
-msgid ""
-"Sorry, it seems that there are no available payment methods for your "
-"location. Please contact us if you require assistance or wish to make "
-"alternate arrangements."
-msgstr ""
-"D&eacute;sol&eacute; , il semblerait qu'il n'y ait pas de m&eacute;thodes de "
-"paiement disponibles pour votre localisation. Merci de nous contacter si "
-"vous souhaitez passer commande."
-
-#: woocommerce/checkout/form-pay.php:89
-msgid "Pay for order"
-msgstr "Payer la commande"
-
 #: woocommerce/checkout/form-shipping.php:33
 msgid "Ship to a different address?"
 msgstr "Envoyer &agrave; une adresse diff&eacute;rente ?"
@@ -2405,7 +2249,6 @@ msgid "Shipping Details"
 msgstr "Adresse de livraison"
 
 #: woocommerce/checkout/form-shipping.php:60
-#: woocommerce/single-product/tabs/additional-information.php:16
 msgid "Additional Information"
 msgstr "Informations Complémentaires"
 
@@ -2425,7 +2268,7 @@ msgstr "Merci de r&eacute;essayer ou de vous rendre sur votre compte client."
 msgid "Please attempt your purchase again."
 msgstr "Merci de r&eacute;essayer."
 
-#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:73
+#: woocommerce/checkout/thankyou.php:28
 msgid "Pay"
 msgstr "Payer"
 
@@ -2465,154 +2308,6 @@ msgstr "Option d'affichage"
 #: woocommerce/loop/add-to-cart.php:57
 msgid "Add to cart"
 msgstr "Ajouter au panier"
-
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:19
-#: woocommerce/myaccount/my-address.php:25
-#: woocommerce/order/order-details.php:188
-msgid "Billing Address"
-msgstr ""
-
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:20
-#: woocommerce/order/order-details.php:207
-msgid "Shipping Address"
-msgstr ""
-
-#: woocommerce/myaccount/form-edit-address.php:45
-msgid "Save Address"
-msgstr "Enregistrer Adresse"
-
-#: woocommerce/myaccount/form-login.php:28
-#: woocommerce/myaccount/form-login.php:47
-msgid "Login"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:35
-msgid "Username or email address"
-msgstr "Nom d'utilisateur ou adresse e-mail"
-
-#: woocommerce/myaccount/form-login.php:39
-#: woocommerce/myaccount/form-login.php:91
-msgid "Password"
-msgstr "Mot de passe"
-
-#: woocommerce/myaccount/form-login.php:49
-msgid "Remember me"
-msgstr "Se souvenir de moi"
-
-#: woocommerce/myaccount/form-login.php:53
-msgid "Lost your password?"
-msgstr "Mot de passe oubli&eacute;"
-
-#: woocommerce/myaccount/form-login.php:66
-#: woocommerce/myaccount/form-login.php:107
-msgid "Register"
-msgstr "Enregistrer"
-
-#: woocommerce/myaccount/form-login.php:75
-msgid "Username"
-msgstr "Nom d'utilisateur"
-
-#: woocommerce/myaccount/form-login.php:82
-msgid "Email address"
-msgstr "Adresse mail"
-
-#: woocommerce/myaccount/form-login.php:100
-msgid "Anti-spam"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:17
-msgid "My Addresses"
-msgstr "Mes Adresses"
-
-#: woocommerce/myaccount/my-address.php:23
-msgid "My Address"
-msgstr "Mon Adresse"
-
-#: woocommerce/myaccount/my-address.php:35
-msgid "The following addresses will be used on the checkout page by default."
-msgstr "Les adresses suivantes seront utilis&eacute;es lors du paiment."
-
-#: woocommerce/myaccount/my-address.php:64
-msgid "You have not set up this type of address yet."
-msgstr "Vous n'avez pas encore configur&eacute; ce type d'adresse"
-
-#: woocommerce/myaccount/my-orders.php:26
-msgid "Recent Orders"
-msgstr "Commandes r&eacute;centes"
-
-#: woocommerce/myaccount/my-orders.php:32
-msgid "Order"
-msgstr "Commande"
-
-#: woocommerce/myaccount/my-orders.php:33
-#: woocommerce/myaccount/my-orders.php:54
-msgid "Date"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:34
-#: woocommerce/myaccount/my-orders.php:58
-msgid "Status"
-msgstr "Statut"
-
-#: woocommerce/myaccount/my-orders.php:48
-msgid "Order Number"
-msgstr "Num&eacute;ro De Commande"
-
-#: woocommerce/myaccount/my-orders.php:63
-#, php-format
-msgid "%s for %s item"
-msgstr "%s pour %s article"
-
-#: woocommerce/myaccount/my-orders.php:66
-msgid "Actions:"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:80
-msgid "Cancel"
-msgstr "Annuler"
-
-#: woocommerce/myaccount/my-orders.php:86
-msgid "View"
-msgstr "Voir"
-
-#: woocommerce/order/order-details.php:17
-msgid "Order Details"
-msgstr "D&eacute;tails de la commande"
-
-#: woocommerce/order/order-details.php:60
-#, php-format
-msgid "Download file%s"
-msgstr "Fichiers t&eacute;l&eacute;charg&eacute;s%s"
-
-#: woocommerce/order/order-details.php:126
-#: woocommerce/order/order-details.php:130
-#, php-format
-msgid "(Includes %s)"
-msgstr "(Comprend %s)"
-
-#: woocommerce/order/order-details.php:148
-msgid "Refunded:"
-msgstr "Rembours&eacute;:"
-
-#: woocommerce/order/order-details.php:157
-msgid "Note:"
-msgstr ""
-
-#: woocommerce/order/order-details.php:167
-msgid "Customer details"
-msgstr "D&eacute;tails client"
-
-#: woocommerce/order/order-details.php:172
-msgid "Telephone:"
-msgstr "T&eacute;l&eacute;phone:"
-
-#: woocommerce/order/order-details.php:193
-#: woocommerce/order/order-details.php:212
-#: woocommerce/single-product/price.php:23
-msgid "N/A"
-msgstr ""
 
 #: woocommerce/single-product-reviews.php:40
 msgid "There are no reviews yet."
@@ -2684,139 +2379,232 @@ msgstr "<h3 class=\"widget-title\">Cat&eacute;gorie</h3>"
 msgid "SKU:"
 msgstr ""
 
+#: woocommerce/single-product/price.php:23
+msgid "N/A"
+msgstr ""
+
 #: woocommerce/single-product/related.php:46
 msgid "Related Products"
 msgstr "Produits Similaires"
-
-#: woocommerce/single-product/review.php:29
-#, php-format
-msgid "Rated %d out of 5"
-msgstr "Not&eacute; %d sur 5"
-
-#: woocommerce/single-product/review.php:37
-msgid "Your comment is awaiting approval"
-msgstr "Votre commentaire est en attente d'approbation"
-
-#: woocommerce/single-product/review.php:46
-msgid "verified owner"
-msgstr "Compte v&eacute;rifi&eacute;"
-
-#: woocommerce/single-product/tabs/description.php:16
-msgid "Product Description"
-msgstr "D&eacute;scription du produit"
 
 #: woocommerce/single-product/up-sells.php:46
 msgid "You May Also Like"
 msgstr "Vous Pourriez Aussi Aimer"
 
-#: woocommerce/widgets/widget-layered-nav.php:21
-msgid ""
-"Shows a custom attribute in a widget which lets you narrow down the list of "
-"products when viewing product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:23
-msgid "WooCommerce Layered Nav"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:69
-msgid "Filter by"
-msgstr "Filtrer par"
-
-#: woocommerce/widgets/widget-layered-nav.php:75
-msgid "Attribute"
-msgstr "Attribut"
-
-#: woocommerce/widgets/widget-layered-nav.php:81
-msgid "Display type"
-msgstr "Type d'affichage"
-
-#: woocommerce/widgets/widget-layered-nav.php:83
-msgid "List"
-msgstr "Liste"
-
-#: woocommerce/widgets/widget-layered-nav.php:84
-msgid "Dropdown"
-msgstr "Menu D&eacute;roulant"
-
-#: woocommerce/widgets/widget-layered-nav.php:90
-msgid "Query type"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:92
-msgid "AND"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:93
-msgid "OR"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:174
-#, php-format
-msgid "Any %s"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:24
-msgid "A list or dropdown of product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:26
-msgid "WooCommerce Product Categories"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:30
-msgid "Product Categories"
-msgstr "Cat&eacute;gories de produit"
-
-#: woocommerce/widgets/widget-product-categories.php:36
-msgid "Order by"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:38
-msgid "Category Order"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:45
-msgid "Show as dropdown"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:50
-msgid "Show post counts"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:55
-msgid "Show hierarchy"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:60
-msgid "Only show children for the current category"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:156
-msgid "No product categories exist."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:21
-msgid "Display a list of your most recent reviews on your site."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:23
-msgid "WooCommerce Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:27
-msgid "Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:36
-msgid "Number of reviews to show"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:87
-#, php-format
-msgid "by %1$s"
-msgstr ""
-
 #: wpml-integration.php:32
 msgid "This post is also available in: "
 msgstr ""
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "Votre panier est actuellement vide."
+
+#~ msgid "Return To Shop"
+#~ msgstr "Retour &agrave; la boutique"
+
+#~ msgid "Shipping #%d"
+#~ msgstr "Exp&eacute;dition #%d"
+
+#~ msgid "Shipping"
+#~ msgstr "Exp&eacute;dition"
+
+#~ msgid ""
+#~ "Please use the shipping calculator to see available shipping methods."
+#~ msgstr ""
+#~ "Merci d'utiliser le calculateur d'exp&eacute;dition pour voir les "
+#~ "m&eacute;thodes de livraison disponibles."
+
+#~ msgid ""
+#~ "Please continue to the checkout and enter your full address to see if "
+#~ "there are any available shipping methods."
+#~ msgstr ""
+#~ "Entrez votre adresse compl&egrave;te pour voir si il ya des m&eacute;"
+#~ "thodes d'exp&eacute;dition disponibles lors du paiement"
+
+#~ msgid "Please fill in your details to see available shipping methods."
+#~ msgstr ""
+#~ "Merci de remplir vos coordonn&eacute;es pour voir les m&eacute;thodes de "
+#~ "livraison disponibles."
+
+#~ msgid ""
+#~ "There are no shipping methods available. Please double check your "
+#~ "address, or contact us if you need any help."
+#~ msgstr ""
+#~ "Il n'y a pas de m&eacute;thodes d'exp&eacute;dition disponibles. Merci de "
+#~ "v&eacute;rifier votre adresse, ou nous contacter si vous avez besoin "
+#~ "d'aide."
+
+#~ msgid "Cart Totals"
+#~ msgstr "Prix Total"
+
+#~ msgid "Subtotal"
+#~ msgstr "Sous-total"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr " (taxes estim&eacute; pour %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Note: Les frais de port et les taxes sont estim&eacute;s%s et seront mis "
+#~ "&agrave; jour lors de la commande en fonction de votre adresse "
+#~ "d'exp&eacute;dition."
+
+#~ msgid "No products in the cart."
+#~ msgstr "Aucun produit dans le panier."
+
+#~ msgid "View Cart"
+#~ msgstr "Voir le panier"
+
+#~ msgid "Checkout"
+#~ msgstr "Payer"
+
+#~ msgid "Billing &amp; Shipping"
+#~ msgstr "Facturation &amp; Exp&eacute;dition"
+
+#~ msgid "Billing Details"
+#~ msgstr "Adresse de test"
+
+#~ msgid "Create an account?"
+#~ msgstr "Créer un compte ?"
+
+#~ msgid ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+#~ msgstr ""
+#~ "Cr&eacute;ez un compte d&egraves maintenant en entrant vos informations "
+#~ "ci-dessous. Si vous &ecirc;tes d&eacute;j&agrave; client merci de vous "
+#~ "connecter (haut de la page)."
+
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "Vous devez &ecirc;tre connect&eacute;"
+
+#~ msgid "Your order"
+#~ msgstr "Votre commande"
+
+#~ msgid "Product"
+#~ msgstr "Produit"
+
+#~ msgid "Totals"
+#~ msgstr "Totaux"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "location. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "D&eacute;sol&eacute; , il semblerait qu'il n'y ait pas de m&eacute;thodes "
+#~ "de paiement disponibles pour votre localisation. Merci de nous contacter "
+#~ "si vous souhaitez passer commande."
+
+#~ msgid "Pay for order"
+#~ msgstr "Payer la commande"
+
+#~ msgid "Save Address"
+#~ msgstr "Enregistrer Adresse"
+
+#~ msgid "Username or email address"
+#~ msgstr "Nom d'utilisateur ou adresse e-mail"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Remember me"
+#~ msgstr "Se souvenir de moi"
+
+#~ msgid "Lost your password?"
+#~ msgstr "Mot de passe oubli&eacute;"
+
+#~ msgid "Register"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Username"
+#~ msgstr "Nom d'utilisateur"
+
+#~ msgid "Email address"
+#~ msgstr "Adresse mail"
+
+#~ msgid "My Addresses"
+#~ msgstr "Mes Adresses"
+
+#~ msgid "My Address"
+#~ msgstr "Mon Adresse"
+
+#~ msgid ""
+#~ "The following addresses will be used on the checkout page by default."
+#~ msgstr "Les adresses suivantes seront utilis&eacute;es lors du paiment."
+
+#~ msgid "You have not set up this type of address yet."
+#~ msgstr "Vous n'avez pas encore configur&eacute; ce type d'adresse"
+
+#~ msgid "Recent Orders"
+#~ msgstr "Commandes r&eacute;centes"
+
+#~ msgid "Order"
+#~ msgstr "Commande"
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#~ msgid "Order Number"
+#~ msgstr "Num&eacute;ro De Commande"
+
+#~ msgid "%s for %s item"
+#~ msgstr "%s pour %s article"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "View"
+#~ msgstr "Voir"
+
+#~ msgid "Order Details"
+#~ msgstr "D&eacute;tails de la commande"
+
+#~ msgid "Download file%s"
+#~ msgstr "Fichiers t&eacute;l&eacute;charg&eacute;s%s"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(Comprend %s)"
+
+#~ msgid "Refunded:"
+#~ msgstr "Rembours&eacute;:"
+
+#~ msgid "Customer details"
+#~ msgstr "D&eacute;tails client"
+
+#~ msgid "Telephone:"
+#~ msgstr "T&eacute;l&eacute;phone:"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Not&eacute; %d sur 5"
+
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Votre commentaire est en attente d'approbation"
+
+#~ msgid "verified owner"
+#~ msgstr "Compte v&eacute;rifi&eacute;"
+
+#~ msgid "Product Description"
+#~ msgstr "D&eacute;scription du produit"
+
+#~ msgid "Filter by"
+#~ msgstr "Filtrer par"
+
+#~ msgid "Attribute"
+#~ msgstr "Attribut"
+
+#~ msgid "Display type"
+#~ msgstr "Type d'affichage"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "Dropdown"
+#~ msgstr "Menu D&eacute;roulant"
+
+#~ msgid "Product Categories"
+#~ msgstr "Cat&eacute;gories de produit"

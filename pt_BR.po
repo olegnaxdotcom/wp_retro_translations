@@ -2,1014 +2,1035 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Retro - Premium Vintage WordPress Theme v3.6.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-24 15:48:57+0000\n"
+"POT-Creation-Date: 2015-05-15 15:06+0700\n"
+"PO-Revision-Date: 2015-05-15 15:06+0700\n"
 "Last-Translator: Stan <stan@olegnax.com>\n"
-"Language-Team: \n"
+"Language-Team: Olegnax <mail@olegnax.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: CSL v1.x\n"
-"X-Poedit-Language: Portuguese\n"
-"X-Poedit-Country: BRAZIL\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
-"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Textdomain-Support: yes"
+"X-Poedit-SearchPathExcluded-0: lib/revslider\n"
 
+# @ retro
 #: 404.php:5
-#@ retro
 msgid "The page you are trying to reach can&apos;t be found"
 msgstr "A página que você estava procurando não foi encontrada"
 
+# @ retro
 #: 404.php:6
-#@ retro
-msgid "Try refining your search, or use the navigation above to locate the post."
-msgstr "Tente refinar sua busca, ou usar a navegação acima para localizar o post."
+msgid ""
+"Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+"Tente refinar sua busca, ou usar a navegação acima para localizar o post."
 
+# @ retro
 #: 404.php:7
-#@ retro
 msgid "back to home"
 msgstr "retorno"
 
-#: classes/Admin/Theme/Element/File/Favicon.php:28
+# @ retro
 #: classes/Admin/Theme/Element/File.php:33
-#@ retro
+#: classes/Admin/Theme/Element/File/Favicon.php:28
 msgid "Upload"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Element/InstallDummy.php:18
-#@ retro
-msgid "<p><strong>Warning!</strong><br> DO NOT INSTALL dummy data on your live website. <br>It will corrupt your existing data.</p><p>We suggest you install dummy data only on clean WordPress setup.</p><p><small>We do not hold any responsibility if you lost existing data.</small></p>"
+msgid ""
+"<p><strong>Warning!</strong><br> DO NOT INSTALL dummy data on your live "
+"website. <br>It will corrupt your existing data.</p><p>We suggest you "
+"install dummy data only on clean WordPress setup.</p><p><small>We do not "
+"hold any responsibility if you lost existing data.</small></p>"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Element/InstallDummy.php:22
-#@ retro
 msgid "Dummy content already installed."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Element/InstallDummy.php:24
-#@ retro
 msgid "Install dummy content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Element/InstallDummy.php:27
-#@ retro
 msgid "Loading"
 msgstr ""
 
-#: classes/Admin/Theme/Item/Blog.php:12
-#: classes/Admin/Theme/Item/Blog.php:13
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/Blog.php:12 classes/Admin/Theme/Item/Blog.php:13
 msgid "Blog"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:25
-#@ retro
 msgid "Blog Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:32
-#@ retro
 msgid "Sidebar position for blog listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:33
-#@ retro
 msgid "Choose a sidebar position for blog listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:41
-#@ retro
 msgid "Sidebar for blog listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:42
-#@ retro
 msgid "Choose a sidebar for blog listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:52
-#@ retro
 msgid "Blog listing template"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:53
-#@ retro
 msgid "Choose a blog listing template"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:65
-#@ retro
 msgid "Switch On to disable excerpts on blog listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:66
-#@ retro
 msgid "Disable excerpts"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:72
-#@ retro
 msgid "Switch On to disable about author box on post entry"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:73
-#@ retro
 msgid "Disable about author box"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:83
-#@ retro
 msgid "Sidebar position for single post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:84
-#@ retro
 msgid "Choose a sidebar position for single post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:92
-#@ retro
 msgid "Sidebar for single post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:93
-#@ retro
 msgid "Choose a sidebar for single post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:105
-#@ retro
 msgid "Select a  slideshow type"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:106
-#@ retro
 msgid "Select a  slideshow type "
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:114
 #: classes/Admin/Theme/Item/Slideshow.php:57
-#@ retro
 msgid "Select one of sliders"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:115
 #: classes/Admin/Theme/Item/Slideshow.php:58
-#@ retro
 msgid "Select one of sliders "
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:121
-#@ retro
 msgid "Blog page title"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Blog.php:122
-#@ retro
 msgid "Title will be shown on any blog post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Captcha.php:8
 #: classes/Admin/Theme/Item/Captcha.php:9
-#@ retro
 msgid "reCaptcha"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Captcha.php:27
-#@ retro
-msgid "Learn more about reCaptcha <a href='//developers.google.com/recaptcha/' title='What is reCAPTCHA?'  target='_blank'>here</a>"
+msgid ""
+"Learn more about reCaptcha <a href='//developers.google.com/recaptcha/' "
+"title='What is reCAPTCHA?'  target='_blank'>here</a>"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Captcha.php:32
-#@ retro
 msgid "Public Key"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Captcha.php:33
 #: classes/Admin/Theme/Item/Captcha.php:41
-#@ retro
 msgid "These keys are required for using in reCaptcha."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Captcha.php:40
-#@ retro
 msgid "Private Key"
 msgstr ""
 
-#: classes/Admin/Theme/Item/Dummy.php:13
-#: classes/Admin/Theme/Item/Dummy.php:14
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/Dummy.php:13 classes/Admin/Theme/Item/Dummy.php:14
 msgid "Dummy content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Dummy.php:25
-#@ retro
 msgid "Dummy content install"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:10
 #: classes/Admin/Theme/Item/Footer.php:11
-#@ retro
 msgid "Footer"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:23
-#@ retro
 msgid "Footer Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:36
-#@ retro
 msgid "Enable footer widget area"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:37
-#@ retro
-msgid "Check this box if you want to enable footer widgets area for whole site."
+msgid ""
+"Check this box if you want to enable footer widgets area for whole site."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:44
-#@ retro
 msgid "Columns number for footer widgets area"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:45
-#@ retro
-msgid "Select how many columns(sidebars) you want display for footer widgets area."
+msgid ""
+"Select how many columns(sidebars) you want display for footer widgets area."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:57
-#@ retro
 msgid "Footer text"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:58
-#@ retro
 msgid "Type here text that appear at botttom of each page - copyrights, etc.."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:65
-#@ retro
 msgid "Google Analytics"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:66
-#@ retro
 msgid "Insert your Google Analytics (or other) code here."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:78
-#@ retro
 msgid "Footer custom content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Footer.php:79
-#@ retro
 msgid "You can use custom content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:11
 #: classes/Admin/Theme/Item/General.php:12
-#@ retro
 msgid "General"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:24
-#: classes/Widget/MailChimp.php:38
-#: lib/revslider/settings/slider_settings_xml_lang.php:2
-#: lib/revslider/views/system/general_settings_dialog.php:17
-#@ retro
-#@ revslider
+# @ retro
+# @ revslider
+#: classes/Admin/Theme/Item/General.php:24 classes/Widget/MailChimp.php:38
 msgid "General Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:31
-#@ retro
 msgid "Show preview switcher"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:32
-#@ retro
 msgid "Check to show preview color switcher"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:39
-#@ retro
 msgid "Preview default Skin slider"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:40
-#@ retro
 msgid "Select a slideshow fore preview default skin"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:46
-#@ retro
 msgid "Preview Skin 1 slider"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:47
-#@ retro
 msgid "Select a slideshow fore preview skin 1"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:53
-#@ retro
 msgid "Preview 2 slider"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:54
-#@ retro
 msgid "Select a slideshow fore preview skin 2"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:60
-#@ retro
 msgid "Preview 3 slider"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:61
-#@ retro
 msgid "Select a slideshow fore preview skin 3"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:67
-#@ retro
 msgid "Preview 4 slider"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:68
-#@ retro
 msgid "Select a slideshow fore preview skin 4"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:99
-#@ retro
 msgid "Choose Google font for titles"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:100
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:154
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:150
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:155
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:153
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:150
-#@ retro
 msgid "Choose a Font for titles, etc."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:109
-#@ retro
 msgid "Disable Google fonts"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:110
-#@ retro
 msgid "Check to disable Google fonts"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:118
-#@ retro
-msgid "Check to disable default theme font and use \"font family for content\" value"
+msgid ""
+"Check to disable default theme font and use \"font family for content\" value"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/General.php:119
-#@ retro
 msgid "Use default theme font BazarMedium(if google font disable)"
 msgstr ""
 
+#: classes/Admin/Theme/Item/General.php:132
+msgid "Disable Font Awesome"
+msgstr ""
+
 #: classes/Admin/Theme/Item/General.php:133
-#: classes/Admin/Theme/Item/General.php:134
-#@ retro
+msgid "Check to disable Font Awesome"
+msgstr ""
+
+# @ retro
+#: classes/Admin/Theme/Item/General.php:145
+#: classes/Admin/Theme/Item/General.php:146
 msgid "Choose a font family for content"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:142
-#: classes/Admin/Theme/Item/General.php:143
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/General.php:154
+#: classes/Admin/Theme/Item/General.php:155
 msgid "Choose a font style for content"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:155
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/General.php:167
 msgid "Favicon"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:156
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/General.php:168
 msgid "Click upload button, then choose and upload your favicon file"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:167
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/General.php:179
 msgid "Disable responsive"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:168
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/General.php:180
 msgid "Check to disable responsive support"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:12
 #: classes/Admin/Theme/Item/Header.php:13
-#: lib/revslider/inc_php/revslider_operations.class.php:1200
-#@ retro
 msgid "Header"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:26
-#@ retro
 msgid "Header Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:53
-#@ retro
 msgid "Header custom content - left"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:54
-#@ retro
 msgid "headder left text area"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:64
-#@ retro
 msgid "Header custom content - right"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:65
-#@ retro
 msgid "header right text area"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:76
-#@ retro
 msgid "Hide my account link"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:77
-#@ retro
 msgid "Check this box if you want to hide my account link at top line"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:84
-#@ retro
 msgid "Hide shopping cart"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Header.php:85
-#@ retro
 msgid "Check this box if you want to hide shopping cart at top line"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/MailChimp.php:6
-#: classes/Admin/Theme/Item/MailChimp.php:7
-#: classes/Widget/MailChimp.php:10
-#@ retro
+#: classes/Admin/Theme/Item/MailChimp.php:7 classes/Widget/MailChimp.php:10
 msgid "MailChimp"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/MailChimp.php:17
 #: classes/Admin/Theme/Item/MailChimp.php:32
 #: classes/Admin/Theme/Item/MailChimp.php:33
-#@ retro
 msgid "MailChimp API key"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/MailChimp.php:23
-#@ retro
-msgid "Enter a valid MailChimp API key here to get started. Once you've done that, you can use the MailChimp Widget from the Widgets menu. You will need to have at least MailChimp list set up before the using the widget."
+msgid ""
+"Enter a valid MailChimp API key here to get started. Once you've done that, "
+"you can use the MailChimp Widget from the Widgets menu. You will need to "
+"have at least MailChimp list set up before the using the widget."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/MailChimp.php:28
-#@ retro
-msgid "Don't know where to get? please visit this link, <a href=\"http://kb.mailchimp.com/article/how-do-i-log-in-to-the-mailchimp-iphone-app-through-google-apps\" target=\"_blank\">Get API Key</a>"
+msgid ""
+"Don't know where to get? please visit this link, <a href=\"http://kb."
+"mailchimp.com/article/how-do-i-log-in-to-the-mailchimp-iphone-app-through-"
+"google-apps\" target=\"_blank\">Get API Key</a>"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:14
 #: classes/Admin/Theme/Item/Portfolios.php:15
-#@ retro
 msgid "Portfolios"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:25
-#@ retro
 msgid "Portfolios settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:30
-#@ retro
 msgid "Sidebar position for portfolios listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:31
-#@ retro
 msgid "Choose a sidebar position for portfolios listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:39
-#@ retro
 msgid "Sidebar for portfolios listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:40
-#@ retro
 msgid "Choose a sidebar for portfolios listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:51
-#@ retro
 msgid "Side content position for single portfolio post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:52
-#@ retro
 msgid "Choose a sidebar position for single portfolio"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:68
-#@ retro
 msgid "Portfolio post slug"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:69
-#@ retro
 msgid "Write custom slug for portfolio post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:76
-#@ retro
 msgid "Portfolio category slug"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Portfolios.php:77
-#@ retro
 msgid "Write custom slug for portfolio category"
 msgstr ""
 
-#: classes/Admin/Theme/Item/Share.php:25
-#: classes/Admin/Theme/Item/Share.php:26
-#@ retro
+# @ retro
+#: classes/Admin/Theme/Item/Share.php:25 classes/Admin/Theme/Item/Share.php:26
 msgid "Share buttons"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:37
-#@ retro
 msgid "Share button Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:41
-#@ retro
 msgid "Show share buttons under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:53
-#@ retro
 msgid "Share title"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:54
-#@ retro
 msgid "Text before share buttons."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:60
-#@ retro
 msgid "Share button style"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:61
-#@ retro
 msgid "Choose a Share button style"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:73
-#@ retro
 msgid "Share buttons list"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:77
-#@ retro
 msgid "Show Facebook"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:78
-#@ retro
 msgid "Check this box if you want to show Facebook share button under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:86
-#@ retro
 msgid "Show Twitter"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:87
-#@ retro
 msgid "Check this box if you want to show Twitter share button under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:94
-#@ retro
 msgid "Show Google+"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:95
-#@ retro
 msgid "Check this box if you want to show Google+ share button under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:102
-#@ retro
 msgid "Show LinkedIn"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:103
-#@ retro
 msgid "Check this box if you want to show LinkedIn share button under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:110
-#@ retro
 msgid "Show Pinterest"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:111
-#@ retro
 msgid "Check this box if you want to show Pinterest share button under content"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:122
-#@ retro
 msgid "List which displays share buttons"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:126
-#@ retro
 msgid "Show on post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:127
-#@ retro
 msgid "Check this box if you want to show share button on post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:134
-#@ retro
 msgid "Show on page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:135
-#@ retro
 msgid "Check this box if you want to show share button on page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:142
-#@ retro
 msgid "Show on portfolio"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:143
-#@ retro
 msgid "Check this box if you want to show share button on portfolio"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:150
-#@ retro
 msgid "Show on product"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Share.php:151
-#@ retro
 msgid "Check this box if you want to show share button on product"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:10
 #: classes/Admin/Theme/Item/Sidebar.php:11
-#@ retro
 msgid "Sidebars"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:23
-#@ retro
 msgid "Sidebars Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:28
-#@ retro
 msgid "Add Sidebar:"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:29
-#@ retro
 msgid "Enter the name of the new sidebar that you would like to create."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:35
-#@ retro
 msgid "Below are the Sidebars you have created:"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Sidebar.php:36
-#@ retro
 msgid "Sidebars created:"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Skin.php:10
-#@ retro
 msgid "Theme Skin Layout"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Skin.php:11
-#@ retro
 msgid "Theme Skin"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Skin.php:22
-#@ retro
 msgid "Skin Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Skin.php:27
-#@ retro
 msgid "Skin layout"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Skin.php:28
-#@ retro
 msgid "Select to activate skin layout for theme"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:30
 #: classes/Admin/Theme/Item/Slideshow.php:31
-#@ retro
 msgid "Slideshows"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:43
-#@ retro
 msgid "Slideshow Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:48
-#@ retro
 msgid "Select a global slideshow type"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:49
-#@ retro
 msgid "Select a global slideshow type "
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:68
-#@ retro
 msgid "Headings color - H1"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:69
 #: classes/Admin/Theme/Item/Slideshow.php:76
 #: classes/Admin/Theme/Item/Slideshow.php:83
 #: classes/Admin/Theme/Item/Slideshow.php:90
-#@ retro
 msgid "Please select your custom color for content headings text."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:75
-#@ retro
 msgid "Headings color - H2"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:82
-#@ retro
 msgid "Headings with line color - H3"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:89
-#@ retro
 msgid "Headings color - H4"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:96
-#@ retro
 msgid "Text color"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Slideshow.php:97
-#@ retro
 msgid "Please select your custom color for content text."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:10
 #: classes/Admin/Theme/Item/Testimonials.php:11
 #: classes/Widget/Testimonial.php:128
-#@ retro
 msgid "Testimonials"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:22
-#@ retro
 msgid "Testimonials Settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:26
-#@ retro
 msgid "Sidebar position for testimonials listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:27
-#@ retro
 msgid "Choose a sidebar position for testimonials listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:35
-#@ retro
 msgid "Sidebar for testimonials listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:36
-#@ retro
 msgid "Choose a sidebar for testimonials listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:47
-#@ retro
 msgid "Sidebar position for single testimonial"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:48
-#@ retro
 msgid "Choose a sidebar position for single testimonial"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:56
-#@ retro
 msgid "Sidebar for single testimonial"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:57
-#@ retro
 msgid "Choose a sidebar for single testimonial"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:69
-#@ retro
 msgid "Testimonial post slug"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:70
-#@ retro
 msgid "Write custom slug for testimonial post"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:77
-#@ retro
 msgid "Testimonial category slug"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Testimonials.php:78
-#@ retro
 msgid "Write custom slug for testimonial category"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:7
-#@ retro
 msgid "Authenticating for Twitter"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:8
-#@ retro
 msgid "Twitter OAuth"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:17
-#@ retro
 msgid "Authenticating a User Timeline for Twitter OAuth API V1.1"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:23
-#@ retro
 msgid "Enter a valid Twitter OAuth settings here to get started."
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:28
-#@ retro
-msgid "Don't know where to get? please visit this link, <a href=\"http://www.webdevdoor.com/php/authenticating-twitter-feed-timeline-oauth/\" target=\"_blank\">Authenticating for Twitter </a>"
+msgid ""
+"Don't know where to get? please visit this link, <a href=\"http://www."
+"webdevdoor.com/php/authenticating-twitter-feed-timeline-oauth/\" target="
+"\"_blank\">Authenticating for Twitter </a>"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:32
 #: classes/Admin/Theme/Item/Twitter.php:33
-#@ retro
 msgid "Consumer key"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:39
 #: classes/Admin/Theme/Item/Twitter.php:40
-#@ retro
 msgid "Consumer secret"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:46
 #: classes/Admin/Theme/Item/Twitter.php:47
-#@ retro
 msgid "Access token"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Twitter.php:53
 #: classes/Admin/Theme/Item/Twitter.php:54
-#@ retro
 msgid "Access token secret"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:10
-#@ retro
 msgid "Theme updater"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:11
-#@ retro
 msgid "Theme Updater"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:23
-#@ retro
 msgid "User Account Information"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:29
-#@ retro
 msgid "Marketplace Username"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:30
-#@ retro
 msgid "Please provide Username for theme update"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:38
-#@ retro
 msgid "Secret API Key"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Update.php:39
-#@ retro
 msgid "Please provide API Key for theme update"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:14
 #: classes/Admin/Theme/Item/Woocommerce.php:15
-#@ retro
 msgid "WooCommerce"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:25
-#@ retro
 msgid "WooCommerce settings"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:30
-#@ retro
 msgid "Sidebar position for products listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:31
-#@ retro
 msgid "Choose a sidebar position for products listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:39
-#@ retro
 msgid "Sidebar for products listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:40
-#@ retro
 msgid "Choose a sidebar for products listing"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:51
-#@ retro
 msgid "Sidebar position for product page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:52
-#@ retro
 msgid "Choose a sidebar position for product page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:60
-#@ retro
 msgid "Sidebar for product page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/Item/Woocommerce.php:61
-#@ retro
 msgid "Choose a sidebar for product page"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Footer/FooterDefault.php:127
 #: classes/Admin/Theme/SkinGroup/Footer/FooterSkin1.php:127
 #: classes/Admin/Theme/SkinGroup/Footer/FooterSkin2.php:127
@@ -1020,10 +1041,10 @@ msgstr ""
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:137
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:134
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:133
-#@ retro
 msgid "Hide logo image"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Footer/FooterDefault.php:128
 #: classes/Admin/Theme/SkinGroup/Footer/FooterSkin1.php:128
 #: classes/Admin/Theme/SkinGroup/Footer/FooterSkin2.php:128
@@ -1034,37 +1055,38 @@ msgstr ""
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:138
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:135
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:134
-#@ retro
-msgid "Check this box if you want to hide logo image and use text site name instead"
+msgid ""
+"Check this box if you want to hide logo image and use text site name instead"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:124
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:123
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:126
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:124
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:124
-#@ retro
 msgid "Logo position"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:125
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:124
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:127
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:125
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:125
-#@ retro
 msgid "Choose logo position"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:153
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:149
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:154
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:152
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:149
-#@ retro
 msgid "Choose a Font for logo"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:162
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:163
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:158
@@ -1075,10 +1097,10 @@ msgstr ""
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:162
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:158
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:159
-#@ retro
 msgid "Logo font style"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:171
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:172
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:167
@@ -1089,6503 +1111,1867 @@ msgstr ""
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:171
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:167
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:168
-#@ retro
 msgid "Logo font weight"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:179
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:175
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:180
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:178
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:175
-#@ retro
 msgid "Logo text size"
 msgstr ""
 
+# @ retro
 #: classes/Admin/Theme/SkinGroup/Header/HeaderDefault.php:180
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin1.php:176
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin2.php:181
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin3.php:179
 #: classes/Admin/Theme/SkinGroup/Header/HeaderSkin4.php:176
-#@ retro
 msgid "Logo text size at any units"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:251
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:258
 msgid "Delete this image"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:251
-#: classes/Custom/MetaBox/Taxonomy.php:854
-#: lib/revslider/views/templates/sliders_list.php:119
-#: lib/revslider/views/templates/slides_list.php:126
-#: lib/revslider/views/templates/slides_list_posts.php:77
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:258
+#: classes/Custom/MetaBox/Taxonomy.php:945
 msgid "Delete"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:345
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:361
 msgid "Cannot delete file. Something's wrong."
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:558
-#: classes/Custom/MetaBox/Taxonomy.php:601
-#: lib/revslider/inc_php/framework/settings_product.class.php:82
-#: lib/revslider/views/system/video_dialog.php:262
-#: lib/revslider/views/themepunch-google-fonts.php:38
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:594
+#: classes/Custom/MetaBox/Taxonomy.php:647
 msgid "Remove"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:571
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:609
 msgid "Add"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:850
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:940
 msgid "Uploaded files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:861
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:952
 msgid "Upload new files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:867
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:958
 msgid "Add more files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:919
-#@ retro
+# @ retro
+#: classes/Custom/MetaBox/Taxonomy.php:1016
 msgid "Select a color"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:126
-#@ retro
 msgid "Portfolio Item Title"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:127
 #: classes/Custom/Posts/Type/Testimonial.php:125
-#@ retro
 msgid "Image preview"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:128
-#@ retro
 msgid "Assign to Portfolios Category(s)"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:165
-#@ retro
 msgctxt "post type general name"
 msgid "Portfolios"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:166
-#@ retro
 msgctxt "post type general name"
 msgid "Portfolio Posts"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:167
-#@ retro
 msgctxt "post type singular name"
 msgid "Portfolio"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:168
 #: classes/Custom/Posts/Type/Testimonial.php:165
-#@ retro
 msgctxt "item"
 msgid "Add New"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:169
 #: classes/Custom/Posts/Type/Testimonial.php:166
-#@ retro
 msgid "Add New Item"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:170
 #: classes/Custom/Posts/Type/Testimonial.php:167
-#@ retro
 msgid "Edit Item"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:171
 #: classes/Custom/Posts/Type/Testimonial.php:168
-#@ retro
 msgid "New Item"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:172
 #: classes/Custom/Posts/Type/Testimonial.php:169
-#@ retro
 msgid "View Item"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:173
 #: classes/Custom/Posts/Type/Testimonial.php:170
-#@ retro
 msgid "Search Items"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:174
 #: classes/Custom/Posts/Type/Testimonial.php:171
-#@ retro
 msgid "No items found"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:175
 #: classes/Custom/Posts/Type/Testimonial.php:172
-#@ retro
 msgid "No items found in Trash"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:185
-#@ retro
 msgctxt "taxonomy general name"
 msgid "Portfolio Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:186
-#@ retro
 msgctxt "taxonomy singular name"
 msgid "Portfolio Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:187
-#@ retro
 msgid "Search Portfolios Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:188
-#@ retro
 msgid "Popular Portfolios Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:189
-#@ retro
 msgid "All Portfolios Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:192
-#@ retro
 msgid "Edit Portfolios Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:193
-#@ retro
 msgid "Update Portfolios Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:194
-#@ retro
 msgid "Add New Portfolios Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:195
-#@ retro
 msgid "New Portfolios Category Name"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:196
-#@ retro
 msgid "Add or remove Portfolios Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:197
-#@ retro
 msgid "Choose from the most used Portfolios Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Portfolio.php:198
-#@ retro
 msgid "Separate Portfolios Categories with commas"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:124
-#@ retro
 msgid "Testimonial Item Title"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:126
-#@ retro
 msgid "Assign to Testimonials Category(s)"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:162
-#@ retro
 msgctxt "post type general name"
 msgid "Testimonials"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:163
-#@ retro
 msgctxt "post type general name"
 msgid "Testimonial Posts"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:164
-#@ retro
 msgctxt "post type singular name"
 msgid "Testimonial"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:182
-#@ retro
 msgctxt "taxonomy general name"
 msgid "Testimonial Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:183
-#@ retro
 msgctxt "taxonomy singular name"
 msgid "Testimonial Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:184
-#@ retro
 msgid "Search Testimonials Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:185
-#@ retro
 msgid "Popular Testimonials Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:186
-#@ retro
 msgid "All Testimonials Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:189
-#@ retro
 msgid "Edit Testimonials Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:190
-#@ retro
 msgid "Update Testimonials Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:191
-#@ retro
 msgid "Add New Testimonials Category"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:192
-#@ retro
 msgid "New Testimonials Category Name"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:193
-#@ retro
 msgid "Add or remove Testimonials Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:194
-#@ retro
 msgid "Choose from the most used Testimonials Categories"
 msgstr ""
 
+# @ retro
 #: classes/Custom/Posts/Type/Testimonial.php:195
-#@ retro
 msgid "Separate Testimonials Categories with commas"
 msgstr ""
 
+# @ multiple-post-thumbnails
 #: classes/Custom/Thumbnail/Multi.php:51
 #, php-format
-#@ multiple-post-thumbnails
-msgid "The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are required"
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
 msgstr ""
 
+# @ multiple-post-thumbnails
 #: classes/Custom/Thumbnail/Multi.php:133
 #, php-format
-#@ multiple-post-thumbnails
 msgid "Set as %3$s"
 msgstr ""
 
-#: classes/Custom/Thumbnail/Multi.php:365
-#: classes/Custom/Thumbnail/Multi.php:366
-#, php-format
-#@ multiple-post-thumbnails
-msgid "Set %s"
-msgstr ""
-
-#: classes/Custom/Thumbnail/Multi.php:378
-#, php-format
-#@ multiple-post-thumbnails
-msgid "Remove %s"
-msgstr ""
-
+# @ retro
 #: classes/Envato/Theme/Backup.php:399
-#@ retro
 msgid "The backup file was not created"
 msgstr ""
 
+# @ retro
 #: classes/Envato/Theme/Backup.php:473
-#@ retro
 msgid "The following files are unreadable and could not be backed up: "
 msgstr ""
 
+# @ envato
 #: classes/Envato/Theme/Protected/API.php:67
-#@ envato
 msgid "Please enter your Envato Marketplace Username."
 msgstr ""
 
+# @ envato
 #: classes/Envato/Theme/Protected/API.php:71
-#@ envato
 msgid "Please enter your Envato Marketplace API Key."
 msgstr ""
 
+# @ envato
 #: classes/Envato/Theme/Protected/API.php:96
-#@ envato
 msgid "The API \"set\" is a required parameter."
 msgstr ""
 
+# @ envato
 #: classes/Envato/Theme/Protected/API.php:167
-#@ envato
 msgid "The Envato Marketplace \"item ID\" is a required parameter."
 msgstr ""
 
+# @ retro
 #: classes/Import/Dummy.php:129
-#@ retro
-msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
 msgstr ""
 
-#: classes/Import/Importer.php:148
-#: classes/Import/Importer.php:157
-#: classes/Import/Importer.php:208
-#: classes/Import/Importer.php:216
-#@ retro
+# @ retro
+#: classes/Import/Importer.php:148 classes/Import/Importer.php:157
+#: classes/Import/Importer.php:208 classes/Import/Importer.php:216
 msgid "Sorry, there has been an error."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:149
-#@ retro
 msgid "The file does not exist, please try again."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:192
-#@ retro
 msgid "All done."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:192
-#@ retro
 msgid "Have fun!"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:224
 #, php-format
-#@ retro
-msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:249
 #, php-format
-#@ retro
-msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:275
-#@ retro
 msgid "Assign Authors"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:276
-#@ retro
-msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:278
 #, php-format
-#@ retro
-msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:288
-#@ retro
 msgid "Import Attachments"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:291
-#@ retro
 msgid "Download and import file attachments"
 msgstr ""
 
-#: classes/Import/Importer.php:295
-#: classes/Widget/FeedburnerEmail.php:49
-#: woocommerce/single-product-reviews.php:61
-#@ retro
-#@ woocommerce
-msgid "Submit"
-msgstr "Assine Agora!"
-
+# @ retro
 #: classes/Import/Importer.php:308
-#@ retro
 msgid "Import author:"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:319
-#@ retro
 msgid "or create new user with login name:"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:322
-#@ retro
 msgid "as a new user:"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:330
-#@ retro
 msgid "assign posts to an existing user:"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:332
-#@ retro
 msgid "or assign posts to an existing user:"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:333
-#@ retro
 msgid "- Select -"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:383
 #, php-format
-#@ retro
-msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:440
 #, php-format
-#@ retro
 msgid "Failed to import category %s"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:482
 #, php-format
-#@ retro
 msgid "Failed to import post tag %s"
 msgstr ""
 
-#: classes/Import/Importer.php:546
-#: classes/Import/Importer.php:663
+# @ retro
+#: classes/Import/Importer.php:546 classes/Import/Importer.php:663
 #, php-format
-#@ retro
 msgid "Failed to import %s %s"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:572
 #, php-format
-#@ retro
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
 msgstr ""
 
+# @ wordpress-importer
 #: classes/Import/Importer.php:594
 #, php-format
-#@ wordpress-importer
 msgid "%s &#8220;%s&#8221; already exists."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:635
 #, php-format
-#@ retro
 msgid "Failed to import %s &#8220;%s&#8221;"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:787
-#@ retro
 msgid "Menu item skipped due to missing menu slug"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:794
 #, php-format
-#@ retro
 msgid "Menu item skipped due to invalid menu slug: %s"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:857
-#@ retro
 msgid "Fetching attachments is not enabled"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:892
-#@ retro
 msgid "Remote server did not respond"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:898
 #, php-format
-#@ retro
 msgid "Remote server returned error response %1$d %2$s"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:905
-#@ retro
 msgid "Remote file is incorrect size"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:910
-#@ retro
 msgid "Zero size file downloaded"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:916
 #, php-format
-#@ retro
 msgid "Remote file is too large, limit is %s"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:1015
-#@ retro
 msgid "Import WordPress"
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:1022
 #, php-format
-#@ retro
-msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:1037
-#@ retro
-msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
 msgstr ""
 
+# @ retro
 #: classes/Import/Importer.php:1038
-#@ retro
 msgid "Choose a WXR file to upload, then click Upload file and import."
 msgstr ""
 
-#: classes/Import/Parser/Regex.php:76
-#: classes/Import/Parser/SimpleXML.php:16
-#: classes/Import/Parser/SimpleXML.php:21
-#: classes/Import/Parser/XML.php:39
-#@ retro
-msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
-msgstr ""
-
-#: classes/Import/Parser/SimpleXML.php:12
-#: classes/Import/Parser.php:34
-#@ retro
+# @ retro
+#: classes/Import/Parser.php:34 classes/Import/Parser/SimpleXML.php:12
 msgid "There was an error when reading this WXR file"
 msgstr ""
 
+# @ retro
 #: classes/Import/Parser.php:35
-#@ retro
-msgid "Details are shown above. The importer will now try again with a different parser..."
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
 msgstr ""
 
+# @ retro
+#: classes/Import/Parser/Regex.php:76 classes/Import/Parser/SimpleXML.php:16
+#: classes/Import/Parser/SimpleXML.php:21 classes/Import/Parser/XML.php:39
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+# @ retro
 #: classes/Widget/ContactForm.php:42
-#@ retro
 msgid "Name:"
 msgstr "Nome:"
 
+# @ retro
+# @ woocommerce
 #: classes/Widget/ContactForm.php:43
-#: woocommerce/order/order-details.php:99
-#@ retro
-#@ woocommerce
 msgid "Email:"
 msgstr ""
 
 #: classes/Widget/ContactForm.php:44
-#@ retro
-msgid "Youre message..."
+msgid "Your message..."
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:54
-#@ retro
 msgid "Send"
 msgstr "Enviar"
 
+# @ retro
 #: classes/Widget/ContactForm.php:78
-#@ retro
 msgid "Please specify your name."
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:79
-#@ retro
 msgid "Please enter your message."
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:81
-#@ retro
 msgid "We need your email address to contact you."
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:82
-#@ retro
 msgid "Your email address must be in the format of name@domain.com"
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:105
-#@ retro
 msgid "Contact us"
 msgstr ""
 
-#: classes/Widget/ContactForm.php:110
-#: classes/Widget/FeedburnerEmail.php:81
-#: classes/Widget/Flickr.php:69
-#: classes/Widget/PopularPosts.php:122
-#: classes/Widget/Portfolio.php:112
-#: classes/Widget/RecentPosts.php:114
-#: classes/Widget/Testimonial.php:142
-#: classes/Widget/Twitter.php:161
-#: lib/revslider/views/templates/slide.php:38
-#@ retro
+# @ retro
+#: classes/Widget/ContactForm.php:110 classes/Widget/FeedburnerEmail.php:81
+#: classes/Widget/Flickr.php:69 classes/Widget/PopularPosts.php:122
+#: classes/Widget/Portfolio.php:112 classes/Widget/RecentPosts.php:114
+#: classes/Widget/Testimonial.php:142 classes/Widget/Twitter.php:161
 msgid "Title:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/ContactForm.php:114
-#@ retro
 msgid "Recipient email:"
 msgstr ""
 
+# @ retro
+# @ woocommerce
+#: classes/Widget/FeedburnerEmail.php:49
+#: woocommerce/single-product-reviews.php:63
+msgid "Submit"
+msgstr "Assine Agora!"
+
+# @ retro
 #: classes/Widget/FeedburnerEmail.php:50
-#@ retro
 msgid "Your E-Mail"
 msgstr "Endereço de Email:"
 
+# @ retro
 #: classes/Widget/FeedburnerEmail.php:76
-#@ retro
 msgid "Sign up for our Newsletter"
 msgstr ""
 
+# @ retro
 #: classes/Widget/FeedburnerEmail.php:76
-#@ retro
 msgid "Keep up with the latest news and events."
 msgstr ""
 
+# @ retro
 #: classes/Widget/FeedburnerEmail.php:85
-#@ retro
 msgid "Description:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/FeedburnerEmail.php:89
-#@ retro
 msgid "Write only feedburner name:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Flickr.php:64
-#@ retro
 msgid "Flickr"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Flickr.php:77
-#@ retro
 msgid "Number of photos:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Flickr.php:83
-#@ retro
 msgid "Flickr ID"
 msgstr ""
 
-#: classes/Widget/MailChimp/Plugin.php:24
-#@ retro
-msgid "You'll need to set up the MailChimp signup widget plugin options before using it. "
-msgstr ""
-
-#: classes/Widget/MailChimp/Plugin.php:24
-#: classes/Widget/Twitter.php:133
-#@ retro
-msgid "You can make your changes"
-msgstr ""
-
-#: classes/Widget/MailChimp/Plugin.php:24
-#: classes/Widget/Twitter.php:133
-#@ retro
-msgid "here"
-msgstr ""
-
+# @ retro
 #: classes/Widget/MailChimp.php:11
-#@ retro
 msgid "Show previews from portfolio category"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:40
-#@ retro
 msgid "Title :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:44
-#@ retro
 msgid "Select a Mailing List :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:56
-#@ retro
 msgid "This is the list your users will be signing up for in your sidebar."
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:58
-#@ retro
 msgid "Sign Up Button Text :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:61
-#@ retro
 msgid "Personal Information"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:62
-#@ retro
-msgid "These fields won't (and shouldn't) be required. Should the widget form collect users' first and last names?"
+msgid ""
+"These fields won't (and shouldn't) be required. Should the widget form "
+"collect users' first and last names?"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:65
-#@ retro
 msgid "Collect first name."
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:68
-#@ retro
 msgid "Collect last name."
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:70
-#@ retro
 msgid "Notifications"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:71
-#@ retro
-msgid "Use these fields to customize what your visitors see after they submit the form"
+msgid ""
+"Use these fields to customize what your visitors see after they submit the "
+"form"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:73
-#@ retro
 msgid "Success :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:77
-#@ retro
 msgid "Failure :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:245
-#@ retro
 msgid "First Name :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:251
-#@ retro
 msgid "Last Name :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:259
-#@ retro
 msgid "Email Address :"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:262
-#@ retro
 msgid "Subscribe"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:313
-#@ retro
 msgid "There was a problem processing your submission."
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:314
-#@ retro
 msgid "Sign up for our mailing list."
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:315
-#@ retro
 msgid "Join now!"
 msgstr ""
 
+# @ retro
 #: classes/Widget/MailChimp.php:316
-#@ retro
-msgid "Thank you for joining our mailing list. Please check your email for a confirmation link."
+msgid ""
+"Thank you for joining our mailing list. Please check your email for a "
+"confirmation link."
 msgstr ""
 
+# @ retro
+#: classes/Widget/MailChimp/Plugin.php:24
+msgid ""
+"You'll need to set up the MailChimp signup widget plugin options before "
+"using it. "
+msgstr ""
+
+# @ retro
+#: classes/Widget/MailChimp/Plugin.php:24 classes/Widget/Twitter.php:133
+msgid "You can make your changes"
+msgstr ""
+
+# @ retro
+#: classes/Widget/MailChimp/Plugin.php:24 classes/Widget/Twitter.php:133
+msgid "here"
+msgstr ""
+
+# @ retro
 #: classes/Widget/PopularPosts.php:92
-#@ retro
 msgid "0 - Comments"
 msgstr "0 - Comentários"
 
+# @ retro
 #: classes/Widget/PopularPosts.php:92
-#@ retro
 msgid "1 - Comment"
 msgstr "1 - Comentário"
 
+# @ retro
 #: classes/Widget/PopularPosts.php:92
-#@ retro
 msgid "% - Comments"
 msgstr "% - Comentários"
 
-#: classes/Widget/PopularPosts.php:126
-#: classes/Widget/RecentPosts.php:118
-#@ retro
+# @ retro
+#: classes/Widget/PopularPosts.php:126 classes/Widget/RecentPosts.php:118
 msgid "Show post thumbnail:"
 msgstr ""
 
-#: classes/Widget/PopularPosts.php:132
-#: classes/Widget/RecentPosts.php:124
-#@ retro
+# @ retro
+#: classes/Widget/PopularPosts.php:132 classes/Widget/RecentPosts.php:124
 msgid "Number of posts to show:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/PopularPosts.php:147
-#@ retro
 msgid "Popular post:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Portfolio.php:99
-#@ retro
 msgid "From portfolio"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Portfolio.php:118
-#@ retro
 msgid "Category of portfolio:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Portfolio.php:142
-#@ retro
 msgid "Number of items to show:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/RecentPosts.php:139
-#@ retro
 msgid "Recent posts"
 msgstr ""
 
+# @ retro
 #: classes/Widget/SocialLinks.php:116
-#@ retro
 msgid "Hide icon:"
 msgstr ""
 
-#: classes/Widget/SocialLinks.php:123
-#: classes/Widget/Twitter.php:196
-#@ retro
+# @ retro
+#: classes/Widget/SocialLinks.php:123 classes/Widget/Twitter.php:196
 msgid "Open in new tab:"
 msgstr ""
 
+# @ retro
+# @ woocommerce
 #: classes/Widget/SocialLinks.php:134
-#: lib/revslider/inc_php/revslider_widget.class.php:54
-#: lib/revslider/settings/layer_settings.php:142
-#: woocommerce/widgets/widget-layered-nav.php:70
-#: woocommerce/widgets/widget-product-categories.php:31
-#: woocommerce/widgets/widget-recent-reviews.php:28
-#@ retro
-#@ woocommerce
 msgid "Title"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Testimonial.php:148
-#@ retro
 msgid "Category of testimonials:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Testimonial.php:169
-#@ retro
 msgid "Number of second to show:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Testimonial.php:173
-#@ retro
 msgid "Randomize testimonial:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Testimonial.php:181
-#@ retro
 msgid "Transition effect:"
 msgstr ""
 
-#: classes/Widget/Twitter/Feed.php:100
-#, php-format
-#@ retro
-msgid "%s ago"
-msgstr ""
-
-#: classes/Widget/Twitter/Feed.php:106
-#, php-format
-#@ retro
-msgid "%s"
-msgstr ""
-
+# @ retro
 #: classes/Widget/Twitter.php:38
-#@ retro
 msgid "Can't connect to twitter."
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:44
-#@ retro
 msgid "There are no public messages."
 msgstr "Não há mensagens públicas."
 
+# @ retro
 #: classes/Widget/Twitter.php:133
-#@ retro
-msgid "You'll need to set up Twitter Feed Authenticate options before using it. "
+msgid ""
+"You'll need to set up Twitter Feed Authenticate options before using it. "
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:140
-#@ retro
 msgid "cURL extension requred."
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:141
-#@ retro
 msgid "Please contact your System Administrator."
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:147
-#@ retro
 msgid "Twitter"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:166
-#@ retro
 msgid "Twitter username:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:171
-#@ retro
 msgid "Number of tweets:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:176
-#@ retro
 msgid "Show date posted:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:181
-#@ retro
 msgid "Discover hyperlinks:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:186
-#@ retro
 msgid "Discover @replies:"
 msgstr ""
 
+# @ retro
 #: classes/Widget/Twitter.php:191
-#@ retro
 msgid "UTF8 Encode:"
 msgstr ""
 
+# @ retro
+#: classes/Widget/Twitter/Feed.php:100
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+# @ retro
+#: classes/Widget/Twitter/Feed.php:106
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ retro
 #: comments.php:3
-#@ retro
 msgid "Please do not load this page directly. Thanks!"
 msgstr ""
 
+# @ retro
 #: comments.php:8
-#@ retro
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
 
+# @ retro
 #: comments.php:19
 #, php-format
-#@ retro
 msgid "One Comment"
 msgid_plural "%1$s Comments"
 msgstr[0] "Um Comentário"
 msgstr[1] "%1$s Comentários"
 
-#: comments.php:56
-#: lib/revslider/views/templates/sliders_list.php:19
-#: lib/shortcode/shortcodes/contactForm.php:124
-#: woocommerce/single-product-reviews.php:56
-#: woocommerce/single-product-reviews.php:57
-#: woocommerce/widgets/widget-product-categories.php:39
-#@ retro
-#@ woocommerce
+# @ retro
+# @ woocommerce
+#: comments.php:56 lib/shortcode/shortcodes/contactForm.php:125
+#: woocommerce/single-product-reviews.php:58
+#: woocommerce/single-product-reviews.php:59
 msgid "Name"
 msgstr "Nome"
 
-#: comments.php:59
-#: lib/shortcode/shortcodes/contactForm.php:123
-#: woocommerce/single-product-reviews.php:58
-#@ retro
-#@ woocommerce
+# @ retro
+# @ woocommerce
+#: comments.php:59 lib/shortcode/shortcodes/contactForm.php:124
+#: woocommerce/single-product-reviews.php:60
 msgid "Email"
 msgstr ""
 
+# @ retro
 #: comments.php:62
-#@ retro
 msgid "Url"
 msgstr ""
 
+# @ retro
 #: comments.php:65
-#@ retro
 msgid "Your message"
 msgstr ""
 
+#: comments.php:67
+msgid ""
+"You may use these HTML tags and attributes: &lt;a href=\"\" title=\"\"> &lt;"
+"abbr title=\"\"&gt; &lt;acronym title=\"\"&gt; &lt;b&gt; &lt;blockquote cite="
+"\"\"&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=\"\"&gt; &lt;em&gt; &lt;"
+"i&gt; &lt;q cite=\"\"&gt; &lt;strike&gt; &lt;strong&gt;"
+msgstr ""
+
+# @ retro
 #: comments.php:69
-#@ retro
 msgid "Add comment"
 msgstr "Adicionar Commentário"
 
+# @ retro
 #: functions.php:275
-#@ retro
 msgid "Header  Menu 1"
 msgstr ""
 
+# @ retro
 #: functions.php:276
-#@ retro
 msgid "Header  Menu 2"
 msgstr ""
 
-#: functions.php:412
-#: lib/shortcode/shortcodes.php:444
-#: lib/shortcode/shortcodes.php:488
-#: lib/shortcode/shortcodes.php:513
+# @ retro
+#: functions.php:416 lib/shortcode/shortcodes.php:444
+#: lib/shortcode/shortcodes.php:488 lib/shortcode/shortcodes.php:513
 #: loop-portfolio.php:126
-#@ retro
 msgid "view"
 msgstr "ver"
 
-#: functions.php:413
-#@ retro
+# @ retro
+#: functions.php:417
 msgid "Something going wrong with connection..."
 msgstr ""
 
-#: functions.php:622
-#@ retro
+# @ retro
+#: functions.php:627
 msgid "The default sidebar!"
 msgstr ""
 
-#: functions.php:811
-#: functions.php:851
-#: woocommerce/single-product/product-image.php:38
-#@ retro
-#@ woocommerce
+# @ retro
+# @ woocommerce
+#: functions.php:808 functions.php:854
+#: woocommerce/single-product/product-image.php:41
 msgid "Placeholder"
 msgstr ""
 
-#: functions.php:868
-#@ retro
+# @ retro
+#: functions.php:869
 msgid "New Label Background color"
 msgstr ""
 
-#: functions.php:875
-#@ retro
+# @ retro
+#: functions.php:876
 msgid "New Label Font color"
 msgstr ""
 
-#: functions.php:895
-#@ retro
+# @ retro
+#: functions.php:896
 msgid "New Label Background Color"
 msgstr ""
 
-#: functions.php:902
-#@ retro
+# @ retro
+#: functions.php:903
 msgid "New Label Font Color"
 msgstr ""
 
-#: functions.php:926
-#: functions.php:953
-#@ retro
+# @ retro
+#: functions.php:930 functions.php:957
 msgid "Sale Label Background Color"
 msgstr ""
 
-#: functions.php:933
-#: functions.php:960
-#@ retro
+# @ retro
+#: functions.php:937 functions.php:964
 msgid "Sale Label Font Color"
 msgstr ""
 
-#: functions.php:983
-#: functions.php:1018
-#@ retro
+# @ retro
+#: functions.php:987 functions.php:1022
 msgid "Listing Per Page"
 msgstr ""
 
-#: functions.php:984
-#: functions.php:1019
-#@ retro
+# @ retro
+#: functions.php:988 functions.php:1023
 msgid "products"
 msgstr ""
 
-#: functions.php:991
-#: functions.php:1026
-#@ retro
+# @ retro
+#: functions.php:995 functions.php:1030
 msgid "Show  product  info button in product listing."
 msgstr ""
 
-#: functions.php:998
-#: functions.php:1033
-#@ retro
+# @ retro
+#: functions.php:1002 functions.php:1037
 msgid "Hide categories from product page."
 msgstr ""
 
-#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
-#: functions.php:1055
-#: header.php:327
+# @ retro
+#: functions.php:1059 header.php:327
 #, php-format
-#@ retro
 msgid "Bag - %d"
 msgid_plural "Bag - %d"
 msgstr[0] "Minha Cesta - %d"
 msgstr[1] "Minha Cesta - %d"
 
-#: functions.php:1070
+# @ woocommerce
+#: functions.php:1074
 #, php-format
-#@ woocommerce
 msgid "Rated %s out of 5"
 msgstr ""
 
-#: functions.php:1070
-#: woocommerce/single-product/review.php:27
-#@ woocommerce
+# @ woocommerce
+#: functions.php:1074
 msgid "out of 5"
 msgstr ""
 
-#: functions.php:1071
+# @ woocommerce
+#: functions.php:1075
 #, php-format
-#@ woocommerce
 msgid "%s Review"
 msgid_plural "%s Reviews"
 msgstr[0] ""
 msgstr[1] ""
 
-#: functions.php:1072
-#@ retro
+# @ retro
+#: functions.php:1076
 msgid "Add Your Review"
 msgstr ""
 
-#: functions.php:1097
+# @ retro
+#: functions.php:1114
 #, php-format
-#@ retro
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: functions.php:1102
-#@ retro
+# @ retro
+#: functions.php:1119
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
+# @ retro
 #: header.php:229
-#@ retro
 msgid "Feed"
 msgstr ""
 
-#: header.php:310
-#: woocommerce/checkout/thankyou.php:28
-#@ retro
-#@ woocommerce
+# @ retro
+# @ woocommerce
+#: header.php:310 woocommerce/checkout/thankyou.php:30
 msgid "My Account"
 msgstr "Minha Conta"
 
+# @ retro
 #: header.php:310
-#@ retro
 msgid "Logout"
 msgstr "Sair"
 
+# @ retro
 #: header.php:316
-#@ retro
 msgid "Login / Register"
 msgstr "Entrar / Registrar"
 
+# @ retro
+# @ revslider
 #: header.php:377
-#: lib/revslider/settings/slider_settings_xml_lang.php:5
-#@ retro
-#@ revslider
 msgid "Navigation"
 msgstr "Menu"
 
+# @ retro
 #: lib/metabox/functions.php:95
-#@ retro
 msgid "Portfolio Slider"
 msgstr ""
 
+# @ retro
 #: lib/metabox/functions.php:102
-#@ retro
 msgid "The Slides"
 msgstr ""
 
+# @ retro
 #: lib/metabox/functions.php:106
-#@ retro
 msgid "Add slides for portfolio slider"
 msgstr ""
 
-#: lib/metabox/init.php:453
-#: lib/metabox/init.php:477
-#@ retro
+# @ retro
+#: lib/metabox/init.php:453 lib/metabox/init.php:477
 msgid "Upload Image"
 msgstr ""
 
-#: lib/metabox/init.php:454
-#: lib/metabox/init.php:478
-#@ retro
+# @ retro
+#: lib/metabox/init.php:454 lib/metabox/init.php:478
 msgid "Remove Slide"
 msgstr ""
 
+# @ retro
 #: lib/metabox/init.php:492
-#@ retro
 msgid "Add New Slide"
 msgstr ""
 
-#: lib/revslider/inc_php/extension.class.php:52
-#@ retro
-msgid "Slider Revolution"
-msgstr ""
-
-#: lib/revslider/inc_php/extension.class.php:108
-#@ retro
-msgid "Choose Revolution Slider"
-msgstr ""
-
-#: lib/revslider/inc_php/extension.class.php:112
-#@ retro
-msgid "--- Choose Slider ---"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:18
-#@ retro
-msgid "Wrong parameter received"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:19
-#@ retro
-msgid "Wrong handle received"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:25
-#@ retro
-msgid "Font with handle already exist, choose a different handle"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:44
-#@ retro
-msgid "Wrong Handle received"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:45
-#@ retro
-msgid "Wrong Params received"
-msgstr ""
-
-#: lib/revslider/inc_php/fonts.class.php:82
-#@ retro
-msgid "Font not found! Wrong handle given."
-msgstr ""
-
-#: lib/revslider/inc_php/framework/base_admin.class.php:401
-#@ retro
-msgid "Punch Fonts"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:25
-#@ retro
-msgid "All Events"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:26
-#@ retro
-msgid "Today"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:27
-#@ retro
-msgid "Tomorrow"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:28
-#@ retro
-msgid "Future"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:29
-#@ retro
-msgid "Past"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:30
-#@ retro
-msgid "This Month"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:31
-#@ retro
-msgid "Next Month"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:156
-#@ retro
-msgid "Event Start Date"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/em_integration.class.php:157
-#@ retro
-msgid "Event End Date"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/functions_wordpress.class.php:877
-#, php-format
-#@ retro
-msgid "View all posts in %s"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product.class.php:81
-#@ retro
-msgid "Choose Image"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:498
-#@ retro
-msgid "text"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:872
-#@ retro
-msgid "Style Editor"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:881
-#@ retro
-msgid "Simple Editor:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:884
-#@ retro
-msgid "enable "
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:889
-#@ retro
-msgid "Family:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:894
-#@ retro
-msgid "Size:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:901
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:945
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:960
-#@ retro
-msgid "Color:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:904
-#@ retro
-msgid "Line-Height:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:911
-#@ retro
-msgid "Padding:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:921
-#@ retro
-msgid "Weight:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:928
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:973
-#@ retro
-msgid "Style:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:929
-#@ retro
-msgid "italic"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:931
-#@ retro
-msgid "Decoration:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:950
-#@ retro
-msgid "Transparency:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:966
-#@ retro
-msgid "Width:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:983
-#@ retro
-msgid "Radius:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:998
-#@ retro
-msgid "Advanced Editor:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1005
-#@ retro
-msgid "Save Styles"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1007
-#@ retro
-msgid "Overwrite the current selected class "
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1009
-#@ retro
-msgid " or save the styles as a new class?"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1012
-#@ retro
-msgid "Save As"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1014
-#@ retro
-msgid "Save as class:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1029
-#@ retro
-msgid "Global Style Editor"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1031
-#@ retro
-msgid "Dynamic Styles (Not Editable):"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1035
-#: lib/revslider/views/templates/slider_toolbox.php:24
-#: lib/revslider/views/templates/sliders.php:91
-#@ retro
-msgid "Static Styles:"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1042
-#@ retro
-msgid "Save Static Styles"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/settings_product_sidebar.class.php:1043
-#@ retro
-msgid "Overwrite current static styles?"
-msgstr ""
-
-#: lib/revslider/inc_php/framework/wpml.class.php:38
-#: lib/revslider/inc_php/framework/wpml.class.php:154
-#@ retro
-msgid "All Languages"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:22
-#@ retro
-msgid "Choose Slide Template"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1029
-#: lib/revslider/inc_php/revslider_operations.class.php:1111
-#@ retro
-msgid "Choose language"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1164
-#@ retro
-msgid "CAPTIONS CSS"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1197
-#@ retro
-msgid "Replace image path:"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1197
-#@ retro
-msgid "From:"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1197
-#@ retro
-msgid "To:"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1197
-#: lib/revslider/views/templates/slider_toolbox.php:64
-#@ retro
-msgid "Replace"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1200
-#: lib/revslider/inc_php/revslider_operations.class.php:1202
-#: lib/revslider/inc_php/revslider_operations.class.php:1204
-#: lib/revslider/inc_php/revslider_operations.class.php:1206
-#@ retro
-msgid "Mark to Copy"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1202
-#@ retro
-msgid "CSS"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1204
-#@ retro
-msgid "Body"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1206
-#@ retro
-msgid "Script"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1226
-#@ retro
-msgid "Loading Preview..."
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_operations.class.php:1417
-#@ retro
-msgid "Purchase Code already registered!"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_output.class.php:269
-#@ retro
-msgid "No slides found, please add at least one Slide Template to the choosen Template Slider."
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_output.class.php:271
-#@ retro
-msgid "No slides found, please add some slides"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_output.class.php:1808
-#@ retro
-msgid "Revolution Slider Error"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_settings_product.class.php:118
-#: lib/revslider/inc_php/revslider_settings_product.class.php:132
-#: lib/revslider/inc_php/revslider_settings_product.class.php:146
-#: lib/revslider/inc_php/revslider_settings_product.class.php:160
-#: lib/revslider/inc_php/revslider_settings_product.class.php:174
-#: lib/revslider/inc_php/revslider_settings_product.class.php:188
-#@ retro
-msgid "Screen Width"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_settings_product.class.php:124
-#: lib/revslider/inc_php/revslider_settings_product.class.php:138
-#: lib/revslider/inc_php/revslider_settings_product.class.php:152
-#: lib/revslider/inc_php/revslider_settings_product.class.php:166
-#: lib/revslider/inc_php/revslider_settings_product.class.php:180
-#: lib/revslider/inc_php/revslider_settings_product.class.php:194
-#@ retro
-msgid "Slider Width"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_settings_product.class.php:217
-#: lib/revslider/inc_php/revslider_settings_product.class.php:220
-#: lib/revslider/inc_php/revslider_settings_product.class.php:223
-#@ retro
-msgid "Grid Width:"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_settings_product.class.php:218
-#: lib/revslider/inc_php/revslider_settings_product.class.php:221
-#: lib/revslider/inc_php/revslider_settings_product.class.php:224
-#@ retro
-msgid "Grid Height:"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_slider.class.php:785
-#@ retro
-msgid "animations imported!"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_slider.class.php:787
-#@ retro
-msgid "no custom animations found, if slider uses custom animations, the provided export may be broken..."
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_slider.class.php:837
-#@ retro
-msgid "dynamic styles imported!"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_slider.class.php:839
-#@ retro
-msgid "no dynamic styles found, if slider uses dynamic styles, the provided export may be broken..."
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_slider.class.php:902
-#: lib/revslider/inc_php/revslider_slider.class.php:935
-#: lib/revslider/inc_php/revslider_slider.class.php:1019
-#: lib/revslider/inc_php/revslider_slider.class.php:1052
-#@ default
-msgid " not found!<br>"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:8
-#@ retro
-msgid "Displays a revolution slider on the page"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:9
-#@ retro
-msgid "Revolution Slider"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:23
-#@ retro
-msgid "No sliders found, Please create a slider"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:59
-#: lib/revslider/views/templates/slides.php:60
-#: lib/revslider/views/templates/slides_gallery.php:55
-#@ retro
-msgid "Choose Slider"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:62
-#@ retro
-msgid "Home Page Only"
-msgstr ""
-
-#: lib/revslider/inc_php/revslider_widget.class.php:65
-#@ retro
-msgid "Pages: (example: 2,10)"
-msgstr ""
-
-#: lib/revslider/revslider.php:166
-#@ retro
-msgid "If you want to use the PHP function \"putRevSlider\" in your code please make sure to check \" "
-msgstr ""
-
-#: lib/revslider/revslider.php:166
-#@ retro
-msgid " \" in the backend's \"General Settings\" (top right panel). <br> <br> Or add the current page to the \""
-msgstr ""
-
-#: lib/revslider/revslider.php:166
-#@ default
-msgid "\" option box."
-msgstr ""
-
-#: lib/revslider/revslider.php:192
-#@ retro
-msgid "Revolution Slider Error:"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:126
-#@ retro
-msgid "(never show this message again)&nbsp;&nbsp;<b>X</b>"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:126
-#@ retro
-msgid "Hi! Would you like to activate your version of Revolution Slider to receive automatic updates & get premium support? This is optional and not needed if the slider came bundled with a theme. "
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:419
-#@ retro
-msgid "importing slider setings and data..."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:435
-#@ retro
-msgid "Go Back"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:438
-#@ retro
-msgid "Slider Import Success, redirecting..."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:483
-#@ retro
-msgid "Font successfully created!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:489
-#@ retro
-msgid "Font not found"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:496
-#@ retro
-msgid "Font successfully removed!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:502
-#@ retro
-msgid "No handle given"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:503
-#@ retro
-msgid "No parameters given"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:510
-#@ retro
-msgid "Font successfully changed!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:542
-#@ retro
-msgid "The slider successfully created"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:554
-#@ retro
-msgid "Slider updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:566
-#@ retro
-msgid "The slider deleted"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:575
-#@ retro
-msgid "The duplicate successfully, refreshing page..."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:583
-#@ retro
-msgid "Slide Created"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:586
-#@ retro
-msgid "Slides Created"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:595
-#@ retro
-msgid "Slide Created, redirecting..."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:602
-#@ retro
-msgid "Slide updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:606
-#@ retro
-msgid "Static Global Layers updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:611
-#@ retro
-msgid "Post Deleted Successfully"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:613
-#@ retro
-msgid "Slide Deleted Successfully"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:621
-#@ retro
-msgid "Slide Duplicated Successfully"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:628
-#@ retro
-msgid "The operation successfully, refreshing page..."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:641
-#: lib/revslider/revslider_admin.php:645
-#: lib/revslider/revslider_admin.php:653
-#@ retro
-msgid "CSS saved succesfully!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:649
-#@ retro
-msgid "Style deleted succesfully!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:657
-#: lib/revslider/revslider_admin.php:661
-#: lib/revslider/revslider_admin.php:665
-#@ retro
-msgid "Animation saved succesfully!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:669
-#@ retro
-msgid "Order updated successfully"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:675
-#@ retro
-msgid "Slide Changed Successfully"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:703
-#@ retro
-msgid "All files successfully updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:707
-#@ retro
-msgid "General settings updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:711
-#@ retro
-msgid "Sortby updated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:715
-#@ retro
-msgid "Image urls replaced"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:719
-#@ retro
-msgid "Settings in all Slides changed"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:730
-#@ retro
-msgid "The API key, the Purchase Code and the Username need to be set!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:736
-#@ retro
-msgid "Purchase Code Successfully Activated"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:739
-#@ retro
-msgid "Purchase Code is invalid"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:747
-#@ retro
-msgid "Successfully removed validation"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:750
-#@ retro
-msgid "Could not remove Validation!"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:755
-#@ retro
-msgid "."
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:830
-#: lib/revslider/revslider_admin.php:836
-#@ retro
-msgid "Slider not found"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:840
-#@ retro
-msgid "No Data Received"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:850
-#@ retro
-msgid "Loading Error"
-msgstr ""
-
-#: lib/revslider/revslider_admin.php:852
-#@ retro
-msgid "Loading Error: "
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:6
-#: lib/revslider/views/system/general_settings_dialog.php:32
-#@ retro
-msgid "To Admin"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:7
-#: lib/revslider/views/system/general_settings_dialog.php:33
-#@ retro
-msgid "To Editor, Admin"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:8
-#: lib/revslider/views/system/general_settings_dialog.php:34
-#@ retro
-msgid "Author, Editor, Admin"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:9
-#@ retro
-msgid "View Plugin Permission"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:11
-#: lib/revslider/views/system/general_settings_dialog.php:38
-#@ retro
-msgid "The role of user that can view and edit the plugin"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:14
-#: lib/revslider/settings/general_settings.php:23
-#: lib/revslider/settings/general_settings.php:29
-#: lib/revslider/settings/general_settings.php:35
-#: lib/revslider/settings/slide_settings.php:76
-#: lib/revslider/settings/slider_settings.php:96
-#: lib/revslider/settings/slider_settings.php:99
-#: lib/revslider/settings/slider_settings.php:100
-#: lib/revslider/settings/slider_settings_xml_lang.php:14
-#: lib/revslider/views/system/general_settings_dialog.php:50
-#: lib/revslider/views/system/general_settings_dialog.php:84
-#: lib/revslider/views/system/general_settings_dialog.php:105
-#: lib/revslider/views/system/general_settings_dialog.php:127
-#: lib/revslider/views/templates/edit_layers.php:90
-#@ retro
-#@ revslider
-msgid "On"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:14
-#: lib/revslider/settings/general_settings.php:23
-#: lib/revslider/settings/general_settings.php:29
-#: lib/revslider/settings/general_settings.php:35
-#: lib/revslider/settings/slide_settings.php:76
-#: lib/revslider/settings/slider_settings.php:96
-#: lib/revslider/settings/slider_settings.php:99
-#: lib/revslider/settings/slider_settings.php:100
-#: lib/revslider/settings/slider_settings_xml_lang.php:15
-#: lib/revslider/views/system/general_settings_dialog.php:55
-#: lib/revslider/views/system/general_settings_dialog.php:89
-#: lib/revslider/views/system/general_settings_dialog.php:110
-#: lib/revslider/views/system/general_settings_dialog.php:132
-#: lib/revslider/views/templates/edit_layers.php:90
-#@ retro
-#@ revslider
-msgid "Off"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:15
-#@ retro
-msgid "Include RevSlider libraries globally"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:17
-#@ retro
-msgid "Add css and js includes only on all pages. Id turned to off they will added to pages where the rev_slider shortcode exists only. This will work only when the slider added by a shortcode."
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:19
-#@ retro
-msgid "Pages to include RevSlider libraries"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:20
-#: lib/revslider/views/system/general_settings_dialog.php:71
-#@ retro
-msgid "Specify the page id's that the front end includes will be included in. Example: 2,3,5 also: homepage,3,4"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:24
-#@ retro
-msgid "Put JS Includes To Footer"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:26
-#: lib/revslider/views/system/general_settings_dialog.php:93
-#@ retro
-msgid "Putting the js to footer (instead of the head) is good for fixing some javascript conflicts."
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:30
-#@ retro
-msgid "Enable Markup Export option"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:32
-#: lib/revslider/views/system/general_settings_dialog.php:114
-#@ retro
-msgid "This will enable the option to export the Slider Markups to copy/paste it directly into websites."
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:36
-#@ retro
-msgid "Enable Logs"
-msgstr ""
-
-#: lib/revslider/settings/general_settings.php:38
-#: lib/revslider/views/system/general_settings_dialog.php:136
-#@ retro
-msgid "Enable console logs for debugging."
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:22
-#: lib/revslider/settings/layer_settings.php:23
-#@ retro
-msgid "Layer Params"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:22
-#: lib/revslider/settings/layer_settings.php:23
-#@ retro
-msgid "layer_params"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:24
-#@ retro
-msgid "caption_green"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:24
-#@ retro
-msgid "Style"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:32
-#@ retro
-msgid "Text / Html"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:33
-#@ retro
-msgid "Image Link"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:34
-#: lib/revslider/settings/slide_settings.php:96
-#@ retro
-msgid "Same Window"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:34
-#: lib/revslider/settings/slide_settings.php:96
-#@ retro
-#@ default
-msgid "New Window"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:34
-#: lib/revslider/settings/slide_settings.php:96
-#@ retro
-msgid "Link Open In"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:36
-#@ retro
-msgid "Start Animation"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:37
-#@ retro
-msgid "Start Easing"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:38
-#: lib/revslider/settings/layer_settings.php:119
-#: lib/revslider/settings/layer_settings.php:121
-#: lib/revslider/settings/layer_settings.php:128
-#: lib/revslider/settings/slider_settings_xml_lang.php:89
-#@ retro
-#@ revslider
-msgid "ms"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:39
-#: lib/revslider/settings/layer_settings.php:120
-#@ retro
-msgid " ms (keep it low i.e. 1- 200)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:42
-#: lib/revslider/settings/layer_settings.php:125
-#@ retro
-msgid "Split Text per"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:43
-#@ retro
-msgid "Hide Under Width"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:46
-#@ retro
-msgid "Link ID"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:47
-#@ retro
-msgid "Link Classes"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:48
-#@ retro
-msgid "Link Title"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:49
-#@ retro
-msgid "Link Rel"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:52
-#: lib/revslider/settings/layer_settings.php:55
-#: lib/revslider/views/system/video_dialog.php:126
-#@ retro
-msgid "Width"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:53
-#@ retro
-msgid "Width/Height"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:56
-#: lib/revslider/views/system/video_dialog.php:129
-#@ retro
-msgid "Height"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:57
-#@ retro
-msgid "Scale Proportional"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:60
-#@ retro
-msgid "No Movement"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:61
-#: lib/revslider/settings/slider_settings_xml_lang.php:48
-#: lib/revslider/views/system/video_dialog.php:237
-#@ retro
-#@ revslider
-msgid "1"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:62
-#: lib/revslider/settings/slider_settings_xml_lang.php:49
-#: lib/revslider/views/system/video_dialog.php:239
-#@ retro
-#@ revslider
-msgid "2"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:63
-#: lib/revslider/settings/slider_settings_xml_lang.php:50
-#@ retro
-#@ revslider
-msgid "3"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:64
-#@ retro
-msgid "4"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:65
-#@ retro
-msgid "5"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:66
-#@ retro
-msgid "6"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:67
-#@ retro
-msgid "7"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:68
-#@ retro
-msgid "8"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:69
-#@ retro
-msgid "9"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:70
-#@ retro
-msgid "10"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:72
-#@ retro
-msgid "Level"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:76
-#@ retro
-msgid "OffsetX"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:77
-#: lib/revslider/settings/layer_settings.php:79
-#@ retro
-msgid "X"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:81
-#@ retro
-msgid "OffsetY"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:82
-#: lib/revslider/settings/layer_settings.php:84
-#@ retro
-msgid "Y"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:86
-#@ retro
-msgid "Hor Align"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:87
-#@ retro
-msgid "Vert Align"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:89
-#@ retro
-msgid "&nbsp;(example: 50px, auto)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:90
-#@ retro
-msgid "Max Width"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:91
-#@ retro
-msgid "Max Height"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:93
-#@ retro
-msgid "2D Rotation"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:94
-#@ retro
-msgid "Rotation Origin X"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:95
-#@ retro
-msgid "Rotation Origin Y"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:98
-#@ retro
-msgid "Normal"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:99
-#@ retro
-msgid "Pre"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:100
-#@ retro
-msgid "No-wrap"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:101
-#@ retro
-msgid "Pre-Wrap"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:102
-#@ retro
-msgid "Pre-Line"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:105
-#@ retro
-msgid "White Space"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:108
-#@ retro
-msgid "Link To Slide"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:110
-#: lib/revslider/settings/layer_settings.php:161
-#: lib/revslider/settings/layer_settings.php:163
-#: lib/revslider/settings/slider_settings_xml_lang.php:38
-#@ retro
-#@ revslider
-msgid "px"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:111
-#@ retro
-msgid "Scroll Under Slider Offset"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:113
-#@ retro
-msgid "Change Image Source"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:115
-#@ retro
-msgid "Edit Video"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:122
-#@ retro
-msgid "End Time"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:123
-#@ retro
-msgid "End Duration"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:126
-#@ retro
-msgid "End Animation"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:127
-#@ retro
-msgid "End Easing"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:131
-#@ retro
-msgid "No Corner"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:132
-#@ retro
-msgid "Sharp"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:133
-#@ retro
-msgid "Sharp Reversed"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:135
-#@ retro
-msgid "Left Corner"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:136
-#@ retro
-msgid "Right Corner"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:137
-#@ retro
-msgid "Responsive Through All Levels"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:140
-#: lib/revslider/settings/slide_settings.php:147
-#: lib/revslider/views/templates/sliders_list.php:18
-#@ retro
-msgid "ID"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:141
-#@ retro
-msgid "Classes"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:143
-#@ retro
-msgid "Rel"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:146
-#: lib/revslider/views/templates/edit_layers.php:216
-#@ retro
-msgid "Disabled"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:147
-#@ retro
-msgid "Pendulum"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:148
-#@ retro
-msgid "Rotate"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:149
-#@ retro
-msgid "Slideloop"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:150
-#@ retro
-msgid "Pulse"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:151
-#@ retro
-msgid "Wave"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:155
-#@ retro
-msgid "Animation"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:156
-#@ retro
-msgid "Speed"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:156
-#@ retro
-msgid "&nbsp;(0.00 - 10.00)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:157
-#@ retro
-msgid "Start Degree"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:158
-#@ retro
-msgid "End Degree"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:158
-#@ retro
-msgid "&nbsp;(-720 - 720)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:159
-#@ retro
-msgid "x Origin"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:159
-#@ retro
-msgid "%"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:160
-#@ retro
-msgid "y Origin"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:160
-#@ retro
-msgid "% (-250% - 250%)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:161
-#@ retro
-msgid "x Start Pos."
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:162
-#@ retro
-msgid "x End Pos."
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:162
-#: lib/revslider/settings/layer_settings.php:164
-#@ retro
-msgid "px (-2000px - 2000px)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:163
-#@ retro
-msgid "y Start Pos."
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:164
-#@ retro
-msgid "y End Pos."
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:165
-#@ retro
-msgid "Start Zoom"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:166
-#@ retro
-msgid "End Zoom"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:166
-#@ retro
-msgid "&nbsp;(0.00 - 20.00)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:167
-#@ retro
-msgid "Angle"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:167
-#@ retro
-msgid "° (0° - 360°)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:168
-#@ retro
-msgid "Radius"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:168
-#@ retro
-msgid "px (0px - 2000px)"
-msgstr ""
-
-#: lib/revslider/settings/layer_settings.php:169
-#@ retro
-msgid "Easing"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:15
-#@ retro
-msgid "The title of the slide, will be shown in the slides list."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:16
-#: lib/revslider/views/templates/edit_layers.php:211
-#@ retro
-msgid "Slide"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:16
-#@ retro
-msgid "Slide Title"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:19
-#@ retro
-msgid "The state of the slide. The unpublished slide will be excluded from the slider."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:20
-#@ retro
-msgid "Published"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:20
-#@ retro
-msgid "Unpublished"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:20
-#@ retro
-msgid "State"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:28
-#@ retro
-msgid "The language of the slide (uses WPML plugin)."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:29
-#@ retro
-msgid "Language"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:33
-#@ retro
-msgid "If set, slide will be visible after the date is reached"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:34
-#@ retro
-msgid "Visible from"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:36
-#@ retro
-msgid "If set, slide will be visible till the date is reached"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:37
-#@ retro
-msgid "Visible until"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:42
-#@ retro
-msgid "The appearance transitions of this slide."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:43
-#@ retro
-msgid "Transitions"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:46
-#@ retro
-msgid "The number of slots or boxes the slide is divided into. If you use boxfade, over 7 slots can be juggy."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:49
-#@ retro
-msgid "Slot Amount"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:52
-#@ retro
-msgid "Rotation (-720 -> 720, 999 = random) Only for Simple Transitions."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:55
-#: lib/revslider/views/templates/edit_layers.php:686
-#@ retro
-msgid "Rotation"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:58
-#@ retro
-msgid "The duration of the transition (Default:300, min: 100 max 2000). "
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:61
-#@ retro
-msgid "Transition Duration"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:68
-#@ retro
-msgid "A new delay value for the Slide. If no delay defined per slide, the delay defined via Options ("
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:68
-#@ retro
-msgid "ms) will be used"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:71
-#: lib/revslider/settings/slider_settings_xml_lang.php:10
-#@ retro
-#@ revslider
-msgid "Delay"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:76
-#@ retro
-msgid "Save Performance"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:83
-#@ retro
-msgid "Enable Link"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:83
-#@ retro
-msgid "Enable"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:83
-#: lib/revslider/views/system/video_dialog.php:188
-#: lib/revslider/views/system/video_dialog.php:248
-#@ retro
-msgid "Disable"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:88
-#@ retro
-msgid "Regular"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:88
-#@ retro
-msgid "To Slide"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:88
-#@ retro
-msgid "Link Type"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:91
-#, php-format
-#@ retro
-msgid "A link on the whole slide pic (use %link% or %meta:somemegatag% in template sliders to link to a post or some other meta)"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:92
-#@ retro
-msgid "Slide Link"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:95
-#@ retro
-msgid "The target of the slide link"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:100
-#@ retro
-msgid "-- Not Chosen --"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:101
-#@ retro
-msgid "-- Next Slide --"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:102
-#@ retro
-msgid "-- Previous Slide --"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:105
-#@ retro
-msgid "-- Scroll Below Slider --"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:130
-#@ retro
-msgid "Slide Thumbnail. If not set - it will be taken from the slide image."
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:131
-#@ retro
-msgid "Thumbnail"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:138
-#@ retro
-msgid "Background Type"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:143
-#@ retro
-msgid "Adds a unique class to the li of the Slide like class=\"rev_special_class\" (add only the classnames, seperated by space)"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:144
-#@ retro
-msgid "Class"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:146
-#@ retro
-msgid "Adds a unique ID to the li of the Slide like id=\"rev_special_id\" (add only the id)"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:149
-#@ retro
-msgid "Adds a unique Attribute to the li of the Slide like attr=\"rev_special_attr\" (add only the attribute)"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:150
-#: woocommerce/widgets/widget-layered-nav.php:75
-#@ retro
-#@ woocommerce
-msgid "Attribute"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:152
-#@ retro
-msgid "Add as many attributes as you wish here. (i.e.: data-layer=\"firstlayer\" data-custom=\"somevalue\")"
-msgstr ""
-
-#: lib/revslider/settings/slide_settings.php:153
-#@ retro
-msgid "Custom Fields"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:6
-#@ retro
-msgid "Slider Title"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:6
-#@ retro
-msgid "The title of the slider. Example: Slider1"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:7
-#@ retro
-msgid "Slider Alias"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:7
-#@ retro
-msgid "The alias that will be used for embedding the slider. Example: slider1"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:8
-#@ retro
-msgid "Slider Shortcode"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:12
-#: lib/revslider/views/templates/sliders_list.php:66
-#@ retro
-msgid "Posts"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:13
-#@ retro
-msgid "Specific Posts"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:14
-#: lib/revslider/views/templates/sliders_list.php:58
-#@ retro
-msgid "Gallery"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:16
-#@ retro
-msgid "Source Type"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:23
-#@ retro
-msgid "Post Types"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:27
-#@ retro
-msgid "Post Categories"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:36
-#@ retro
-msgid "Filter Events By"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:44
-#@ retro
-msgid "Sort Posts By"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:48
-#@ retro
-msgid "Sort Direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:52
-#@ retro
-msgid "Max Posts Per Slider"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:56
-#@ retro
-msgid "Limit The Excerpt To"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:63
-#@ retro
-msgid "Template Slider"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:67
-#@ retro
-msgid "Type here the post IDs you want to use separated by coma. ex: 23,24,25"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:68
-#@ retro
-msgid "Specific Posts List"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:74
-#@ retro
-msgid "Fixed"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:75
-#@ retro
-msgid "Custom"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:76
-#@ retro
-msgid "Auto Responsive"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:77
-#@ retro
-msgid "Full Screen"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:78
-#@ retro
-msgid "Slider Layout"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:81
-#@ retro
-msgid "Example: #header or .header, .footer, #somecontainer | The height of fullscreen slider will be decreased with the height of these Containers to fit perfect in the screen"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:82
-#@ retro
-msgid "Offset Containers"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:86
-#@ retro
-msgid "Defines an Offset to the top. Can be used with px and %. Example: 40px or 10%"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:87
-#@ retro
-msgid "Offset Size"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:92
-#@ retro
-msgid "Min. Fullscreen Height"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:96
-#@ retro
-msgid "FullScreen Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:99
-#@ retro
-msgid "Unlimited Height"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:100
-#@ retro
-msgid "Force Full Width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:103
-#@ retro
-msgid "Min. Height"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:105
-#@ retro
-msgid ""
-"\n"
-"- The <span class=\"prevxmpl\">LAYERS GRID</span> is the container of layers within the <span class=\"prevxmpl\">SLIDER</span> <br>\n"
-"- The \"Grid Size\" setting does not relate to the actual \"Slider Size\". <br>\n"
-"- \"Max Height\" of the slider equals the \"Grid Height\"<br>\n"
-"- \"Slider Width\" can be greater than the set \"Grid Width\""
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:110
-#@ retro
-msgid "Layers Grid Size"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings.php:114
-#@ retro
-msgid "Responsive Sizes"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:3
-#@ revslider
-msgid "Position"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:4
-#@ revslider
-msgid "Appearance"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:6
-#@ revslider
-msgid "Thumbnails"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:7
-#@ revslider
-msgid "Mobile Visibility"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:8
-#@ revslider
-msgid "Alternative First Slide"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:9
-#@ revslider
-msgid "Troubleshooting"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:11
-#@ revslider
-msgid "The time one slide stays on the screen in Milliseconds"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:12
-#@ revslider
-msgid "Shuffle Mode"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:13
-#@ revslider
-msgid "Turn Shuffle Mode on and off! Will be randomized only once at the start."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:16
-#@ revslider
-msgid "Lazy Load"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:17
-#@ revslider
-msgid "The lazy load means that the images will be loaded by demand, it speeds the loading of the slider."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:18
-#@ revslider
-msgid "Load Google Font"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:19
-#@ revslider
-msgid "yes / no to load google font"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:20
-#: lib/shortcode/contact-form.php:88
-#@ revslider
-#@ retro
-msgid "Yes"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:21
-#@ revslider
-msgid "No"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:22
-#@ revslider
-msgid "Google Font"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:23
-#@ revslider
-msgid "The google font family to load"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:24
-#@ revslider
-msgid "To add more google fonts please read <a target=\"_blank\" href=\"http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/faqs/15268\"> this tutorial </a> "
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:25
-#@ revslider
-msgid "Stop Slider"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:26
-#@ revslider
-msgid "On / Off to stop slider after some amount of loops / slides"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:27
-#@ revslider
-msgid "Stop After Loops"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:28
-#@ revslider
-msgid "Stop the slider after certain amount of loops. 0 related to the first loop."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:29
-#@ revslider
-msgid "Stop At Slide"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:30
-#@ revslider
-msgid "Stop the slider at the given slide"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:31
-#@ revslider
-msgid "Position on the page"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:32
-#@ revslider
-msgid "The position of the slider on the page, (float:left, float:right, margin:0px auto;)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:33
-#@ revslider
-msgid "Left"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:34
-#@ revslider
-msgid "Center"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:35
-#@ revslider
-msgid "Right"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:36
-#@ revslider
-msgid "Margin Top"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:37
-#@ revslider
-msgid "The top margin of the slider wrapper div"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:39
-#@ revslider
-msgid "Margin Bottom"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:40
-#@ revslider
-msgid "The bottom margin of the slider wrapper div"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:41
-#@ revslider
-msgid "Margin Left"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:42
-#@ revslider
-msgid "The left margin of the slider wrapper div"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:43
-#@ revslider
-msgid "Margin Right"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:44
-#@ revslider
-msgid "The right margin of the slider wrapper div"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:45
-#@ revslider
-msgid "Shadow Type"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:46
-#@ revslider
-msgid "The Shadow display underneath the banner. The shadow apply to fixed and responsive modes only, the full width slider don't have a shadow."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:47
-#@ revslider
-msgid "No Shadow"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:51
-#@ revslider
-msgid "Show Timer Line"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:52
-#@ revslider
-msgid "Show the top running timer line"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:53
-#@ revslider
-msgid "Top"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:54
-#@ revslider
-msgid "Bottom"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:55
-#@ revslider
-msgid "Hide"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:56
-#@ revslider
-msgid "Background color"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:57
-#@ revslider
-msgid "Slider wrapper div background color, for transparent slider, leave empty."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:58
-#@ revslider
-msgid "Padding (border)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:59
-#@ revslider
-msgid "The wrapper div padding, if it has value, then together with background color it it will make border around the slider."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:60
-#@ revslider
-msgid "Show Background Image"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:61
-#@ revslider
-msgid "yes / no to put background image to the main slider wrapper."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:62
-#@ revslider
-msgid "Background Image Url"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:63
-#@ revslider
-msgid "The background image that will be on the slider wrapper. Will be shown at slider preloading."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:64
-#@ revslider
-msgid "Touch Enabled"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:65
-#@ revslider
-msgid "Enable Swipe Function on touch devices"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:66
-#@ revslider
-msgid "Stop On Hover"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:67
-#@ revslider
-msgid "Stop the Timer when hovering the slider"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:68
-#@ revslider
-msgid "Navigation Type"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:69
-#@ revslider
-msgid "Display type of the navigation bar (Default:none"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:70
-#: lib/revslider/views/templates/edit_layers.php:225
-#@ revslider
-#@ retro
-msgid "None"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:71
-#@ revslider
-msgid "Bullet"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:72
-#@ revslider
-msgid "Thumb"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:73
-#@ revslider
-msgid "Both"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:74
-#@ revslider
-msgid "Navigation Arrows"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:75
-#@ revslider
-msgid "Display position of the Navigation Arrows (** By navigation Type Thumb arrows always centered or none visible)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:76
-#@ revslider
-msgid "With Bullets"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:77
-#@ revslider
-msgid "Solo"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:78
-#@ revslider
-msgid "Navigation Style"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:79
-#@ revslider
-msgid "Look of the navigation bullets  ** If you choose navbar, we recommend to choose Navigation Arrows to nexttobullets"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:80
-#@ revslider
-msgid "Round"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:81
-#@ revslider
-msgid "Navbar"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:82
-#@ revslider
-msgid "Old Round"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:83
-#@ revslider
-msgid "Old Square"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:84
-#@ revslider
-msgid "Old Navbar"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:85
-#@ revslider
-msgid "Always Show Navigation"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:86
-#@ revslider
-msgid "Always show the navigation and the thumbnails."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:87
-#@ revslider
-msgid "Hide Navitagion After"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:88
-#@ revslider
-msgid "Time after that the Navigation and the Thumbs will be hidden(Default: 200 ms)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:90
-#@ revslider
-msgid "Navigation Horizontal Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:91
-#@ revslider
-msgid "Horizontal Align of Bullets / Thumbnails"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:92
-#@ revslider
-msgid "Navigation Vertical Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:93
-#@ revslider
-msgid "Vertical Align of Bullets / Thumbnails"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:94
-#@ revslider
-msgid "Navigation Horizontal Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:95
-#@ revslider
-msgid "Offset from current Horizontal position of Bullets / Thumbnails negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:96
-#@ revslider
-msgid "Navigation Vertical Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:97
-#@ revslider
-msgid "Offset from current Vertical  position of Bullets / Thumbnails negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:98
-#@ revslider
-msgid "Left Arrow Horizontal Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:99
-#@ revslider
-msgid "Horizontal Align of left Arrow (only if arrow is not next to bullets)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:100
-#@ revslider
-msgid "Left Arrow Vertical Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:101
-#@ revslider
-msgid "Vertical Align of left Arrow (only if arrow is not next to bullets)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:102
-#@ revslider
-msgid "Left Arrow Horizontal Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:103
-#@ revslider
-msgid "Offset from current Horizontal position of of left Arrow  negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:104
-#@ revslider
-msgid "Left Arrow Vertical Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:105
-#@ revslider
-msgid "Offset from current Vertical position of of left Arrow negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:106
-#@ revslider
-msgid "Right Arrow Horizontal Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:107
-#@ revslider
-msgid "Horizontal Align of right Arrow (only if arrow is not next to bullets)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:108
-#@ revslider
-msgid "Right Arrow Vertical Align"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:109
-#@ revslider
-msgid "Vertical Align of right Arrow (only if arrow is not next to bullets)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:110
-#@ revslider
-msgid "Right Arrow Horizontal Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:111
-#@ revslider
-msgid "Offset from current Horizontal position of of right Arrow negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:112
-#@ revslider
-msgid "Right Arrow Vertical Offset"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:113
-#@ revslider
-msgid "Offset from current Vertical position of of right Arrow negative and positive direction"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:114
-#@ revslider
-msgid "Thumb Width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:115
-#@ revslider
-msgid "The basic Width of one Thumbnail (only if thumb is selected)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:116
-#@ revslider
-msgid "Thumb Height"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:117
-#@ revslider
-msgid "the basic Height of one Thumbnail (only if thumb is selected)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:118
-#@ revslider
-msgid "Thumb Amount"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:119
-#@ revslider
-msgid "the amount of the Thumbs visible same time (only if thumb is selected)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:120
-#@ revslider
-msgid "Hide Slider Under Width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:121
-#@ revslider
-msgid "Hide the slider under some slider width. Works only in Responsive Style. Not available for Fullwidth."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:122
-#@ revslider
-msgid "Hide Defined Layers Under Width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:123
-#@ revslider
-msgid "Hide some defined layers in the layer properties under some slider width."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:124
-#@ revslider
-msgid "Hide All Layers Under Width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:125
-#@ revslider
-msgid "Hide all layers under some slider width"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:126
-#@ revslider
-msgid "Start With Slide"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:127
-#@ revslider
-msgid "Change it if you want to start from a different slide then 1"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:128
-#@ revslider
-msgid "First Transition Active"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:129
-#@ revslider
-msgid "If active, it will overwrite the first slide transition. Use it when you want a special transition for the first slide only."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:130
-#@ revslider
-msgid "First Transition Type"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:131
-#@ revslider
-msgid "First slide transition type"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:132
-#@ revslider
-msgid "Replace me!"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:133
-#@ revslider
-msgid "First Transition Duration"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:134
-#@ revslider
-msgid "First slide transition duration (Default:300, min: 100 max 2000)"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:135
-#@ revslider
-msgid "First Transition Slot Amount"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:136
-#@ revslider
-msgid "The number of slots or boxes the slide is divided into. If you use boxfade, over 7 slots can be juggy"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:137
-#@ revslider
-msgid "JQuery No Conflict Mode"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:138
-#@ revslider
-msgid "Turns on / off jquery noconflict mode. You can play with this option when you have some javascript conflicts."
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:139
-#@ revslider
-msgid "Put JS Includes To Body"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:140
-#@ revslider
-msgid "Putting the js to body (in addition to head) is good for fixing some javascript conflicts of type: TypeError: tpj('#rev_slider_1_1').show().revolution is not a function"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:141
-#@ revslider
-msgid "True"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:142
-#@ revslider
-msgid "False"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:143
-#@ revslider
-msgid "Output Filters Protection"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:144
-#@ revslider
-msgid "Activate a protection against wordpress output filters that adds html blocks to the shortcode output like P and BR"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:145
-#@ revslider
-msgid "By Compressing Output"
-msgstr ""
-
-#: lib/revslider/settings/slider_settings_xml_lang.php:146
-#@ revslider
-msgid "By Echo Output"
-msgstr ""
-
-#: lib/revslider/views/slides.php:54
-#: lib/revslider/views/templates/slide.php:188
-#@ retro
-msgid "Delete Slide"
-msgstr ""
-
-#: lib/revslider/views/slides.php:55
-#: lib/revslider/views/templates/slide.php:36
-#: lib/revslider/views/templates/slides_list.php:101
-#@ retro
-msgid "Edit Slide"
-msgstr ""
-
-#: lib/revslider/views/slides.php:56
-#@ retro
-msgid "Preview Slide"
-msgstr ""
-
-#: lib/revslider/views/slides.php:89
-#@ retro
-msgid "<i class='revicon-pencil-1'></i>New Post"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:28
-#@ retro
-msgid "View Plugin Permission:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:44
-#@ retro
-msgid "Include RevSlider libraries globally:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:60
-#@ retro
-msgid "ON - Add CSS and JS Files to all pages. </br>Off - CSS and JS Files will be only loaded on Pages where any rev_slider shortcode exists."
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:66
-#@ retro
-msgid "Pages to include RevSlider libraries:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:78
-#@ retro
-msgid "Insert JavaSscript Into Footer:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:99
-#@ retro
-msgid "Enable Markup Export option:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:121
-#@ retro
-msgid "Enable Logs:"
-msgstr ""
-
-#: lib/revslider/views/system/general_settings_dialog.php:146
-#@ retro
-msgid "Update"
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "Update Slider Plugin"
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "Update Revolution Slider Plugin"
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "To update the slider please show the slider install package. The files will be overwriten."
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "File example: revslider.zip"
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "Choose the update file:"
-msgstr ""
-
-#: lib/revslider/views/system/update_dialog.php:1
-#@ retro
-msgid "Update Slider"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:36
-#@ retro
-msgid "Username:"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:39
-#@ retro
-msgid "Your Envato username."
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:44
-#@ retro
-msgid "Envato API Key:"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:47
-#@ retro
-msgid "You can find API key by visiting your Envato Account page, then clicking the My Settings tab. At the bottom of he page you will find your accounts API key."
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:51
-#@ retro
-msgid "Purchase code:"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:54
-#@ retro
-msgid "Please enter your "
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:54
-#@ retro
-msgid "CodeCanyon Slider Revolution purchase code / license key"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:54
-#@ retro
-msgid ". You can find your key by following the instructions on"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:54
-#@ retro
-msgid " this page."
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:58
-#@ retro
-msgid "Please Wait..."
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:60
-#: woocommerce/myaccount/form-login.php:65
-#: woocommerce/myaccount/form-login.php:111
-#@ retro
-#@ woocommerce
-msgid "Register"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:62
-#@ retro
-msgid "Deregister"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:68
-#@ retro
-msgid "Search for Updates"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:75
-#@ retro
-msgid "To register the plugin on a different website, click the “Deregister” button here first."
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:86
-#@ retro
-msgid "How to get Support ?"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:88
-#@ retro
-msgid "Please feel free to contact us via our "
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:88
-#@ retro
-msgid "Support Forum "
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:88
-#@ retro
-msgid "and/or via the "
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:88
-#@ retro
-msgid "Item Disscussion Forum"
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:95
-#@ retro
-msgid "Click Here to get "
-msgstr ""
-
-#: lib/revslider/views/system/validation.php:95
-#@ retro
-msgid "Premium Support and Auto Updates"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:3
-#@ retro
-msgid "Add Video Layout"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:9
-#@ retro
-msgid "Choose video type"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:12
-#@ retro
-msgid "Youtube"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:15
-#@ retro
-msgid "Vimeo"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:18
-#@ retro
-msgid "HTML5"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:37
-#@ retro
-msgid "Enter Vimeo ID or URL"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:47
-#@ retro
-msgid "example:  30300114"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:57
-#@ retro
-msgid "Enter Youtube ID or URL"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:67
-#@ retro
-msgid "example"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:79
-#@ retro
-msgid "Poster Image Url"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:82
-#: lib/revslider/views/system/video_dialog.php:89
-#: lib/revslider/views/system/video_dialog.php:96
-#: lib/revslider/views/system/video_dialog.php:103
-#@ retro
-msgid "Example"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:86
-#@ retro
-msgid "Video MP4 Url"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:93
-#@ retro
-msgid "Video WEBM Url"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:100
-#@ retro
-msgid "Video OGV Url"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:116
-#@ retro
-msgid "Video Size"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:122
-#@ retro
-msgid "Full Width:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:136
-#@ retro
-msgid "Cover:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:145
-#@ retro
-msgid "Dotted Overlay:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:148
-#@ retro
-msgid "none"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:149
-#@ retro
-msgid "2 x 2 Black"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:150
-#@ retro
-msgid "2 x 2 White"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:151
-#@ retro
-msgid "3 x 3 Black"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:152
-#@ retro
-msgid "3 x 3 White"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:158
-#@ retro
-msgid "Aspect Ratio:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:161
-#@ retro
-msgid "16:9"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:162
-#@ retro
-msgid "4:3"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:173
-#@ retro
-msgid "Video Settings"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:178
-#@ retro
-msgid "Autoplay:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:184
-#@ retro
-msgid "Loop Video:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:189
-#@ retro
-msgid "Loop"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:190
-#@ retro
-msgid "Loop, Slide does not stop"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:196
-#@ retro
-msgid "Only 1st Time:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:204
-#@ retro
-msgid "Next Slide On End:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:209
-#@ retro
-msgid "Force Rewind:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:216
-#@ retro
-msgid "Hide Controls:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:221
-#@ retro
-msgid "Mute:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:226
-#@ retro
-msgid "Disable Mobile:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:232
-#@ retro
-msgid "Video Speed:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:235
-#@ retro
-msgid "0.25"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:236
-#@ retro
-msgid "0.50"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:238
-#@ retro
-msgid "1.5"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:244
-#@ retro
-msgid "Video Preload:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:247
-#@ retro
-msgid "Auto"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:249
-#@ retro
-msgid "Metadata"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:258
-#@ retro
-msgid "Preview Image"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:261
-#@ retro
-msgid "Set"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:270
-#@ retro
-msgid "Arguments:"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:282
-#@ retro
-msgid "Add This Video"
-msgstr ""
-
-#: lib/revslider/views/system/video_dialog.php:282
-#@ retro
-msgid "Update Video"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:9
-#@ retro
-msgid "Slider Main Image / Background"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:14
-#@ retro
-msgid "Background Source:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:18
-#@ retro
-msgid "Image BG"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:21
-#@ retro
-msgid "Change Image"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:26
-#@ retro
-msgid "External URL"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:30
-#@ retro
-msgid "Get External"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:35
-#@ retro
-msgid "Transparent"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:39
-#@ retro
-msgid "Solid Colored"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:51
-#@ retro
-msgid "Background Settings:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:52
-#@ retro
-msgid "Background Fit:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:62
-#@ retro
-msgid "Background Repeat:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:69
-#@ retro
-msgid "Background Position:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:87
-#@ retro
-msgid "Ken Burns / Pan Zoom Settings:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:96
-#@ retro
-msgid "Background"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:107
-#@ retro
-msgid "Start Position:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:112
-#@ retro
-msgid "Start Fit: (in %)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:115
-#@ retro
-msgid "Easing:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:157
-#@ retro
-msgid "End Position:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:174
-#@ retro
-msgid "End Fit: (in %)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:180
-#@ retro
-msgid "Duration (in ms):"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:211
-#: lib/revslider/views/templates/slide.php:54
-#@ retro
-msgid "Static / Global Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:214
-#@ retro
-msgid "Helper Grid:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:223
-#@ retro
-msgid "Snap to:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:226
-#@ retro
-msgid "Help Lines"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:227
-#@ retro
-msgid "Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:235
-#@ retro
-msgid "Show Layers from Slide:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:271
-#@ retro
-msgid "Add Layer"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:272
-#@ retro
-msgid "Add Layer: Image"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:273
-#@ retro
-msgid "Add Layer: Video"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:274
-#@ retro
-msgid "Duplicate Layer"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:277
-#@ retro
-msgid "Delete Layer"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:278
-#@ retro
-msgid "Delete All Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:297
-#@ retro
-msgid "Layers Timing & Sorting"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:300
-#@ retro
-msgid "z-Index"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:302
-#@ retro
-msgid "Hide All Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:303
-#@ retro
-msgid "Lock All Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:304
-#@ retro
-msgid "Snap to Slide End / Custom End"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:306
-#@ retro
-msgid "Timing"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:307
-#@ retro
-msgid "Show / Hide Timer Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:309
-#@ retro
-msgid "Start"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:310
-#@ retro
-msgid "End"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:342
-#@ retro
-msgid "Static Options"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:350
-#@ retro
-msgid "Static Layers will be shown on every slide in template sliders"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:357
-#@ retro
-msgid "Start on Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:382
-#@ retro
-msgid "End on Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:411
-#@ retro
-msgid "Layer General Parameters"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:416
-#@ retro
-msgid "Layer Content"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:432
-#@ retro
-msgid "Align, Position & Styling"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:480
-#@ retro
-msgid "Image Scale (dimensions in pixel)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:482
-#@ retro
-msgid "Reset Size"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:495
-#@ retro
-msgid "Final Rotation"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:507
-#@ retro
-msgid "Parallax Setting"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:523
-#@ retro
-msgid "Layer Animation"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:530
-#@ retro
-msgid "Preview Transition (Star end Endtime is Ignored during Demo)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:545
-#@ retro
-msgid "Start Transition"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:552
-#: lib/revslider/views/templates/edit_layers.php:567
-#@ retro
-msgid "Custom Animation"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:560
-#@ retro
-msgid "End Transition (optional)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:577
-#@ retro
-msgid "Loop Animation"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:654
-#@ retro
-msgid "Layer Animation Settings Panel"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:655
-#@ retro
-msgid "Randomize"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:661
-#@ retro
-msgid "Transition"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:664
-#: lib/revslider/views/templates/edit_layers.php:688
-#: lib/revslider/views/templates/edit_layers.php:719
-#: lib/revslider/views/templates/edit_layers.php:730
-#: lib/revslider/views/templates/edit_layers.php:771
-#@ retro
-msgid "X:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:670
-#: lib/revslider/views/templates/edit_layers.php:694
-#: lib/revslider/views/templates/edit_layers.php:725
-#: lib/revslider/views/templates/edit_layers.php:737
-#: lib/revslider/views/templates/edit_layers.php:777
-#@ retro
-msgid "Y:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:676
-#: lib/revslider/views/templates/edit_layers.php:700
-#@ retro
-msgid "Z:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:713
-#@ retro
-msgid "Scale"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:714
-#@ retro
-msgid "Skew"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:752
-#@ retro
-msgid "Opacity"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:753
-#@ retro
-msgid "Perspective"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:754
-#@ retro
-msgid "Origin"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:793
-#@ retro
-msgid "Test Parameters"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:794
-#@ retro
-msgid "*These Settings are only for Customizer. Settings can be set per Start and End Animation."
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:859
-#@ retro
-msgid "Transition Direction"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:872
-#@ retro
-msgid "Overwrite the current selected Animation "
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:874
-#@ retro
-msgid " or save as a new Animation?"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:879
-#@ retro
-msgid "Save as Animation:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:890
-#@ retro
-msgid "Layer Links & Advanced Params"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:896
-#@ retro
-msgid "Links (optional)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:907
-#@ retro
-msgid "Caption Sharp Corners (optional only with BG color)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:918
-#@ retro
-msgid "Advanced Responsive Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:929
-#@ retro
-msgid "Attributes (optional)"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:964
-#@ retro
-msgid "Template Insertions"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:965
-#@ retro
-msgid "Post Replace Placeholders:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:967
-#@ retro
-msgid "Any custom meta tag"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:968
-#@ retro
-msgid "Post Title"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:969
-#@ retro
-msgid "Post Excerpt"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:970
-#@ retro
-msgid "Post Alias"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:971
-#@ retro
-msgid "Post content"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:972
-#@ retro
-msgid "The link to the post"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:973
-#@ retro
-msgid "Date created"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:974
-#@ retro
-msgid "Date modified"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:975
-#@ retro
-msgid "Author name"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:976
-#@ retro
-msgid "Number of comments"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:977
-#@ retro
-msgid "List of categories with links"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:978
-#@ retro
-msgid "List of tags with links"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:984
-#@ retro
-msgid "Events Placeholders:"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:986
-#@ retro
-msgid "Event start date"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:987
-#@ retro
-msgid "Event end date"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:988
-#@ retro
-msgid "Event start time"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:989
-#@ retro
-msgid "Event end time"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:990
-#@ retro
-msgid "Event ID"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:991
-#@ retro
-msgid "Event location name"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:992
-#@ retro
-msgid "Event location slug"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:993
-#@ retro
-msgid "Event location address"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:994
-#@ retro
-msgid "Event location town"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:995
-#@ retro
-msgid "Event location state"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:996
-#@ retro
-msgid "Event location postcode"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:997
-#@ retro
-msgid "Event location region"
-msgstr ""
-
-#: lib/revslider/views/templates/edit_layers.php:998
-#@ retro
-msgid "Event location country"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:31
-#@ retro
-msgid "Slider:"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:34
-#@ retro
-msgid "Edit Template Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:88
-#@ retro
-msgid "Add Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:105
-#@ retro
-msgid "Choose slide language"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:132
-#@ retro
-msgid "All the language related operations are from"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:132
-#@ retro
-msgid "slides view"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:150
-#@ retro
-msgid "General Slide Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:176
-#@ retro
-msgid "Update Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:178
-#@ retro
-msgid "Update Static Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:180
-#@ retro
-msgid "updating"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:182
-#: lib/revslider/views/templates/slides.php:52
-#@ retro
-msgid "To Slider Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:183
-#@ retro
-msgid "To Slide List"
-msgstr ""
-
-#: lib/revslider/views/templates/slide.php:221
-#: lib/revslider/views/templates/slides_gallery.php:79
-#@ retro
-msgid "Delete this slide?"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:6
-#@ retro
-msgid "API Functions"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:8
-#@ retro
-msgid "API Methods"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:10
-#@ retro
-msgid "Please copy / paste those functions into your functions js file"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:14
-#@ retro
-msgid "Pause Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:18
-#@ retro
-msgid "Resume Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:22
-#@ retro
-msgid "Previous Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:26
-#@ retro
-msgid "Next Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:30
-#@ retro
-msgid "Go To Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:34
-#@ retro
-msgid "Get Num Slides"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:38
-#@ retro
-msgid "Get Current Slide Number"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:42
-#@ retro
-msgid "Get Last Playing Slide Number"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:46
-#@ retro
-msgid "External Scroll"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:50
-#@ retro
-msgid "Redraw Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:54
-#@ retro
-msgid "Kill and Remove Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:62
-#@ retro
-msgid "API Events"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:64
-#@ retro
-msgid "Copy and Paste the Below listed API Functions into your jQuery Functions for Revslider Event Listening"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:73
-#@ retro
-msgid "is the index of the li container in this Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_api.php:75
-#@ retro
-msgid "is the current slide jQuery object (the li element)"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_css_js.php:10
-#@ retro
-msgid "CSS / JavaScript"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_css_js.php:13
-#@ retro
-msgid "Custom CSS"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_css_js.php:18
-#@ retro
-msgid "Custom JavaScript"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:11
-#@ retro
-msgid "Edit Slider Template"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:16
-#@ retro
-msgid "Edit Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:32
-#: lib/revslider/views/templates/slider_new.php:26
-#@ retro
-msgid "Main Slider Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:39
-#@ retro
-msgid " Can be different based on Theme Style"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:57
-#@ retro
-msgid "Save Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:58
-#@ retro
-msgid "updating..."
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:60
-#@ retro
-msgid "Delete Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:61
-#: lib/revslider/views/templates/slider_new.php:51
-#: lib/revslider/views/templates/slides.php:21
-#: lib/revslider/views/templates/slides.php:49
-#: lib/revslider/views/templates/slides.php:56
-#: lib/revslider/views/templates/slides_gallery.php:21
-#: lib/revslider/views/templates/slides_gallery.php:45
-#: lib/revslider/views/templates/slides_gallery.php:51
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Close"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:62
-#: lib/revslider/views/templates/sliders_list.php:108
-#: lib/revslider/views/templates/slides.php:8
-#: lib/revslider/views/templates/slides_gallery.php:8
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Edit Slides"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:63
-#@ retro
-msgid "Preview Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_edit.php:63
-#: lib/revslider/views/templates/sliders_list.php:121
-#@ retro
-msgid "Preview"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_new.php:8
-#@ retro
-msgid "New Slider Template"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_new.php:13
-#@ retro
-msgid "New Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_new.php:31
-#@ retro
-msgid "(Can be different based on Theme Style)"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_new.php:48
-#@ retro
-msgid "Create Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:3
-#@ retro
-msgid "Import / Export"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:6
-#: lib/revslider/views/templates/sliders.php:73
-#: lib/revslider/views/templates/sliders.php:97
-#: lib/revslider/views/templates/sliders_list.php:202
-#@ retro
-msgid "Import Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:16
-#: lib/revslider/views/templates/sliders.php:83
-#@ retro
-msgid "Note: custom styles will be updated if they exist!"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:19
-#: lib/revslider/views/templates/sliders.php:86
-#@ retro
-msgid "Custom Animations:"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:20
-#: lib/revslider/views/templates/slider_toolbox.php:25
-#: lib/revslider/views/templates/sliders.php:87
-#: lib/revslider/views/templates/sliders.php:92
-#@ retro
-msgid "overwrite"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:21
-#: lib/revslider/views/templates/slider_toolbox.php:26
-#: lib/revslider/views/templates/sliders.php:88
-#: lib/revslider/views/templates/sliders.php:93
-#@ retro
-msgid "append"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:33
-#@ retro
-msgid "Note, that when you importing slider, it delete all the current slider settings and slides, then replace it with the new ones"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:37
-#: lib/revslider/views/templates/slider_toolbox.php:40
-#: lib/revslider/views/templates/sliders_list.php:109
-#@ retro
-msgid "Export Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:40
-#@ retro
-msgid "Export with Dummy Images"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:46
-#@ retro
-msgid "Replace Image Url's"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:48
-#@ retro
-msgid "Replace all layer and background image url's. Example: http://localhost/ to http://yourwbsite.com/. <br> Note, the replace is not reversible"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:52
-#@ retro
-msgid "Replace From (example - http://localhost)"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:58
-#@ retro
-msgid "Replace To (example - http://yoursite.com)"
-msgstr ""
-
-#: lib/revslider/views/templates/slider_toolbox.php:65
-#@ retro
-msgid "Replacing..."
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:26
-#@ retro
-msgid "Global Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:33
-#@ retro
-msgid "Revolution Sliders"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:40
-#@ retro
-msgid "No Sliders Found"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:55
-#@ retro
-msgid "Revolution Slider Templates"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:59
-#@ retro
-msgid "No Template Sliders Found"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders.php:79
-#@ retro
-msgid "Choose the import file"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:23
-#@ retro
-msgid "Shortcode"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:27
-#@ retro
-msgid "Source"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:28
-#@ retro
-msgid "N. Slides"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:29
-#@ retro
-msgid "Actions"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:107
-#@ retro
-msgid "Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:115
-#@ retro
-msgid "HTML &LT;/&GT;"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:120
-#: lib/revslider/views/templates/slides_list.php:128
-#@ retro
-msgid "Duplicate"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:139
-#@ retro
-msgid "Create New Template Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:143
-#@ retro
-msgid "Create New Slider"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:162
-#@ retro
-msgid "&laquo;"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:163
-#@ retro
-msgid "&raquo;"
-msgstr ""
-
-#: lib/revslider/views/templates/sliders_list.php:182
-#: lib/revslider/views/templates/sliders_list.php:193
-#: lib/shortcode/shortcodes.php:368
-#@ default
-#@ retro
-msgid "All"
-msgstr "Todas"
-
-#: lib/revslider/views/templates/slides.php:16
-#: lib/revslider/views/templates/slides.php:36
-#: lib/revslider/views/templates/slides_gallery.php:16
-#: lib/revslider/views/templates/slides_gallery.php:35
-#@ retro
-msgid "New Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:18
-#: lib/revslider/views/templates/slides.php:38
-#: lib/revslider/views/templates/slides_gallery.php:18
-#: lib/revslider/views/templates/slides_gallery.php:36
-#@ retro
-msgid "New Transparent Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:19
-#: lib/revslider/views/templates/slides.php:39
-#: lib/revslider/views/templates/slides_gallery.php:19
-#: lib/revslider/views/templates/slides_gallery.php:37
-#@ retro
-msgid "Adding Slide..."
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:36
-#: lib/revslider/views/templates/slides_gallery.php:35
-#@ retro
-msgid "Select image or multiple images to add slide or slides"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:44
-#@ retro
-msgid "Edit Static / Global Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:56
-#: lib/revslider/views/templates/slides_gallery.php:51
-#@ retro
-msgid "Do It!"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:56
-#: lib/revslider/views/templates/slides_gallery.php:51
-#@ retro
-msgid "Copy / move slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:65
-#: lib/revslider/views/templates/slides_gallery.php:60
-#@ retro
-msgid "Choose Operation"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:68
-#: lib/revslider/views/templates/slides_gallery.php:63
-#@ retro
-msgid "Copy"
-msgstr ""
-
-#: lib/revslider/views/templates/slides.php:71
-#: lib/revslider/views/templates/slides_gallery.php:66
-#@ retro
-msgid "Move"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_gallery.php:41
-#@ retro
-msgid "Edit Static/Global Layers"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_gallery.php:46
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Slider Settings"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_gallery.php:76
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Select Slide Image"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:3
-#: lib/revslider/views/templates/slides_list_posts.php:3
-#@ retro
-msgid "Slides List"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:4
-#: lib/revslider/views/templates/slides_list_posts.php:4
-#@ retro
-msgid "Saving Order"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:8
-#: lib/revslider/views/templates/slides_list_posts.php:8
-#@ retro
-msgid "No Slides Found"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:90
-#@ retro
-msgid "Unpublish Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:92
-#@ retro
-msgid "Publish Slide"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:127
-#@ retro
-msgid "Deleting Slide..."
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:131
-#@ retro
-msgid "Open copy / move dialog"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:138
-#@ retro
-msgid "Copy / Move"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list.php:139
-#@ retro
-msgid "Working..."
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list_posts.php:60
-#@ retro
-msgid "Unpublish Post"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list_posts.php:62
-#@ retro
-msgid "Publish Post"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_list_posts.php:67
-#@ retro
-msgid "Edit Post"
-msgstr ""
-
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "The slides are posts that taken from multiple sources."
-msgstr ""
-
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Sort by"
-msgstr "Ordenar Por"
-
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Updating Sorting..."
-msgstr ""
-
-#: lib/revslider/views/templates/slides_posts.php:1
-#@ retro
-msgid "Warning! Removing this entry will cause the original wordpress post to be deleted."
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:30
-#@ retro
-msgid "Font Family:"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:33
-#: lib/revslider/views/themepunch-google-fonts.php:55
-#@ retro
-msgid "Handle:"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:34
-#: lib/revslider/views/themepunch-google-fonts.php:59
-#@ retro
-msgid "Parameter:"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:37
-#: lib/shortcode/shortcodes.php:251
-#: loop.php:182
-#: loop.php:211
-#: loop.php:258
-#: loop.php:286
-#: woocommerce/myaccount/my-address.php:45
-#@ retro
-#@ woocommerce
-msgid "Edit"
-msgstr "Editar"
-
-#: lib/revslider/views/themepunch-google-fonts.php:47
-#@ retro
-msgid "Copy the Google Font Family from <a href=\"http://www.google.com/fonts\" target=\"_blank\">http://www.google.com/fonts</a> like: <strong>Open+Sans:400,700,600</strong>"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:51
-#@ retro
-msgid "Add New Font"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:53
-#@ retro
-msgid "Add Font"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:57
-#@ retro
-msgid "Unique WordPress handle (Internal use only)"
-msgstr ""
-
-#: lib/revslider/views/themepunch-google-fonts.php:61
-#@ retro
-msgid "Copy the Google Font Family from <a href=\"http://www.google.com/fonts\" target=\"_blank\">http://www.google.com/fonts</a><br/>i.e.:<strong>Open+Sans:400,600,700</strong>"
-msgstr ""
-
+# @ retro
 #: lib/shortcode/contact-form.php:74
-#@ retro
 msgid "(required)"
 msgstr ""
 
+# @ revslider
+# @ retro
+#: lib/shortcode/contact-form.php:88
+msgid "Yes"
+msgstr ""
+
+# @ retro
 #: lib/shortcode/contact-form.php:132
 #, php-format
-#@ retro
 msgid "%s requires a valid email address"
 msgstr ""
 
+# @ retro
 #: lib/shortcode/contact-form.php:136
 #, php-format
-#@ retro
 msgid "%s requires a valid url"
 msgstr ""
 
+# @ retro
 #: lib/shortcode/contact-form.php:145
 #, php-format
-#@ retro
 msgid "%s is required"
 msgstr ""
 
+# @ retro
 #: lib/shortcode/contactForm/contactsend.php:56
-#@ retro
 msgid "Your message has been successfully sent to us!"
 msgstr "Sua mensagem foi enviada com sucesso!"
 
-#: lib/shortcode/shortcodes/contactForm.php:9
-#@ retro
-msgid "Contact form"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:111
-#@ retro
-msgid "Your new field was saved successfully"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:116
-#@ retro
-msgid "Edit this new field"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:117
-#@ retro
-msgid "Label"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:118
-#@ retro
-msgid "New field"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:119
-#@ retro
-msgid "Field type"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:121
-#@ retro
-msgid "Checkbox"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:122
-#@ retro
-msgid "Drop down"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:125
-#@ retro
-msgid "Radio"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:126
-#@ retro
-msgid "Text"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:127
-#@ retro
-msgid "Textarea"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:128
-#@ retro
-msgid "Website"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:134
-#@ retro
-msgid "Options"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:135
-#@ retro
-msgid "First option"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:138
-#@ retro
-msgid "Add another option"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:145
-#@ retro
-msgid "Required?"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:151
-#@ retro
-msgid "Use for reply?"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:156
-#@ retro
-msgid "Save this field"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:161
-#@ retro
-msgid "Here's what your form will look like"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:166
-#@ retro
-msgid "Add a new field"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:169
-#@ retro
-msgid "Add this form to my post"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:172
-#@ retro
-msgid "Email settings"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:174
-#@ retro
-msgid "Enter your email address"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:177
-#@ retro
-msgid "What should the subject line be?"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:180
-#@ retro
-msgid "Send button text"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:183
-#@ retro
-msgid "Use reCaptcha(Public&Private keys must be set)"
-msgstr ""
-
-#: lib/shortcode/shortcodes/contactForm.php:184
-#@ retro
-msgid "Theme Options -> reCaptcha"
-msgstr ""
-
-#: lib/shortcode/shortcodes/portfolio.php:88
-#@ retro
-msgid "Filterable"
-msgstr ""
-
-#: lib/shortcode/shortcodes/portfolio.php:89
-#@ retro
-msgid "Pagination"
-msgstr ""
-
-#: lib/shortcode/shortcodes/portfolio.php:102
-#@ retro
-msgid "Big"
-msgstr ""
-
-#: lib/shortcode/shortcodes/portfolio.php:103
-#@ retro
-msgid "Medium"
-msgstr ""
-
-#: lib/shortcode/shortcodes/portfolio.php:104
-#@ retro
-msgid "Small"
-msgstr ""
-
-#: lib/shortcode/shortcodes.php:235
-#: lib/shortcode/shortcodes.php:250
-#: loop.php:165
-#: loop.php:181
-#: loop.php:203
-#: loop.php:210
-#: loop.php:241
-#: loop.php:257
-#: loop.php:278
-#: loop.php:285
-#: search.php:18
-#: search.php:23
-#@ retro
+# @ retro
+#: lib/shortcode/shortcodes.php:235 lib/shortcode/shortcodes.php:250
+#: loop.php:165 loop.php:181 loop.php:203 loop.php:210 loop.php:241
+#: loop.php:257 loop.php:278 loop.php:285 search.php:18 search.php:23
 msgid "Permanent Link to"
 msgstr ""
 
-#: lib/shortcode/shortcodes.php:249
-#: loop.php:180
-#: loop.php:209
-#: loop.php:256
+# @ retro
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
 #: loop.php:284
-#@ retro
 msgid "Comments (0)"
 msgstr "Comentários (0)"
 
-#: lib/shortcode/shortcodes.php:249
-#: loop.php:180
-#: loop.php:209
-#: loop.php:256
+# @ retro
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
 #: loop.php:284
-#@ retro
 msgid "Comment (1)"
 msgstr "Comentário (1)"
 
-#: lib/shortcode/shortcodes.php:249
-#: loop.php:180
-#: loop.php:209
-#: loop.php:256
+# @ retro
+#: lib/shortcode/shortcodes.php:249 loop.php:180 loop.php:209 loop.php:256
 #: loop.php:284
-#@ retro
 msgid "Comments (%)"
 msgstr "Comentários (%)"
 
-#: lib/shortcode/shortcodes.php:250
-#: loop.php:181
-#: loop.php:210
-#: loop.php:257
+# @ retro
+#: lib/shortcode/shortcodes.php:250 loop.php:181 loop.php:210 loop.php:257
 #: loop.php:285
-#@ retro
 msgid "Read more"
 msgstr "Leia mais"
 
+# @ retro
+# @ woocommerce
+#: lib/shortcode/shortcodes.php:251 loop.php:182 loop.php:211 loop.php:258
+#: loop.php:286
+msgid "Edit"
+msgstr "Editar"
+
+# @ retro
 #: lib/shortcode/shortcodes.php:366
-#@ retro
 msgid "SORT BY"
 msgstr "ORDENAR POR"
 
-#: lib/shortcode/shortcodes.php:380
-#: loop-portfolio.php:11
-#@ retro
+# @ default
+# @ retro
+#: lib/shortcode/shortcodes.php:368
+msgid "All"
+msgstr "Todas"
+
+# @ retro
+#: lib/shortcode/shortcodes.php:380 loop-portfolio.php:11
 msgid "Launch project"
 msgstr ""
 
+# @ retro
 #: lib/shortcode/shortcodes.php:384
-#@ retro
 msgid "more info"
 msgstr "mais info"
 
+# @ retro
 #: lib/shortcode/shortcodes.php:637
-#@ retro
 msgid "11 Previous"
 msgstr ""
 
+# @ retro
 #: lib/shortcode/shortcodes.php:639
-#@ retro
 msgid "22 Next"
 msgstr ""
 
-#: lib/tweaks.php:346
-#@ retro
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:10
+msgid "Contact form"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:112
+msgid "Your new field was saved successfully"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:117
+msgid "Edit this new field"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:118
+msgid "Label"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:119
+msgid "New field"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:120
+msgid "Field type"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:122
+msgid "Checkbox"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:123
+msgid "Drop down"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:126
+msgid "Radio"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:127
+msgid "Text"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:128
+msgid "Textarea"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:129
+msgid "Website"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:135
+msgid "Options"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:136
+msgid "First option"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:139
+msgid "Add another option"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:146
+msgid "Required?"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:152
+msgid "Use for reply?"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:157
+msgid "Save this field"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:162
+msgid "Here's what your form will look like"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:167
+msgid "Add a new field"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:170
+msgid "Add this form to my post"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:173
+msgid "Email settings"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:175
+msgid "Enter your email address"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:178
+msgid "What should the subject line be?"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:181
+msgid "Send button text"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:184
+msgid "Use reCaptcha(Public&Private keys must be set)"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/contactForm.php:185
+msgid "Theme Options -> reCaptcha"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/portfolio.php:89
+msgid "Filterable"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/portfolio.php:90
+msgid "Pagination"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/portfolio.php:103
+msgid "Big"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/portfolio.php:104
+msgid "Medium"
+msgstr ""
+
+# @ retro
+#: lib/shortcode/shortcodes/portfolio.php:105
+msgid "Small"
+msgstr ""
+
+# @ retro
+#: lib/tweaks.php:416
 msgid "Search for:"
 msgstr ""
 
-#: lib/tweaks.php:347
-#@ retro
+# @ retro
+#: lib/tweaks.php:417
 msgid "To search type and hit enter"
 msgstr "Digite e tecle enter"
 
-#: lib/tweaks.php:348
-#@ retro
+# @ retro
+#: lib/tweaks.php:418
 msgid "Search"
 msgstr ""
 
+# @ retro
 #: loop-portfolio.php:16
-#@ retro
 msgid "Learn more"
 msgstr "Saber mais"
 
-#: loop-portfolio.php:210
-#: loop-testimonials.php:112
-#: loop.php:350
-#: search.php:63
-#@ retro
+# @ retro
+#: loop-portfolio.php:210 loop-testimonials.php:112 loop.php:350 search.php:63
 msgid "Not Found"
 msgstr "Não Encontrado"
 
-#: loop-portfolio.php:213
-#: loop-testimonials.php:115
-#: loop.php:353
-#: search.php:66
-#@ retro
+# @ retro
+#: loop-portfolio.php:213 loop-testimonials.php:115 loop.php:353 search.php:66
 msgid "Sorry, but you are looking for something that isn't here."
 msgstr "Desculpe, mas você está procurando algo que não temos."
 
-#: loop.php:54
-#: loop.php:127
-#@ retro
+# @ retro
+#: loop.php:54 loop.php:127
 msgid "Author: "
 msgstr ""
 
+# @ retro
 #: loop.php:101
-#@ retro
 msgid "<span>Categories:</span>"
 msgstr "<span>Categorias:</span>"
 
+# @ retro
 #: loop.php:104
-#@ retro
 msgid "<span>Tags:</span>"
 msgstr ""
 
+# @ retro
 #: search.php:23
-#@ retro
 msgid "read more &rarr;"
 msgstr "Leia mais &rarr;"
 
+# @ retro
 #: title.php:83
 #, php-format
-#@ retro
 msgid "Daily Archives: <span>%s</span>"
 msgstr ""
 
+# @ retro
 #: title.php:87
 #, php-format
-#@ retro
 msgid "Monthly Archives: <span>%s</span>"
 msgstr ""
 
+# @ retro
 #: title.php:91
 #, php-format
-#@ retro
 msgid "Yearly Archives: <span>%s</span>"
 msgstr ""
 
+# @ retro
 #: title.php:103
-#@ retro
 msgid "404 - Oops!"
 msgstr "o erro - 404"
 
+# @ retro
 #: title.php:107
-#@ retro
 msgid "Results for: "
 msgstr "Resultados para: "
 
+# @ retro
 #: title.php:125
-#@ retro
 msgid "Author Archives: "
 msgstr ""
 
-#: title.php:128
-#@ retro
+# @ retro
+#: title.php:129
 msgid "No posts for current author"
 msgstr ""
 
-#: woocommerce/cart/cart-empty.php:16
-#@ woocommerce
-msgid "Your cart is currently empty."
-msgstr ""
-
-#: woocommerce/cart/cart-empty.php:20
-#@ woocommerce
-msgid "Return To Shop"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:16
-#@ woocommerce
-msgid "Cart Totals"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:20
-#: woocommerce/checkout/review-order.php:25
-#@ woocommerce
-msgid "Cart Subtotal"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:74
-#: woocommerce/checkout/review-order.php:79
-#@ woocommerce
-msgid "Order Total"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:86
-#, php-format
-#@ woocommerce
-msgid " (taxes estimated for %s)"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:89
-#, php-format
-#@ woocommerce
-msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
-msgstr ""
-
-#: woocommerce/cart/cart.php:24
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:26
 msgid "Product name"
 msgstr ""
 
-#: woocommerce/cart/cart.php:25
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:27
 msgid "Unit"
 msgstr ""
 
-#: woocommerce/cart/cart.php:26
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:28
 msgid "QTY."
 msgstr ""
 
-#: woocommerce/cart/cart.php:27
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:29
 msgid "Price"
 msgstr ""
 
-#: woocommerce/cart/cart.php:54
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:56
 msgid "Product name:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:66
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:68
 msgid "Available on backorder"
 msgstr ""
 
-#: woocommerce/cart/cart.php:71
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:73
 msgid "Unit:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:78
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:80
 msgid "QTY:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:96
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:98
 msgid "Price:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:103
-#@ retro
+# @ retro
+#: woocommerce/cart/cart.php:105
 msgid "Remove from cart:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:105
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:107
 msgid "Remove this item"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:123
 msgid "Coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:123
 msgid "Coupon code"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:123
 msgid "Apply Coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:128
-#@ woocommerce
-msgid "Proceed to Checkout"
-msgstr ""
-
-#: woocommerce/cart/cart.php:131
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/cart/cart.php:132
 msgid "Update Cart"
 msgstr ""
 
-#: woocommerce/cart/cross-sells.php:42
-#: woocommerce/single-product/related.php:43
-#: woocommerce/single-product/up-sells.php:42
-#@ retro
+# @ retro
+#: woocommerce/cart/cross-sells.php:44
+#: woocommerce/single-product/related.php:45
+#: woocommerce/single-product/up-sells.php:45
 msgid "Previous"
 msgstr ""
 
-#: woocommerce/cart/cross-sells.php:43
-#@ retro
+# @ retro
+#: woocommerce/cart/cross-sells.php:45
 msgid "You may be interested in&hellip;"
 msgstr ""
 
-#: woocommerce/cart/cross-sells.php:44
-#: woocommerce/single-product/related.php:45
-#: woocommerce/single-product/up-sells.php:44
-#@ retro
+# @ retro
+#: woocommerce/cart/cross-sells.php:46
+#: woocommerce/single-product/related.php:47
+#: woocommerce/single-product/up-sells.php:47
 msgid "Next"
 msgstr ""
 
-#: woocommerce/cart/mini-cart.php:49
-#@ woocommerce
-msgid "No products in the cart."
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:57
-#@ woocommerce
-msgid "Subtotal"
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:62
-#@ woocommerce
-msgid "View Cart"
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:63
-#@ woocommerce
-msgid "Checkout"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:20
-#@ woocommerce
-msgid "Calculate Shipping"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:26
-#@ woocommerce
-msgid "Select a country&hellip;"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:43
-#: woocommerce/cart/shipping-calculator.php:49
-#: woocommerce/cart/shipping-calculator.php:61
-#@ woocommerce
-msgid "State / county"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:50
-#@ woocommerce
-msgid "Select a state&hellip;"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:70
-#@ woocommerce
-msgid "City"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:78
-#@ woocommerce
-msgid "Postcode / Zip"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:83
-#@ woocommerce
-msgid "Update Totals"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:15
-#@ woocommerce
-msgid "Billing &amp; Shipping"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:19
-#@ woocommerce
-msgid "Billing Details"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:38
-#@ woocommerce
-msgid "Create an account?"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:49
-#@ woocommerce
-msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
-msgstr ""
-
-#: woocommerce/checkout/form-checkout.php:18
-#@ woocommerce
-msgid "You must be logged in to checkout."
-msgstr ""
-
-#: woocommerce/checkout/form-checkout.php:49
-#@ woocommerce
-msgid "Your order"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:17
-#: woocommerce/checkout/review-order.php:18
-#: woocommerce/order/order-details.php:18
-#@ woocommerce
-msgid "Product"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:18
-#@ woocommerce
-msgid "Qty"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:19
-#@ woocommerce
-msgid "Totals"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:76
-#@ woocommerce
-msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:86
-#@ woocommerce
-msgid "Pay for order"
-msgstr ""
-
-#: woocommerce/checkout/form-shipping.php:30
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/form-shipping.php:33
 msgid "Ship to a different address?"
 msgstr ""
 
-#: woocommerce/checkout/form-shipping.php:33
-#@ retro
+# @ retro
+#: woocommerce/checkout/form-shipping.php:36
 msgid "Shipping Details"
 msgstr ""
 
-#: woocommerce/checkout/form-shipping.php:57
-#: woocommerce/single-product/tabs/additional-information.php:17
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/form-shipping.php:60
 msgid "Additional Information"
 msgstr ""
 
-#: woocommerce/checkout/review-order.php:19
-#: woocommerce/myaccount/my-orders.php:35
-#: woocommerce/order/order-details.php:19
-#@ woocommerce
-msgid "Total"
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
 msgstr ""
 
-#: woocommerce/checkout/review-order.php:150
-#@ woocommerce
-msgid "Please fill in your details above to see available payment methods."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:152
-#@ woocommerce
-msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:163
-#@ woocommerce
-msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:163
-#@ woocommerce
-msgid "Update totals"
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:170
-#@ woocommerce
-msgid "Place order"
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:179
-#, php-format
-#@ woocommerce
-msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
-msgstr ""
-
-#: woocommerce/checkout/thankyou.php:16
-#@ woocommerce
-msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
-msgstr ""
-
-#: woocommerce/checkout/thankyou.php:20
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:22
 msgid "Please attempt your purchase again or go to your account page."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:22
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:24
 msgid "Please attempt your purchase again."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:26
-#: woocommerce/myaccount/my-orders.php:73
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:28
 msgid "Pay"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:34
-#: woocommerce/checkout/thankyou.php:65
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
 msgid "Thank you. Your order has been received."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:38
-#: woocommerce/myaccount/my-orders.php:48
-#@ woocommerce
-msgid "Order:"
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:42
-#: woocommerce/myaccount/my-orders.php:54
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:44
 msgid "Date:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:46
-#: woocommerce/myaccount/my-orders.php:62
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:48
 msgid "Total:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:51
-#@ woocommerce
-msgid "Payment method:"
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
 msgstr ""
 
-#: woocommerce/global/quantity-input.php:12
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/global/quantity-input.php:15
 msgctxt "Product quantity input tooltip"
 msgid "Qty"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:17
-#: woocommerce/loop/add-to-cart.php:47
-#: woocommerce/loop/add-to-cart.php:60
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/loop/add-to-cart.php:19 woocommerce/loop/add-to-cart.php:49
+#: woocommerce/loop/add-to-cart.php:62
 msgid "Read More"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:34
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/loop/add-to-cart.php:36
 msgid "Select options"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:39
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/loop/add-to-cart.php:41
 msgid "View options"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:55
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/loop/add-to-cart.php:57
 msgid "Add to cart"
 msgstr ""
 
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:19
-#: woocommerce/myaccount/my-address.php:25
-#: woocommerce/order/order-details.php:116
-#@ woocommerce
-msgid "Billing Address"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:40
+msgid "There are no reviews yet."
 msgstr ""
 
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:20
-#: woocommerce/order/order-details.php:131
-#@ woocommerce
-msgid "Shipping Address"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:53
+msgid "Add a review"
 msgstr ""
 
-#: woocommerce/myaccount/form-edit-address.php:44
-#@ woocommerce
-msgid "Save Address"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:53
+msgid "Be the first to review"
 msgstr ""
 
-#: woocommerce/myaccount/form-login.php:27
-#: woocommerce/myaccount/form-login.php:46
-#@ woocommerce
-msgid "Login"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:34
-#@ woocommerce
-msgid "Username or email address"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:38
-#: woocommerce/myaccount/form-login.php:95
-#@ woocommerce
-msgid "Password"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:48
-#@ woocommerce
-msgid "Remember me"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:52
-#@ woocommerce
-msgid "Lost your password?"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:74
-#@ woocommerce
-msgid "Username"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:86
-#@ woocommerce
-msgid "Email address"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:104
-#@ woocommerce
-msgid "Anti-spam"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:17
-#@ woocommerce
-msgid "My Addresses"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:23
-#@ woocommerce
-msgid "My Address"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:35
-#@ woocommerce
-msgid "The following addresses will be used on the checkout page by default."
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:64
-#@ woocommerce
-msgid "You have not set up this type of address yet."
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:26
-#@ woocommerce
-msgid "Recent Orders"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:32
-#@ woocommerce
-msgid "Order"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:33
-#@ woocommerce
-msgid "Date"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:34
-#@ woocommerce
-msgid "Status"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:58
-#@ woocommerce
-msgid "Status:"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:63
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:54
 #, php-format
-#@ woocommerce
-msgid "%s for %s item"
-msgid_plural "%s for %s items"
-msgstr[0] ""
-msgstr[1] ""
-
-#: woocommerce/myaccount/my-orders.php:66
-#@ woocommerce
-msgid "Actions:"
+msgid "Leave a Reply to %s"
 msgstr ""
 
-#: woocommerce/myaccount/my-orders.php:80
-#@ woocommerce
-msgid "Cancel"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:61
+msgid "E-mail"
 msgstr ""
 
-#: woocommerce/myaccount/my-orders.php:86
-#@ woocommerce
-msgid "View"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:69
+msgid "Your Rating"
 msgstr ""
 
-#: woocommerce/order/order-details.php:14
-#@ woocommerce
-msgid "Order Details"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:70
+msgid "Rate&hellip;"
 msgstr ""
 
-#: woocommerce/order/order-details.php:64
-#, php-format
-#@ woocommerce
-msgid "Download file%s"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:71
+msgid "Perfect"
 msgstr ""
 
-#: woocommerce/order/order-details.php:95
-#@ woocommerce
-msgid "Customer details"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:72
+msgid "Good"
 msgstr ""
 
-#: woocommerce/order/order-details.php:100
-#@ woocommerce
-msgid "Telephone:"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:73
+msgid "Average"
 msgstr ""
 
-#: woocommerce/order/order-details.php:120
-#: woocommerce/order/order-details.php:135
-#: woocommerce/single-product/price.php:22
-#@ woocommerce
-msgid "N/A"
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:74
+msgid "Not that bad"
 msgstr ""
 
-#: woocommerce/single-product/meta.php:22
-#@ retro
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:75
+msgid "Very Poor"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Review"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+# @ retro
+#: woocommerce/single-product/meta.php:26
 msgid "<h3 class=\"widget-title\">Tag</h3>"
 msgid_plural "<h3 class=\"widget-title\">Tags</h3>"
 msgstr[0] "<h3 class=\"widget-title\">Etiqueta</h3>"
 msgstr[1] "<h3 class=\"widget-title\">Etiquetas</h3>"
 
-#: woocommerce/single-product/meta.php:28
-#@ retro
+# @ retro
+#: woocommerce/single-product/meta.php:33
 msgid "<h3 class=\"widget-title\">Category</h3>"
 msgid_plural "<h3 class=\"widget-title\">Categories</h3>"
 msgstr[0] "<h3 class=\"widget-title\">Categoria</h3>"
 msgstr[1] "<h3 class=\"widget-title\">Categorias</h3>"
 
-#: woocommerce/single-product/price.php:22
-#@ woocommerce
+# @ woocommerce
+#: woocommerce/single-product/price.php:23
 msgid "SKU:"
 msgstr ""
 
-#: woocommerce/single-product/related.php:44
-#@ retro
+# @ woocommerce
+#: woocommerce/single-product/price.php:23
+msgid "N/A"
+msgstr ""
+
+# @ retro
+#: woocommerce/single-product/related.php:46
 msgid "Related Products"
 msgstr ""
 
-#: woocommerce/single-product/review.php:26
-#, php-format
-#@ woocommerce
-msgid "Rated %d out of 5"
-msgstr ""
-
-#: woocommerce/single-product/review.php:34
-#@ woocommerce
-msgid "Your comment is awaiting approval"
-msgstr ""
-
-#: woocommerce/single-product/review.php:43
-#@ woocommerce
-msgid "verified owner"
-msgstr ""
-
-#: woocommerce/single-product/tabs/description.php:14
-#@ woocommerce
-msgid "Product Description"
-msgstr ""
-
-#: woocommerce/single-product/up-sells.php:43
-#@ retro
+# @ retro
+#: woocommerce/single-product/up-sells.php:46
 msgid "You May Also Like"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:37
-#@ woocommerce
-msgid "There are no reviews yet."
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:50
-#@ woocommerce
-msgid "Add a review"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:50
-#@ woocommerce
-msgid "Be the first to review"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:51
-#, php-format
-#@ woocommerce
-msgid "Leave a Reply to %s"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:59
-#@ woocommerce
-msgid "E-mail"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:67
-#@ woocommerce
-msgid "Your Rating"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:68
-#@ woocommerce
-msgid "Rate&hellip;"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:69
-#@ woocommerce
-msgid "Perfect"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:70
-#@ woocommerce
-msgid "Good"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:71
-#@ woocommerce
-msgid "Average"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:72
-#@ woocommerce
-msgid "Not that bad"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:73
-#@ woocommerce
-msgid "Very Poor"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:77
-#@ woocommerce
-msgid "Your Review"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:86
-#@ woocommerce
-msgid "Only logged in customers who have purchased this product may leave a review."
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:21
-#@ woocommerce
-msgid "Shows a custom attribute in a widget which lets you narrow down the list of products when viewing product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:23
-#@ woocommerce
-msgid "WooCommerce Layered Nav"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:69
-#@ woocommerce
-msgid "Filter by"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:81
-#@ woocommerce
-msgid "Display type"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:83
-#@ woocommerce
-msgid "List"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:84
-#@ woocommerce
-msgid "Dropdown"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:90
-#@ woocommerce
-msgid "Query type"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:92
-#@ woocommerce
-msgid "AND"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:93
-#@ woocommerce
-msgid "OR"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:174
-#, php-format
-#@ woocommerce
-msgid "Any %s"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:24
-#@ woocommerce
-msgid "A list or dropdown of product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:26
-#@ woocommerce
-msgid "WooCommerce Product Categories"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:30
-#@ woocommerce
-msgid "Product Categories"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:36
-#@ woocommerce
-msgid "Order by"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:38
-#@ woocommerce
-msgid "Category Order"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:45
-#@ woocommerce
-msgid "Show as dropdown"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:50
-#@ woocommerce
-msgid "Show post counts"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:55
-#@ woocommerce
-msgid "Show hierarchy"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:60
-#@ woocommerce
-msgid "Only show children for the current category"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:156
-#@ woocommerce
-msgid "No product categories exist."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:21
-#@ woocommerce
-msgid "Display a list of your most recent reviews on your site."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:23
-#@ woocommerce
-msgid "WooCommerce Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:27
-#@ woocommerce
-msgid "Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:36
-#@ woocommerce
-msgid "Number of reviews to show"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:87
-#, php-format
-#@ woocommerce
-msgctxt "by comment author"
-msgid "by %1$s"
-msgstr ""
-
+# @ retro
 #: wpml-integration.php:32
-#@ retro
 msgid "This post is also available in: "
 msgstr ""
 
+# @ retro
+#~ msgid "Sort by"
+#~ msgstr "Ordenar Por"

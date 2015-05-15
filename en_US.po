@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Retro\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-13 19:07+0700\n"
-"PO-Revision-Date: 2014-11-13 19:07+0700\n"
+"POT-Creation-Date: 2015-05-15 15:03+0700\n"
+"PO-Revision-Date: 2015-05-15 15:03+0700\n"
 "Last-Translator: \n"
 "Language-Team: Olegnax <mail@olegnax.com>\n"
 "Language: en\n"
@@ -12,7 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;_x;_n\n"
 "X-Poedit-Basepath: ../\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: lib/revslider\n"
 
@@ -314,29 +316,37 @@ msgstr ""
 msgid "Use default theme font BazarMedium(if google font disable)"
 msgstr ""
 
+#: classes/Admin/Theme/Item/General.php:132
+msgid "Disable Font Awesome"
+msgstr ""
+
 #: classes/Admin/Theme/Item/General.php:133
-#: classes/Admin/Theme/Item/General.php:134
+msgid "Check to disable Font Awesome"
+msgstr ""
+
+#: classes/Admin/Theme/Item/General.php:145
+#: classes/Admin/Theme/Item/General.php:146
 msgid "Choose a font family for content"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:142
-#: classes/Admin/Theme/Item/General.php:143
+#: classes/Admin/Theme/Item/General.php:154
+#: classes/Admin/Theme/Item/General.php:155
 msgid "Choose a font style for content"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:155
+#: classes/Admin/Theme/Item/General.php:167
 msgid "Favicon"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:156
+#: classes/Admin/Theme/Item/General.php:168
 msgid "Click upload button, then choose and upload your favicon file"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:167
+#: classes/Admin/Theme/Item/General.php:179
 msgid "Disable responsive"
 msgstr ""
 
-#: classes/Admin/Theme/Item/General.php:168
+#: classes/Admin/Theme/Item/General.php:180
 msgid "Check to disable responsive support"
 msgstr ""
 
@@ -921,41 +931,41 @@ msgstr ""
 msgid "Logo text size at any units"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:251
+#: classes/Custom/MetaBox/Taxonomy.php:258
 msgid "Delete this image"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:251
-#: classes/Custom/MetaBox/Taxonomy.php:854
+#: classes/Custom/MetaBox/Taxonomy.php:258
+#: classes/Custom/MetaBox/Taxonomy.php:945
 msgid "Delete"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:345
+#: classes/Custom/MetaBox/Taxonomy.php:361
 msgid "Cannot delete file. Something's wrong."
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:558
-#: classes/Custom/MetaBox/Taxonomy.php:601
+#: classes/Custom/MetaBox/Taxonomy.php:594
+#: classes/Custom/MetaBox/Taxonomy.php:647
 msgid "Remove"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:571
+#: classes/Custom/MetaBox/Taxonomy.php:609
 msgid "Add"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:850
+#: classes/Custom/MetaBox/Taxonomy.php:940
 msgid "Uploaded files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:861
+#: classes/Custom/MetaBox/Taxonomy.php:952
 msgid "Upload new files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:867
+#: classes/Custom/MetaBox/Taxonomy.php:958
 msgid "Add more files"
 msgstr ""
 
-#: classes/Custom/MetaBox/Taxonomy.php:919
+#: classes/Custom/MetaBox/Taxonomy.php:1016
 msgid "Select a color"
 msgstr ""
 
@@ -1371,12 +1381,12 @@ msgstr ""
 msgid "Name:"
 msgstr ""
 
-#: classes/Widget/ContactForm.php:43 woocommerce/order/order-details.php:99
+#: classes/Widget/ContactForm.php:43
 msgid "Email:"
 msgstr ""
 
 #: classes/Widget/ContactForm.php:44
-msgid "Youre message..."
+msgid "Your message..."
 msgstr ""
 
 #: classes/Widget/ContactForm.php:54
@@ -1415,7 +1425,7 @@ msgid "Recipient email:"
 msgstr ""
 
 #: classes/Widget/FeedburnerEmail.php:49
-#: woocommerce/single-product-reviews.php:60
+#: woocommerce/single-product-reviews.php:63
 msgid "Submit"
 msgstr ""
 
@@ -1604,9 +1614,6 @@ msgid "Open in new tab:"
 msgstr ""
 
 #: classes/Widget/SocialLinks.php:134
-#: woocommerce/widgets/widget-layered-nav.php:70
-#: woocommerce/widgets/widget-product-categories.php:31
-#: woocommerce/widgets/widget-recent-reviews.php:28
 msgid "Title"
 msgstr ""
 
@@ -1697,14 +1704,14 @@ msgstr ""
 msgid "One Comment"
 msgstr ""
 
-#: comments.php:56 lib/shortcode/shortcodes/contactForm.php:124
-#: woocommerce/single-product-reviews.php:55
-#: woocommerce/widgets/widget-product-categories.php:39
+#: comments.php:56 lib/shortcode/shortcodes/contactForm.php:125
+#: woocommerce/single-product-reviews.php:58
+#: woocommerce/single-product-reviews.php:59
 msgid "Name"
 msgstr ""
 
-#: comments.php:59 lib/shortcode/shortcodes/contactForm.php:123
-#: woocommerce/single-product-reviews.php:57
+#: comments.php:59 lib/shortcode/shortcodes/contactForm.php:124
+#: woocommerce/single-product-reviews.php:60
 msgid "Email"
 msgstr ""
 
@@ -1714,6 +1721,14 @@ msgstr ""
 
 #: comments.php:65
 msgid "Your message"
+msgstr ""
+
+#: comments.php:67
+msgid ""
+"You may use these HTML tags and attributes: &lt;a href=\"\" title=\"\"> &lt;"
+"abbr title=\"\"&gt; &lt;acronym title=\"\"&gt; &lt;b&gt; &lt;blockquote cite="
+"\"\"&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=\"\"&gt; &lt;em&gt; &lt;"
+"i&gt; &lt;q cite=\"\"&gt; &lt;strike&gt; &lt;strong&gt;"
 msgstr ""
 
 #: comments.php:69
@@ -1728,94 +1743,94 @@ msgstr ""
 msgid "Header  Menu 2"
 msgstr ""
 
-#: functions.php:412 lib/shortcode/shortcodes.php:444
+#: functions.php:416 lib/shortcode/shortcodes.php:444
 #: lib/shortcode/shortcodes.php:488 lib/shortcode/shortcodes.php:513
 #: loop-portfolio.php:126
 msgid "view"
 msgstr ""
 
-#: functions.php:413
+#: functions.php:417
 msgid "Something going wrong with connection..."
 msgstr ""
 
-#: functions.php:622
+#: functions.php:627
 msgid "The default sidebar!"
 msgstr ""
 
-#: functions.php:811 functions.php:851
-#: woocommerce/single-product/product-image.php:38
+#: functions.php:808 functions.php:854
+#: woocommerce/single-product/product-image.php:41
 msgid "Placeholder"
 msgstr ""
 
-#: functions.php:868
+#: functions.php:869
 msgid "New Label Background color"
 msgstr ""
 
-#: functions.php:875
+#: functions.php:876
 msgid "New Label Font color"
 msgstr ""
 
-#: functions.php:895
+#: functions.php:896
 msgid "New Label Background Color"
 msgstr ""
 
-#: functions.php:902
+#: functions.php:903
 msgid "New Label Font Color"
 msgstr ""
 
-#: functions.php:926 functions.php:953
+#: functions.php:930 functions.php:957
 msgid "Sale Label Background Color"
 msgstr ""
 
-#: functions.php:933 functions.php:960
+#: functions.php:937 functions.php:964
 msgid "Sale Label Font Color"
 msgstr ""
 
-#: functions.php:983 functions.php:1018
+#: functions.php:987 functions.php:1022
 msgid "Listing Per Page"
 msgstr ""
 
-#: functions.php:984 functions.php:1019
+#: functions.php:988 functions.php:1023
 msgid "products"
 msgstr ""
 
-#: functions.php:991 functions.php:1026
+#: functions.php:995 functions.php:1030
 msgid "Show  product  info button in product listing."
 msgstr ""
 
-#: functions.php:998 functions.php:1033
+#: functions.php:1002 functions.php:1037
 msgid "Hide categories from product page."
 msgstr ""
 
-#: functions.php:1055 header.php:327
+#: functions.php:1059 header.php:327
 #, php-format
 msgid "Bag - %d"
 msgstr ""
 
-#: functions.php:1070
+#: functions.php:1074
 #, php-format
 msgid "Rated %s out of 5"
 msgstr ""
 
-#: functions.php:1070 woocommerce/single-product/review.php:27
+#: functions.php:1074
 msgid "out of 5"
 msgstr ""
 
-#: functions.php:1071
+#: functions.php:1075
 #, php-format
 msgid "%s Review"
 msgstr ""
 
-#: functions.php:1072
+#: functions.php:1076
 msgid "Add Your Review"
 msgstr ""
 
-#: functions.php:1097
+#: functions.php:1114
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: functions.php:1102
+#: functions.php:1119
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
@@ -1823,7 +1838,7 @@ msgstr ""
 msgid "Feed"
 msgstr ""
 
-#: header.php:310 woocommerce/checkout/thankyou.php:28
+#: header.php:310 woocommerce/checkout/thankyou.php:30
 msgid "My Account"
 msgstr ""
 
@@ -1917,7 +1932,7 @@ msgid "Read more"
 msgstr ""
 
 #: lib/shortcode/shortcodes.php:251 loop.php:182 loop.php:211 loop.php:258
-#: loop.php:286 woocommerce/myaccount/my-address.php:45
+#: loop.php:286
 msgid "Edit"
 msgstr ""
 
@@ -1945,143 +1960,143 @@ msgstr ""
 msgid "22 Next"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:9
+#: lib/shortcode/shortcodes/contactForm.php:10
 msgid "Contact form"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:111
+#: lib/shortcode/shortcodes/contactForm.php:112
 msgid "Your new field was saved successfully"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:116
+#: lib/shortcode/shortcodes/contactForm.php:117
 msgid "Edit this new field"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:117
+#: lib/shortcode/shortcodes/contactForm.php:118
 msgid "Label"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:118
+#: lib/shortcode/shortcodes/contactForm.php:119
 msgid "New field"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:119
+#: lib/shortcode/shortcodes/contactForm.php:120
 msgid "Field type"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:121
+#: lib/shortcode/shortcodes/contactForm.php:122
 msgid "Checkbox"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:122
+#: lib/shortcode/shortcodes/contactForm.php:123
 msgid "Drop down"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:125
+#: lib/shortcode/shortcodes/contactForm.php:126
 msgid "Radio"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:126
+#: lib/shortcode/shortcodes/contactForm.php:127
 msgid "Text"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:127
+#: lib/shortcode/shortcodes/contactForm.php:128
 msgid "Textarea"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:128
+#: lib/shortcode/shortcodes/contactForm.php:129
 msgid "Website"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:134
+#: lib/shortcode/shortcodes/contactForm.php:135
 msgid "Options"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:135
+#: lib/shortcode/shortcodes/contactForm.php:136
 msgid "First option"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:138
+#: lib/shortcode/shortcodes/contactForm.php:139
 msgid "Add another option"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:145
+#: lib/shortcode/shortcodes/contactForm.php:146
 msgid "Required?"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:151
+#: lib/shortcode/shortcodes/contactForm.php:152
 msgid "Use for reply?"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:156
+#: lib/shortcode/shortcodes/contactForm.php:157
 msgid "Save this field"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:161
+#: lib/shortcode/shortcodes/contactForm.php:162
 msgid "Here's what your form will look like"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:166
+#: lib/shortcode/shortcodes/contactForm.php:167
 msgid "Add a new field"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:169
+#: lib/shortcode/shortcodes/contactForm.php:170
 msgid "Add this form to my post"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:172
+#: lib/shortcode/shortcodes/contactForm.php:173
 msgid "Email settings"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:174
+#: lib/shortcode/shortcodes/contactForm.php:175
 msgid "Enter your email address"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:177
+#: lib/shortcode/shortcodes/contactForm.php:178
 msgid "What should the subject line be?"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:180
+#: lib/shortcode/shortcodes/contactForm.php:181
 msgid "Send button text"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:183
+#: lib/shortcode/shortcodes/contactForm.php:184
 msgid "Use reCaptcha(Public&Private keys must be set)"
 msgstr ""
 
-#: lib/shortcode/shortcodes/contactForm.php:184
+#: lib/shortcode/shortcodes/contactForm.php:185
 msgid "Theme Options -> reCaptcha"
 msgstr ""
 
-#: lib/shortcode/shortcodes/portfolio.php:88
+#: lib/shortcode/shortcodes/portfolio.php:89
 msgid "Filterable"
 msgstr ""
 
-#: lib/shortcode/shortcodes/portfolio.php:89
+#: lib/shortcode/shortcodes/portfolio.php:90
 msgid "Pagination"
 msgstr ""
 
-#: lib/shortcode/shortcodes/portfolio.php:102
+#: lib/shortcode/shortcodes/portfolio.php:103
 msgid "Big"
 msgstr ""
 
-#: lib/shortcode/shortcodes/portfolio.php:103
+#: lib/shortcode/shortcodes/portfolio.php:104
 msgid "Medium"
 msgstr ""
 
-#: lib/shortcode/shortcodes/portfolio.php:104
+#: lib/shortcode/shortcodes/portfolio.php:105
 msgid "Small"
 msgstr ""
 
-#: lib/tweaks.php:346
+#: lib/tweaks.php:416
 msgid "Search for:"
 msgstr ""
 
-#: lib/tweaks.php:347
+#: lib/tweaks.php:417
 msgid "To search type and hit enter"
 msgstr ""
 
-#: lib/tweaks.php:348
+#: lib/tweaks.php:418
 msgid "Search"
 msgstr ""
 
@@ -2140,658 +2155,233 @@ msgstr ""
 msgid "Author Archives: "
 msgstr ""
 
-#: title.php:128
+#: title.php:129
 msgid "No posts for current author"
 msgstr ""
 
-#: woocommerce/cart/cart-empty.php:16
-msgid "Your cart is currently empty."
-msgstr ""
-
-#: woocommerce/cart/cart-empty.php:20
-msgid "Return To Shop"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:16
-msgid "Cart Totals"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:20
-#: woocommerce/checkout/review-order.php:25
-msgid "Cart Subtotal"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:74
-#: woocommerce/checkout/review-order.php:79
-msgid "Order Total"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:86
-#, php-format
-msgid " (taxes estimated for %s)"
-msgstr ""
-
-#: woocommerce/cart/cart-totals.php:89
-#, php-format
-msgid ""
-"Note: Shipping and taxes are estimated%s and will be updated during checkout "
-"based on your billing and shipping information."
-msgstr ""
-
-#: woocommerce/cart/cart.php:24
+#: woocommerce/cart/cart.php:26
 msgid "Product name"
 msgstr ""
 
-#: woocommerce/cart/cart.php:25
+#: woocommerce/cart/cart.php:27
 msgid "Unit"
 msgstr ""
 
-#: woocommerce/cart/cart.php:26
+#: woocommerce/cart/cart.php:28
 msgid "QTY."
 msgstr ""
 
-#: woocommerce/cart/cart.php:27
+#: woocommerce/cart/cart.php:29
 msgid "Price"
 msgstr ""
 
-#: woocommerce/cart/cart.php:54
+#: woocommerce/cart/cart.php:56
 msgid "Product name:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:66
+#: woocommerce/cart/cart.php:68
 msgid "Available on backorder"
 msgstr ""
 
-#: woocommerce/cart/cart.php:71
+#: woocommerce/cart/cart.php:73
 msgid "Unit:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:78
+#: woocommerce/cart/cart.php:80
 msgid "QTY:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:96
+#: woocommerce/cart/cart.php:98
 msgid "Price:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart.php:105
 msgid "Remove from cart:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:105
+#: woocommerce/cart/cart.php:107
 msgid "Remove this item"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
+#: woocommerce/cart/cart.php:123
 msgid "Coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
+#: woocommerce/cart/cart.php:123
 msgid "Coupon code"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
+#: woocommerce/cart/cart.php:123
 msgid "Apply Coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:128
-msgid "Proceed to Checkout"
-msgstr ""
-
-#: woocommerce/cart/cart.php:131
+#: woocommerce/cart/cart.php:132
 msgid "Update Cart"
-msgstr ""
-
-#: woocommerce/cart/cross-sells.php:42
-#: woocommerce/single-product/related.php:43
-#: woocommerce/single-product/up-sells.php:42
-msgid "Previous"
-msgstr ""
-
-#: woocommerce/cart/cross-sells.php:43
-msgid "You may be interested in&hellip;"
 msgstr ""
 
 #: woocommerce/cart/cross-sells.php:44
 #: woocommerce/single-product/related.php:45
-#: woocommerce/single-product/up-sells.php:44
+#: woocommerce/single-product/up-sells.php:45
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:45
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:46
+#: woocommerce/single-product/related.php:47
+#: woocommerce/single-product/up-sells.php:47
 msgid "Next"
 msgstr ""
 
-#: woocommerce/cart/mini-cart.php:49
-msgid "No products in the cart."
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:57
-msgid "Subtotal"
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:62
-msgid "View Cart"
-msgstr ""
-
-#: woocommerce/cart/mini-cart.php:63
-msgid "Checkout"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:20
-msgid "Calculate Shipping"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:26
-msgid "Select a country&hellip;"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:43
-#: woocommerce/cart/shipping-calculator.php:49
-#: woocommerce/cart/shipping-calculator.php:61
-msgid "State / county"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:50
-msgid "Select a state&hellip;"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:70
-msgid "City"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:78
-msgid "Postcode / Zip"
-msgstr ""
-
-#: woocommerce/cart/shipping-calculator.php:83
-msgid "Update Totals"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:15
-msgid "Billing &amp; Shipping"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:19
-msgid "Billing Details"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:38
-msgid "Create an account?"
-msgstr ""
-
-#: woocommerce/checkout/form-billing.php:49
-msgid ""
-"Create an account by entering the information below. If you are a returning "
-"customer please login at the top of the page."
-msgstr ""
-
-#: woocommerce/checkout/form-checkout.php:18
-msgid "You must be logged in to checkout."
-msgstr ""
-
-#: woocommerce/checkout/form-checkout.php:49
-msgid "Your order"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:17
-#: woocommerce/checkout/review-order.php:18
-#: woocommerce/order/order-details.php:18
-msgid "Product"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:18
-msgid "Qty"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:19
-msgid "Totals"
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:76
-msgid ""
-"Sorry, it seems that there are no available payment methods for your "
-"location. Please contact us if you require assistance or wish to make "
-"alternate arrangements."
-msgstr ""
-
-#: woocommerce/checkout/form-pay.php:86
-msgid "Pay for order"
-msgstr ""
-
-#: woocommerce/checkout/form-shipping.php:30
+#: woocommerce/checkout/form-shipping.php:33
 msgid "Ship to a different address?"
 msgstr ""
 
-#: woocommerce/checkout/form-shipping.php:33
+#: woocommerce/checkout/form-shipping.php:36
 msgid "Shipping Details"
 msgstr ""
 
-#: woocommerce/checkout/form-shipping.php:57
-#: woocommerce/single-product/tabs/additional-information.php:17
+#: woocommerce/checkout/form-shipping.php:60
 msgid "Additional Information"
 msgstr ""
 
-#: woocommerce/checkout/review-order.php:19
-#: woocommerce/myaccount/my-orders.php:35
-#: woocommerce/order/order-details.php:19
-msgid "Total"
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:150
-msgid "Please fill in your details above to see available payment methods."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:152
-msgid ""
-"Sorry, it seems that there are no available payment methods for your state. "
-"Please contact us if you require assistance or wish to make alternate "
-"arrangements."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:163
-msgid ""
-"Since your browser does not support JavaScript, or it is disabled, please "
-"ensure you click the <em>Update Totals</em> button before placing your "
-"order. You may be charged more than the amount stated above if you fail to "
-"do so."
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:163
-msgid "Update totals"
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:170
-msgid "Place order"
-msgstr ""
-
-#: woocommerce/checkout/review-order.php:179
-#, php-format
-msgid ""
-"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
-"conditions</a>"
-msgstr ""
-
-#: woocommerce/checkout/thankyou.php:16
+#: woocommerce/checkout/thankyou.php:18
 msgid ""
 "Unfortunately your order cannot be processed as the originating bank/"
 "merchant has declined your transaction."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:20
+#: woocommerce/checkout/thankyou.php:22
 msgid "Please attempt your purchase again or go to your account page."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:22
+#: woocommerce/checkout/thankyou.php:24
 msgid "Please attempt your purchase again."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:26 woocommerce/myaccount/my-orders.php:73
+#: woocommerce/checkout/thankyou.php:28
 msgid "Pay"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:34 woocommerce/checkout/thankyou.php:65
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
 msgid "Thank you. Your order has been received."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:38 woocommerce/myaccount/my-orders.php:48
-msgid "Order:"
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:42 woocommerce/myaccount/my-orders.php:54
+#: woocommerce/checkout/thankyou.php:44
 msgid "Date:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:46 woocommerce/myaccount/my-orders.php:62
+#: woocommerce/checkout/thankyou.php:48
 msgid "Total:"
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:51
-msgid "Payment method:"
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:17 woocommerce/loop/add-to-cart.php:47
-#: woocommerce/loop/add-to-cart.php:60
+#: woocommerce/loop/add-to-cart.php:19 woocommerce/loop/add-to-cart.php:49
+#: woocommerce/loop/add-to-cart.php:62
 msgid "Read More"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:34
+#: woocommerce/loop/add-to-cart.php:36
 msgid "Select options"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:39
+#: woocommerce/loop/add-to-cart.php:41
 msgid "View options"
 msgstr ""
 
-#: woocommerce/loop/add-to-cart.php:55
+#: woocommerce/loop/add-to-cart.php:57
 msgid "Add to cart"
 msgstr ""
 
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:19
-#: woocommerce/myaccount/my-address.php:25
-#: woocommerce/order/order-details.php:116
-msgid "Billing Address"
-msgstr ""
-
-#: woocommerce/myaccount/form-edit-address.php:16
-#: woocommerce/myaccount/my-address.php:20
-#: woocommerce/order/order-details.php:131
-msgid "Shipping Address"
-msgstr ""
-
-#: woocommerce/myaccount/form-edit-address.php:44
-msgid "Save Address"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:27
-#: woocommerce/myaccount/form-login.php:46
-msgid "Login"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:34
-msgid "Username or email address"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:38
-#: woocommerce/myaccount/form-login.php:95
-msgid "Password"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:48
-msgid "Remember me"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:52
-msgid "Lost your password?"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:65
-#: woocommerce/myaccount/form-login.php:111
-msgid "Register"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:74
-msgid "Username"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:86
-msgid "Email address"
-msgstr ""
-
-#: woocommerce/myaccount/form-login.php:104
-msgid "Anti-spam"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:17
-msgid "My Addresses"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:23
-msgid "My Address"
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:35
-msgid "The following addresses will be used on the checkout page by default."
-msgstr ""
-
-#: woocommerce/myaccount/my-address.php:64
-msgid "You have not set up this type of address yet."
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:26
-msgid "Recent Orders"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:32
-msgid "Order"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:33
-msgid "Date"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:34
-msgid "Status"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:58
-msgid "Status:"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:63
-#, php-format
-msgid "%s for %s item"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:66
-msgid "Actions:"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:80
-msgid "Cancel"
-msgstr ""
-
-#: woocommerce/myaccount/my-orders.php:86
-msgid "View"
-msgstr ""
-
-#: woocommerce/order/order-details.php:14
-msgid "Order Details"
-msgstr ""
-
-#: woocommerce/order/order-details.php:64
-#, php-format
-msgid "Download file%s"
-msgstr ""
-
-#: woocommerce/order/order-details.php:95
-msgid "Customer details"
-msgstr ""
-
-#: woocommerce/order/order-details.php:100
-msgid "Telephone:"
-msgstr ""
-
-#: woocommerce/order/order-details.php:120
-#: woocommerce/order/order-details.php:135
-#: woocommerce/single-product/price.php:22
-msgid "N/A"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:37
+#: woocommerce/single-product-reviews.php:40
 msgid "There are no reviews yet."
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:50
+#: woocommerce/single-product-reviews.php:53
 msgid "Add a review"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:50
+#: woocommerce/single-product-reviews.php:53
 msgid "Be the first to review"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:51
+#: woocommerce/single-product-reviews.php:54
 #, php-format
 msgid "Leave a Reply to %s"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:66
-msgid "Your Rating"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:67
-msgid "Rate&hellip;"
-msgstr ""
-
-#: woocommerce/single-product-reviews.php:68
-msgid "Perfect"
+#: woocommerce/single-product-reviews.php:61
+msgid "E-mail"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:69
-msgid "Good"
+msgid "Your Rating"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:70
-msgid "Average"
+msgid "Rate&hellip;"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:71
-msgid "Not that bad"
+msgid "Perfect"
 msgstr ""
 
 #: woocommerce/single-product-reviews.php:72
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
 msgid "Very Poor"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:76
+#: woocommerce/single-product-reviews.php:79
 msgid "Your Review"
 msgstr ""
 
-#: woocommerce/single-product-reviews.php:85
+#: woocommerce/single-product-reviews.php:88
 msgid ""
 "Only logged in customers who have purchased this product may leave a review."
 msgstr ""
 
-#: woocommerce/single-product/meta.php:22
+#: woocommerce/single-product/meta.php:26
 msgid "<h3 class=\"widget-title\">Tag</h3>"
 msgstr ""
 
-#: woocommerce/single-product/meta.php:28
+#: woocommerce/single-product/meta.php:33
 msgid "<h3 class=\"widget-title\">Category</h3>"
 msgstr ""
 
-#: woocommerce/single-product/price.php:22
+#: woocommerce/single-product/price.php:23
 msgid "SKU:"
 msgstr ""
 
-#: woocommerce/single-product/related.php:44
+#: woocommerce/single-product/price.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/related.php:46
 msgid "Related Products"
 msgstr ""
 
-#: woocommerce/single-product/review.php:26
-#, php-format
-msgid "Rated %d out of 5"
-msgstr ""
-
-#: woocommerce/single-product/review.php:34
-msgid "Your comment is awaiting approval"
-msgstr ""
-
-#: woocommerce/single-product/review.php:43
-msgid "verified owner"
-msgstr ""
-
-#: woocommerce/single-product/tabs/description.php:14
-msgid "Product Description"
-msgstr ""
-
-#: woocommerce/single-product/up-sells.php:43
+#: woocommerce/single-product/up-sells.php:46
 msgid "You May Also Like"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:21
-msgid ""
-"Shows a custom attribute in a widget which lets you narrow down the list of "
-"products when viewing product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:23
-msgid "WooCommerce Layered Nav"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:69
-msgid "Filter by"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:75
-msgid "Attribute"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:81
-msgid "Display type"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:83
-msgid "List"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:84
-msgid "Dropdown"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:90
-msgid "Query type"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:92
-msgid "AND"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:93
-msgid "OR"
-msgstr ""
-
-#: woocommerce/widgets/widget-layered-nav.php:174
-#, php-format
-msgid "Any %s"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:24
-msgid "A list or dropdown of product categories."
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:26
-msgid "WooCommerce Product Categories"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:30
-msgid "Product Categories"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:36
-msgid "Order by"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:38
-msgid "Category Order"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:45
-msgid "Show as dropdown"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:50
-msgid "Show post counts"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:55
-msgid "Show hierarchy"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:60
-msgid "Only show children for the current category"
-msgstr ""
-
-#: woocommerce/widgets/widget-product-categories.php:156
-msgid "No product categories exist."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:21
-msgid "Display a list of your most recent reviews on your site."
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:23
-msgid "WooCommerce Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:27
-msgid "Recent Reviews"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:36
-msgid "Number of reviews to show"
-msgstr ""
-
-#: woocommerce/widgets/widget-recent-reviews.php:87
-#, php-format
-msgid "by %1$s"
 msgstr ""
 
 #: wpml-integration.php:32
