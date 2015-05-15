@@ -7346,8 +7346,8 @@ msgstr[1] ""
 #@ retro
 msgid "<h3 class=\"widget-title\">Category</h3>"
 msgid_plural "<h3 class=\"widget-title\">Categories</h3>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<h3 class=\"widget-title\">Categorie</h3>"
+msgstr[1] "<h3 class=\"widget-title\">Categorieën</h3>"
 
 #: woocommerce/single-product/price.php:22
 #@ woocommerce

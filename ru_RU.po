@@ -7342,17 +7342,17 @@ msgstr ""
 #@ retro
 msgid "<h3 class=\"widget-title\">Tag</h3>"
 msgid_plural "<h3 class=\"widget-title\">Tags</h3>"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<h3 class=\"widget-title\">Тег</h3>"
+msgstr[1] "<h3 class=\"widget-title\">Тега</h3>"
+msgstr[2] "<h3 class=\"widget-title\">Тегов</h3>"
 
 #: woocommerce/single-product/meta.php:28
 #@ retro
 msgid "<h3 class=\"widget-title\">Category</h3>"
 msgid_plural "<h3 class=\"widget-title\">Categories</h3>"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<h3 class=\"widget-title\">Категория</h3>"
+msgstr[1] "<h3 class=\"widget-title\">Категории</h3>"
+msgstr[2] "<h3 class=\"widget-title\">Категорий</h3>"
 
 #: woocommerce/single-product/price.php:22
 #@ woocommerce
